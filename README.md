@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on NLP 
 - 🌱 I’m currently learning C, advanced Python
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 
 <a href="https://github.com/Vyvy-vi/Vyvy-vi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyvy-vi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
