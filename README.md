@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/Tools-DiscordAPI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleAPIs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ScikitLearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-json-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
