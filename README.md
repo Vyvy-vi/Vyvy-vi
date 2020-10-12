@@ -1,5 +1,8 @@
 ### Hello World!
 
+<div class="tenor-gif-embed" data-postid="17227247" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/conways-game-of-life-inception-conways-game-of-life-cellular-gif-17227247">Conways Game Of Life GIF</a> from <a href="https://tenor.com/search/conways-gifs">Conways GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+- Currently I am a student.
 - 🔭 I’m currently working on NLP 
 - 🌱 I’m currently learning C, intermediate Python
 
