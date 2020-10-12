@@ -1,6 +1,6 @@
 ### Hello World!
 
-![](https://tenor.com/view/conways-game-of-life-inception-conways-game-of-life-cellular-gif-17227247)
+![](points.gif)
 
 - Currently I am a student.
 - 🔭 I’m currently working on NLP 
