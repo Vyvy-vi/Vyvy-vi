@@ -39,8 +39,8 @@
 
 <details>
   <summary>:zap: PYTHON UPDATES:</summary>
-  <!-- REDDIT:START -->
-  <!-- REDDIT:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
