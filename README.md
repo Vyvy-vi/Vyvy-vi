@@ -37,11 +37,9 @@
 </a>
 
 <details>
-PYTHON UPDATES:
-### lol
+  <summary>:zap: PYTHON UPDATES:</summary>
 </details>
 
-
-
-
-PROBLEM OF THE DAY: 
+<details>
+  <summary>:zap: PROBLEM OF THE DAY:</summary>
+</details>
