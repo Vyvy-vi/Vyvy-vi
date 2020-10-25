@@ -39,11 +39,11 @@
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I want to classify dibatec retinopathy, which transfer learning model I have to use?](https://www.reddit.com/r/Python/comments/jhw5eo/i_want_to_classify_dibatec_retinopathy_which/)
+- [Creating a Vector Class in Python](https://www.reddit.com/r/Python/comments/jhvwqc/creating_a_vector_class_in_python/)
 - [Publishing to PyPI with Poetry](https://www.reddit.com/r/Python/comments/jhuck6/publishing_to_pypi_with_poetry/)
 - [Collection of Python and Machine Learning Tutorials From Absolute Scratch with Projects ⭐](https://www.reddit.com/r/Python/comments/jhu3zh/collection_of_python_and_machine_learning/)
-- [MY GMAIL BOT ( IF WANNA MAKE ONE THEN REFER IF WANNA! )](https://www.reddit.com/r/Python/comments/jhtujp/my_gmail_bot_if_wanna_make_one_then_refer_if_wanna/)
 - [What's the best ODE & PDE solver in Python and why?](https://www.reddit.com/r/Python/comments/jhsv49/whats_the_best_ode_pde_solver_in_python_and_why/)
-- [PyQt5 YouTube Downloader](https://www.reddit.com/r/Python/comments/jhsuqm/pyqt5_youtube_downloader/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
