@@ -39,11 +39,11 @@
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I just came across pipx and it's amazing. I can now easily install and manage standalone python applications in their own isolated environment.](https://www.reddit.com/r/Python/comments/jhzcic/i_just_came_across_pipx_and_its_amazing_i_can_now/)
 - [Simple Genetic Algo](https://www.reddit.com/r/Python/comments/jhy13m/simple_genetic_algo/)
 - [Experimental tool for Python that blurs the line between testing and type systems](https://www.reddit.com/r/Python/comments/jhws23/experimental_tool_for_python_that_blurs_the_line/)
 - [I built a wrapper around Starlette to transform any function into an API in seconds](https://www.reddit.com/r/Python/comments/jhwad0/i_built_a_wrapper_around_starlette_to_transform/)
 - [I want to classify dibatec retinopathy, which transfer learning model I have to use?](https://www.reddit.com/r/Python/comments/jhw5eo/i_want_to_classify_dibatec_retinopathy_which/)
-- [Creating a Vector Class in Python](https://www.reddit.com/r/Python/comments/jhvwqc/creating_a_vector_class_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
