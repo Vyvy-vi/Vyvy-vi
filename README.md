@@ -40,7 +40,12 @@
 <details>
   <summary>:zap: PYTHON UPDATES:</summary>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [How to collect datasets to create graphs and charts](https://www.reddit.com/r/Python/comments/jhpjgu/how_to_collect_datasets_to_create_graphs_and/)
+- [Classifying Radio Signals from Space using Keras in Python - Value ML](https://www.reddit.com/r/Python/comments/jhpgoc/classifying_radio_signals_from_space_using_keras/)
+- [Top 10 Free Books for Machine Learning and Data Science](https://www.reddit.com/r/Python/comments/jhpeiy/top_10_free_books_for_machine_learning_and_data/)
+- [Are the bytecode (.pyc) files that Python stores executed instead of the source file the next time the same script is run?](https://www.reddit.com/r/Python/comments/jhp58a/are_the_bytecode_pyc_files_that_python_stores/)
+- [I created a simple user friendly battle pass calculator](https://www.reddit.com/r/Python/comments/jhoy0b/i_created_a_simple_user_friendly_battle_pass/)
+<!-- BLOG-POST-LIST:END -->
   <!-- <!-- BLOG-POST-LIST::START -->
   <!-- <!-- BLOG-POST-LIST::END -->
 </details>
