@@ -38,6 +38,8 @@
 
 <details>
   <summary>:zap: PYTHON UPDATES:</summary>
+  <!-- REDDIT:START -->
+  <!-- REDDIT:END -->
 </details>
 
 <details>
