@@ -39,11 +39,11 @@
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [i created a discord chatbot using gpt and generative response](https://www.reddit.com/r/Python/comments/jhqr7e/i_created_a_discord_chatbot_using_gpt_and/)
-- [How to collect datasets to create graphs and charts](https://www.reddit.com/r/Python/comments/jhpjgu/how_to_collect_datasets_to_create_graphs_and/)
-- [Classifying Radio Signals from Space using Keras in Python - Value ML](https://www.reddit.com/r/Python/comments/jhpgoc/classifying_radio_signals_from_space_using_keras/)
-- [Top 10 Free Books for Machine Learning and Data Science](https://www.reddit.com/r/Python/comments/jhpeiy/top_10_free_books_for_machine_learning_and_data/)
-- [Are the bytecode (.pyc) files that Python stores executed instead of the source file the next time the same script is run?](https://www.reddit.com/r/Python/comments/jhp58a/are_the_bytecode_pyc_files_that_python_stores/)
+- [Publishing to PyPI with Poetry](https://www.reddit.com/r/Python/comments/jhuck6/publishing_to_pypi_with_poetry/)
+- [Collection of Python and Machine Learning Tutorials From Absolute Scratch with Projects ⭐](https://www.reddit.com/r/Python/comments/jhu3zh/collection_of_python_and_machine_learning/)
+- [MY GMAIL BOT ( IF WANNA MAKE ONE THEN REFER IF WANNA! )](https://www.reddit.com/r/Python/comments/jhtujp/my_gmail_bot_if_wanna_make_one_then_refer_if_wanna/)
+- [What's the best ODE & PDE solver in Python and why?](https://www.reddit.com/r/Python/comments/jhsv49/whats_the_best_ode_pde_solver_in_python_and_why/)
+- [PyQt5 YouTube Downloader](https://www.reddit.com/r/Python/comments/jhsuqm/pyqt5_youtube_downloader/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
