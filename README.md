@@ -39,11 +39,11 @@
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simple Genetic Algo](https://www.reddit.com/r/Python/comments/jhy13m/simple_genetic_algo/)
 - [Experimental tool for Python that blurs the line between testing and type systems](https://www.reddit.com/r/Python/comments/jhws23/experimental_tool_for_python_that_blurs_the_line/)
 - [I built a wrapper around Starlette to transform any function into an API in seconds](https://www.reddit.com/r/Python/comments/jhwad0/i_built_a_wrapper_around_starlette_to_transform/)
 - [I want to classify dibatec retinopathy, which transfer learning model I have to use?](https://www.reddit.com/r/Python/comments/jhw5eo/i_want_to_classify_dibatec_retinopathy_which/)
 - [Creating a Vector Class in Python](https://www.reddit.com/r/Python/comments/jhvwqc/creating_a_vector_class_in_python/)
-- [Publishing to PyPI with Poetry](https://www.reddit.com/r/Python/comments/jhuck6/publishing_to_pypi_with_poetry/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
