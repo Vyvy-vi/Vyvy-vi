@@ -36,9 +36,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vyvy-vi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vyom's GitHub Stats" />
 </a>
 
-
+---
 <details>
   <summary>:zap: PYTHON UPDATES:</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [How to collect datasets to create graphs and charts](https://www.reddit.com/r/Python/comments/jhpjgu/how_to_collect_datasets_to_create_graphs_and/)
 - [Classifying Radio Signals from Space using Keras in Python - Value ML](https://www.reddit.com/r/Python/comments/jhpgoc/classifying_radio_signals_from_space_using_keras/)
@@ -46,9 +47,12 @@
 - [Are the bytecode (.pyc) files that Python stores executed instead of the source file the next time the same script is run?](https://www.reddit.com/r/Python/comments/jhp58a/are_the_bytecode_pyc_files_that_python_stores/)
 - [I created a simple user friendly battle pass calculator](https://www.reddit.com/r/Python/comments/jhoy0b/i_created_a_simple_user_friendly_battle_pass/)
 <!-- BLOG-POST-LIST:END -->
-[lla](https://github.com/Vyvy-vi/Vyvy-vi/edit/main/README.md)
 </details>
 
+---
 <details>
   <summary>:zap: PROBLEM OF THE DAY:</summary>
+
+<!--QOTD:START-->
+<!--QOTD:END-->
 </details>
