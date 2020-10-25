@@ -39,6 +39,77 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 354 Contributions in the Year 2020
+ > 
+> 📦 33.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+🌆 Daytime    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   34.07% 
+🌙 Night      38 commits     ███████░░░░░░░░░░░░░░░░░░   28.15%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
+Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Thursday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+Sunday       45 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Panama
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            ██████████████████████░░░   88.89% 
+Processing               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Vyvy-vi/Vyvy-vi/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
 
