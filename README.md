@@ -46,7 +46,7 @@
 - [Are the bytecode (.pyc) files that Python stores executed instead of the source file the next time the same script is run?](https://www.reddit.com/r/Python/comments/jhp58a/are_the_bytecode_pyc_files_that_python_stores/)
 - [I created a simple user friendly battle pass calculator](https://www.reddit.com/r/Python/comments/jhoy0b/i_created_a_simple_user_friendly_battle_pass/)
 <!-- BLOG-POST-LIST:END -->
-
+[lla](https:google.com/)
 </details>
 
 <details>
