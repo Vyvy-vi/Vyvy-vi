@@ -39,7 +39,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue)
 
 **I'm a Night 🦉** 
 
@@ -67,6 +67,9 @@ Sunday       45 commits     ████████░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 ```
 
 **I Mostly Code in Python** 
