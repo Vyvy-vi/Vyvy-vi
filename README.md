@@ -1,7 +1,5 @@
 ### Hello World!
 
-![](points.gif)
-
 - Currently I am a student.
 - 🔭 I’m currently working on NLP 
 - 🌱 I’m currently learning C, intermediate Python
