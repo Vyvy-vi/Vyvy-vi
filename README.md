@@ -90,11 +90,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Modulo in Practice: How to Use the % Operator – Real Python](https://www.reddit.com/r/Python/comments/jif32q/python_modulo_in_practice_how_to_use_the_operator/)
+- [Python is the most wanted language as per the Stack Overflow 2020 survey. Which Language do you want to learn?](https://www.reddit.com/r/Python/comments/jif0ju/python_is_the_most_wanted_language_as_per_the/)
+- [🎃 >>> from __future__ import braces 😱](https://www.reddit.com/r/Python/comments/jieyp7/from_future_import_braces/)
+- [Unexpected behaviour in Python for list initialization for M = [[0]*(n+1)]*(m+1) vs MM = [[0 for _ in range(n+1)] for _ in range(m+1)]](https://www.reddit.com/r/Python/comments/jiesw3/unexpected_behaviour_in_python_for_list/)
 - [Monitoring Your Internet with Grafana, InfluxDB, Python and Docker](https://www.reddit.com/r/Python/comments/jieb4k/monitoring_your_internet_with_grafana_influxdb/)
-- [5 Projects You Can Build To Become a Better Web Developer](https://www.reddit.com/r/Python/comments/jid6k6/5_projects_you_can_build_to_become_a_better_web/)
-- [Free SQL for Data Analytics course in Jupyter](https://www.reddit.com/r/Python/comments/jid48q/free_sql_for_data_analytics_course_in_jupyter/)
-- [The Aito predictive database Python SDK released](https://www.reddit.com/r/Python/comments/jiczw0/the_aito_predictive_database_python_sdk_released/)
-- [Rues - Real Valued Genetic Algorithms in Python,](https://www.reddit.com/r/Python/comments/jic5ku/rues_real_valued_genetic_algorithms_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
