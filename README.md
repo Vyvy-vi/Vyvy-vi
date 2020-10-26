@@ -91,11 +91,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I just came across pipx and it's amazing. I can now easily install and manage standalone python applications in their own isolated environment.](https://www.reddit.com/r/Python/comments/jhzcic/i_just_came_across_pipx_and_its_amazing_i_can_now/)
-- [Simple Genetic Algo](https://www.reddit.com/r/Python/comments/jhy13m/simple_genetic_algo/)
-- [Experimental tool for Python that blurs the line between testing and type systems](https://www.reddit.com/r/Python/comments/jhws23/experimental_tool_for_python_that_blurs_the_line/)
-- [I built a wrapper around Starlette to transform any function into an API in seconds](https://www.reddit.com/r/Python/comments/jhwad0/i_built_a_wrapper_around_starlette_to_transform/)
-- [I want to classify dibatec retinopathy, which transfer learning model I have to use?](https://www.reddit.com/r/Python/comments/jhw5eo/i_want_to_classify_dibatec_retinopathy_which/)
+- [Excel VBA Macro to Python](https://www.reddit.com/r/Python/comments/ji7625/excel_vba_macro_to_python/)
+- [Python parsing help](https://www.reddit.com/r/Python/comments/ji73vo/python_parsing_help/)
+- [Continue project or drop it? NSFW/SFW Reddit bot.](https://www.reddit.com/r/Python/comments/ji5fke/continue_project_or_drop_it_nsfwsfw_reddit_bot/)
+- [Executing PowerShell from Python • Jamie Phillips](https://www.reddit.com/r/Python/comments/ji4ek9/executing_powershell_from_python_jamie_phillips/)
+- [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/ji45wx/monday_megathread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
