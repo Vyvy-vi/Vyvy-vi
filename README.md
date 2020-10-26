@@ -5,6 +5,7 @@
 - Currently I am a student.
 - 🔭 I’m currently working on NLP 
 - 🌱 I’m currently learning C, intermediate Python
+- FUN FACT: I don't use Arch
 
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
