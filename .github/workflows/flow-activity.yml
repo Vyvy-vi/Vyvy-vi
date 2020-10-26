@@ -18,6 +18,6 @@ jobs:
           SHOW_PROJECTS: True
           SHOW_SHORT_INFO: False
           SHOW_TIMEZONE: False
-          SHOW_OS: False
+          SHOW_OS: True
           SHOW_EDITORS : False
           SHOW_LANGUAGE : False
