@@ -90,11 +90,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Your Internet with Grafana, InfluxDB, Python and Docker](https://www.reddit.com/r/Python/comments/jieb4k/monitoring_your_internet_with_grafana_influxdb/)
 - [5 Projects You Can Build To Become a Better Web Developer](https://www.reddit.com/r/Python/comments/jid6k6/5_projects_you_can_build_to_become_a_better_web/)
 - [Free SQL for Data Analytics course in Jupyter](https://www.reddit.com/r/Python/comments/jid48q/free_sql_for_data_analytics_course_in_jupyter/)
 - [The Aito predictive database Python SDK released](https://www.reddit.com/r/Python/comments/jiczw0/the_aito_predictive_database_python_sdk_released/)
 - [Rues - Real Valued Genetic Algorithms in Python,](https://www.reddit.com/r/Python/comments/jic5ku/rues_real_valued_genetic_algorithms_in_python/)
-- [ML Optimization pt.1 &#x2d; Gradient Descent with Python](https://www.reddit.com/r/Python/comments/jibacp/ml_optimization_pt1_x2d_gradient_descent_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
