@@ -93,11 +93,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I created a sweet visualization using Python to highlight the performance impact of asynchronous sorting for a blog article I wrote. Code linked in comments.](https://www.reddit.com/r/Python/comments/jin3tj/i_created_a_sweet_visualization_using_python_to/)
-- [I'm testing a resource for people new to Python and interested in Natural Language Processing](https://www.reddit.com/r/Python/comments/jimbo4/im_testing_a_resource_for_people_new_to_python/)
-- [why should you use the csv module or panda to read a csv?](https://www.reddit.com/r/Python/comments/jil447/why_should_you_use_the_csv_module_or_panda_to/)
-- [Quickle - A quicker pickle](https://www.reddit.com/r/Python/comments/jiksd3/quickle_a_quicker_pickle/)
-- [It is a surprisingly useful function](https://www.reddit.com/r/Python/comments/jiks64/it_is_a_surprisingly_useful_function/)
+- [Prepare Data for Machine Learning in Python](https://www.reddit.com/r/Python/comments/jiplnj/prepare_data_for_machine_learning_in_python/)
+- [The Python Stack powering Zynga Analytics](https://www.reddit.com/r/Python/comments/jio729/the_python_stack_powering_zynga_analytics/)
+- [Big Data Quality Assurance](https://www.reddit.com/r/Python/comments/jinsoa/big_data_quality_assurance/)
+- [Python Developers Survey 2020](https://www.reddit.com/r/Python/comments/jinrew/python_developers_survey_2020/)
+- [This is my first major project for Python. It is a simple program that checks Best Buy's website every couple of seconds if the RTX 3080 is available. More info here https://github.com/Beck-R/AvailCheckerV1.0](https://www.reddit.com/r/Python/comments/jina9o/this_is_my_first_major_project_for_python_it_is_a/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
