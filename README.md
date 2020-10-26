@@ -90,11 +90,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Rues - Real Valued Genetic Algorithms in Python,](https://www.reddit.com/r/Python/comments/jic5ku/rues_real_valued_genetic_algorithms_in_python/)
 - [ML Optimization pt.1 &#x2d; Gradient Descent with Python](https://www.reddit.com/r/Python/comments/jibacp/ml_optimization_pt1_x2d_gradient_descent_with/)
 - [policratus/pupyl A Python Image Search Library](https://www.reddit.com/r/Python/comments/jiaxvb/policratuspupyl_a_python_image_search_library/)
 - [AiXcoder for python code completion is released](https://www.reddit.com/r/Python/comments/jiat1d/aixcoder_for_python_code_completion_is_released/)
 - [Looking for contributors for AutoML python package](https://www.reddit.com/r/Python/comments/jiakhe/looking_for_contributors_for_automl_python_package/)
-- [Do read my article on "Text Summarization using Python and Transformer"](https://www.reddit.com/r/Python/comments/jiabcn/do_read_my_article_on_text_summarization_using/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
