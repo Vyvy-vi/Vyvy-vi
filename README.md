@@ -90,11 +90,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Excel VBA Macro to Python](https://www.reddit.com/r/Python/comments/ji7625/excel_vba_macro_to_python/)
-- [Python parsing help](https://www.reddit.com/r/Python/comments/ji73vo/python_parsing_help/)
-- [Continue project or drop it? NSFW/SFW Reddit bot.](https://www.reddit.com/r/Python/comments/ji5fke/continue_project_or_drop_it_nsfwsfw_reddit_bot/)
-- [Executing PowerShell from Python • Jamie Phillips](https://www.reddit.com/r/Python/comments/ji4ek9/executing_powershell_from_python_jamie_phillips/)
-- [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/ji45wx/monday_megathread_project_ideas/)
+- [ML Optimization pt.1 &#x2d; Gradient Descent with Python](https://www.reddit.com/r/Python/comments/jibacp/ml_optimization_pt1_x2d_gradient_descent_with/)
+- [policratus/pupyl A Python Image Search Library](https://www.reddit.com/r/Python/comments/jiaxvb/policratuspupyl_a_python_image_search_library/)
+- [AiXcoder for python code completion is released](https://www.reddit.com/r/Python/comments/jiat1d/aixcoder_for_python_code_completion_is_released/)
+- [Looking for contributors for AutoML python package](https://www.reddit.com/r/Python/comments/jiakhe/looking_for_contributors_for_automl_python_package/)
+- [Do read my article on "Text Summarization using Python and Transformer"](https://www.reddit.com/r/Python/comments/jiabcn/do_read_my_article_on_text_summarization_using/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
