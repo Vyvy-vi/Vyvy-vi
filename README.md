@@ -97,11 +97,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Anybody know app to use for programming?](https://www.reddit.com/r/Python/comments/jj6duu/anybody_know_app_to_use_for_programming/)
+- [I wrote a beginner's book about Python. Pay what you like, or nothing.](https://www.reddit.com/r/Python/comments/jj6d01/i_wrote_a_beginners_book_about_python_pay_what/)
+- [I wrote a scraper and did some simple analysis to find out if blockbusters are getting longer](https://www.reddit.com/r/Python/comments/jj6ct2/i_wrote_a_scraper_and_did_some_simple_analysis_to/)
+- [resample v1.0.1: bootstrap and jackknife for beginners and experts](https://www.reddit.com/r/Python/comments/jj50fd/resample_v101_bootstrap_and_jackknife_for/)
 - [Most Subscribed YouTube Music channels](https://www.reddit.com/r/Python/comments/jj372t/most_subscribed_youtube_music_channels/)
-- [Do you need help landing a remote Python job?](https://www.reddit.com/r/Python/comments/jj14vy/do_you_need_help_landing_a_remote_python_job/)
-- [On code isolation in Python](https://www.reddit.com/r/Python/comments/jj0n2p/on_code_isolation_in_python/)
-- [If you want to make a TUI in Python, perhaps this could come in handy](https://www.reddit.com/r/Python/comments/jixva3/if_you_want_to_make_a_tui_in_python_perhaps_this/)
-- [Socket Timeout - Solving a Sometimes Complicated Issue](https://www.reddit.com/r/Python/comments/jixpiz/socket_timeout_solving_a_sometimes_complicated/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
