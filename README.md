@@ -97,11 +97,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [On code isolation in Python](https://www.reddit.com/r/Python/comments/jj0n2p/on_code_isolation_in_python/)
+- [6 Small Projects That Will Boost Your Resume](https://www.reddit.com/r/Python/comments/jj01yn/6_small_projects_that_will_boost_your_resume/)
+- [HOW TO LEARN PYTHON? FAST TRACK!!](https://www.reddit.com/r/Python/comments/jizaas/how_to_learn_python_fast_track/)
 - [Companies that using python](https://www.reddit.com/r/Python/comments/jiy0oq/companies_that_using_python/)
 - [If you want to make a TUI in Python, perhaps this could come in handy](https://www.reddit.com/r/Python/comments/jixva3/if_you_want_to_make_a_tui_in_python_perhaps_this/)
-- [contextfilter logging utility](https://www.reddit.com/r/Python/comments/jix5ay/contextfilter_logging_utility/)
-- [I made a silly discord bot with discordpy. You can invite the bot to your server with this link : https://discord.com/api/oauth2/authorize?client_id=770357270490906654&permissions=0&scope=bot](https://www.reddit.com/r/Python/comments/jiwy27/i_made_a_silly_discord_bot_with_discordpy_you_can/)
-- [My Python Tutorial for Beginners](https://www.reddit.com/r/Python/comments/jivwm3/my_python_tutorial_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
