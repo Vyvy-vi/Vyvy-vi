@@ -93,11 +93,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I recently updated my pandas dataframe GUI so you can easily embed it in your own Flask apps. Here's a quick demo I made. Code linked in comments.](https://www.reddit.com/r/Python/comments/jittwt/i_recently_updated_my_pandas_dataframe_gui_so_you/)
+- [A while back someone made an auto zoom joining script in python using pyautogui, this inspired me to look into scripting in python since i only did some repl.it command line projects before. Turned out fun even if a little sloppy) Feedback is appreciated.](https://www.reddit.com/r/Python/comments/jit2g7/a_while_back_someone_made_an_auto_zoom_joining/)
+- [hsdecks - Hearthstone cli deck tool](https://www.reddit.com/r/Python/comments/jisod5/hsdecks_hearthstone_cli_deck_tool/)
 - [I created my first thing](https://www.reddit.com/r/Python/comments/jiqhew/i_created_my_first_thing/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jiqh93/tuesday_megathread_advanced_questions/)
-- [Prepare Data for Machine Learning in Python](https://www.reddit.com/r/Python/comments/jiplnj/prepare_data_for_machine_learning_in_python/)
-- [The Python Stack powering Zynga Analytics](https://www.reddit.com/r/Python/comments/jio729/the_python_stack_powering_zynga_analytics/)
-- [Big Data Quality Assurance](https://www.reddit.com/r/Python/comments/jinsoa/big_data_quality_assurance/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
