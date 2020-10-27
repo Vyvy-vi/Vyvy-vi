@@ -97,11 +97,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Companies that using python](https://www.reddit.com/r/Python/comments/jiy0oq/companies_that_using_python/)
+- [If you want to make a TUI in Python, perhaps this could come in handy](https://www.reddit.com/r/Python/comments/jixva3/if_you_want_to_make_a_tui_in_python_perhaps_this/)
 - [contextfilter logging utility](https://www.reddit.com/r/Python/comments/jix5ay/contextfilter_logging_utility/)
 - [I made a silly discord bot with discordpy. You can invite the bot to your server with this link : https://discord.com/api/oauth2/authorize?client_id=770357270490906654&permissions=0&scope=bot](https://www.reddit.com/r/Python/comments/jiwy27/i_made_a_silly_discord_bot_with_discordpy_you_can/)
 - [My Python Tutorial for Beginners](https://www.reddit.com/r/Python/comments/jivwm3/my_python_tutorial_for_beginners/)
-- [I recently updated my pandas dataframe GUI so you can easily embed it in your own Flask apps. Here's a quick demo I made. Code linked in comments.](https://www.reddit.com/r/Python/comments/jittwt/i_recently_updated_my_pandas_dataframe_gui_so_you/)
-- [A while back someone made an auto zoom joining script in python using pyautogui, this inspired me to look into scripting in python since i only did some repl.it command line projects before. Turned out fun even if a little sloppy) Feedback is appreciated.](https://www.reddit.com/r/Python/comments/jit2g7/a_while_back_someone_made_an_auto_zoom_joining/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
