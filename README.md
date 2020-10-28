@@ -97,11 +97,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jjd5jx/wednesday_megathread_beginner_questions/)
-- [Nike snkrs bot, possible?](https://www.reddit.com/r/Python/comments/jjcns7/nike_snkrs_bot_possible/)
-- [Function that sets processor affinity to x random cores](https://www.reddit.com/r/Python/comments/jjbwh3/function_that_sets_processor_affinity_to_x_random/)
-- [Create Graphical User Interfaces with Python](https://www.reddit.com/r/Python/comments/jjaeor/create_graphical_user_interfaces_with_python/)
-- [iogf/eacc Python Eacc is a parsing tool it implements a flexible lexer and a straightforward approach to analyze documents](https://www.reddit.com/r/Python/comments/jjaars/iogfeacc_python_eacc_is_a_parsing_tool_it/)
+- [Essential Data Visualization Python Libraries](https://www.reddit.com/r/Python/comments/jjgruv/essential_data_visualization_python_libraries/)
+- [Screenshot Encoder](https://www.reddit.com/r/Python/comments/jjeqgf/screenshot_encoder/)
+- [Books for learning python (Beginner)](https://www.reddit.com/r/Python/comments/jjehqo/books_for_learning_python_beginner/)
+- [Youtube-dl source code encoded completely in two 512x512 images](https://www.reddit.com/r/Python/comments/jjecvw/youtubedl_source_code_encoded_completely_in_two/)
+- [I heard that you can control the mouse/keyboard with Python scripts and have some questions.](https://www.reddit.com/r/Python/comments/jje79w/i_heard_that_you_can_control_the_mousekeyboard/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
