@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Python codes for reading](https://www.reddit.com/r/Python/comments/jjqy9l/python_codes_for_reading/)
-- [Colt Steele's Python3 class](https://www.reddit.com/r/Python/comments/jjqoh3/colt_steeles_python3_class/)
-- [Weather App Tutorial](https://www.reddit.com/r/Python/comments/jjqk32/weather_app_tutorial/)
-- [How to install Python on your iPhone](https://www.reddit.com/r/Python/comments/jjq3fr/how_to_install_python_on_your_iphone/)
-- [What's the 'VIM' IDE all about?](https://www.reddit.com/r/Python/comments/jjpevk/whats_the_vim_ide_all_about/)
+- [pygame 2 is out](https://www.reddit.com/r/Python/comments/jju41h/pygame_2_is_out/)
+- [Well this just absolutely screwed me](https://www.reddit.com/r/Python/comments/jjtaqx/well_this_just_absolutely_screwed_me/)
+- [Pygame 2.0 has been released](https://www.reddit.com/r/Python/comments/jjsmnq/pygame_20_has_been_released/)
+- [Pyston v2: 20% faster Python](https://www.reddit.com/r/Python/comments/jjsii6/pyston_v2_20_faster_python/)
+- [Inject a GUID (Correlation-ID) into every log message in a Django request - Now with ASGI/async support for Django3.1 and 3.2!](https://www.reddit.com/r/Python/comments/jjsgi6/inject_a_guid_correlationid_into_every_log/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
