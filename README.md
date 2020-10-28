@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [[rant] my school](https://www.reddit.com/r/Python/comments/jjj7ae/rant_my_school/)
-- [My first project (webscraping)](https://www.reddit.com/r/Python/comments/jjiitq/my_first_project_webscraping/)
-- [Want to FINISH ? A Feature on your project !!](https://www.reddit.com/r/Python/comments/jjiexq/want_to_finish_a_feature_on_your_project/)
-- [Screenshot Encoder](https://www.reddit.com/r/Python/comments/jjeqgf/screenshot_encoder/)
-- [Books for learning python (Beginner)](https://www.reddit.com/r/Python/comments/jjehqo/books_for_learning_python_beginner/)
+- [Building a recommendation engine inside Postgres with Python and Pandas](https://www.reddit.com/r/Python/comments/jjkn55/building_a_recommendation_engine_inside_postgres/)
+- [How long does it take to get a job as a python developer?](https://www.reddit.com/r/Python/comments/jjk2v9/how_long_does_it_take_to_get_a_job_as_a_python/)
+- [This is a collection of useful scripts from various sources](https://www.reddit.com/r/Python/comments/jjk2lb/this_is_a_collection_of_useful_scripts_from/)
+- [Learn how to automate excel emails with sendgrid](https://www.reddit.com/r/Python/comments/jjjl3s/learn_how_to_automate_excel_emails_with_sendgrid/)
+- [I made a Twitter bot that posts random word definitions](https://www.reddit.com/r/Python/comments/jjjk7z/i_made_a_twitter_bot_that_posts_random_word/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
