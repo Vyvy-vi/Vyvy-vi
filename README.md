@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Building a recommendation engine inside Postgres with Python and Pandas](https://www.reddit.com/r/Python/comments/jjkn55/building_a_recommendation_engine_inside_postgres/)
-- [How long does it take to get a job as a python developer?](https://www.reddit.com/r/Python/comments/jjk2v9/how_long_does_it_take_to_get_a_job_as_a_python/)
-- [This is a collection of useful scripts from various sources](https://www.reddit.com/r/Python/comments/jjk2lb/this_is_a_collection_of_useful_scripts_from/)
-- [Learn how to automate excel emails with sendgrid](https://www.reddit.com/r/Python/comments/jjjl3s/learn_how_to_automate_excel_emails_with_sendgrid/)
-- [I made a Twitter bot that posts random word definitions](https://www.reddit.com/r/Python/comments/jjjk7z/i_made_a_twitter_bot_that_posts_random_word/)
+- [TrustPilot review scraper](https://www.reddit.com/r/Python/comments/jjm9tb/trustpilot_review_scraper/)
+- [Face Recognition with python with 98% accuracy](https://www.reddit.com/r/Python/comments/jjm4f5/face_recognition_with_python_with_98_accuracy/)
+- [Check oout my Python Equation Writer](https://www.reddit.com/r/Python/comments/jjltkc/check_oout_my_python_equation_writer/)
+- [Python script to organize files in windows](https://www.reddit.com/r/Python/comments/jjlbbp/python_script_to_organize_files_in_windows/)
+- [How to auto change desktop wallpaper every minute using Python - A beginner's tutorial](https://www.reddit.com/r/Python/comments/jjladk/how_to_auto_change_desktop_wallpaper_every_minute/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
