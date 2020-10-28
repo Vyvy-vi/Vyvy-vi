@@ -1,8 +1,8 @@
 ### Hello World!
 
 - Currently I am a student.
-- 🔭 I’m currently working on my github actions and my profile-readme 
-- 🌱 I’m currently learning C, intermediate Python
+- 🔭 I’m currently working on my github actions and my profile-readme. 
+- 🌱 I’m currently learning C, intermediate Python.
 - 🌱 I’m learning how to make better documentation.
 - 🌱 I’m learning how to automate my github flow.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
