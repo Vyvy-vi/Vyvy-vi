@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [TrustPilot review scraper](https://www.reddit.com/r/Python/comments/jjm9tb/trustpilot_review_scraper/)
-- [Face Recognition with python with 98% accuracy](https://www.reddit.com/r/Python/comments/jjm4f5/face_recognition_with_python_with_98_accuracy/)
-- [Check oout my Python Equation Writer](https://www.reddit.com/r/Python/comments/jjltkc/check_oout_my_python_equation_writer/)
-- [Python script to organize files in windows](https://www.reddit.com/r/Python/comments/jjlbbp/python_script_to_organize_files_in_windows/)
-- [How to auto change desktop wallpaper every minute using Python - A beginner's tutorial](https://www.reddit.com/r/Python/comments/jjladk/how_to_auto_change_desktop_wallpaper_every_minute/)
+- [Python codes for reading](https://www.reddit.com/r/Python/comments/jjqy9l/python_codes_for_reading/)
+- [Colt Steele's Python3 class](https://www.reddit.com/r/Python/comments/jjqoh3/colt_steeles_python3_class/)
+- [Weather App Tutorial](https://www.reddit.com/r/Python/comments/jjqk32/weather_app_tutorial/)
+- [How to install Python on your iPhone](https://www.reddit.com/r/Python/comments/jjq3fr/how_to_install_python_on_your_iphone/)
+- [What's the 'VIM' IDE all about?](https://www.reddit.com/r/Python/comments/jjpevk/whats_the_vim_ide_all_about/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
