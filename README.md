@@ -97,11 +97,11 @@ Swift                    1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Udemy Together: Earn Udemy Certificates For Free on Some Paid Python Courses During the Coronavirus Epidemic. Enroll today and Get Premium Python Courses for Free.](https://www.reddit.com/r/Python/comments/jj74o5/udemy_together_earn_udemy_certificates_for_free/)
-- [Anybody know app to use for programming?](https://www.reddit.com/r/Python/comments/jj6duu/anybody_know_app_to_use_for_programming/)
-- [I wrote a beginner's book about Python. Pay what you like, or nothing.](https://www.reddit.com/r/Python/comments/jj6d01/i_wrote_a_beginners_book_about_python_pay_what/)
-- [I wrote a scraper and did some simple analysis to find out if blockbusters are getting longer](https://www.reddit.com/r/Python/comments/jj6ct2/i_wrote_a_scraper_and_did_some_simple_analysis_to/)
-- [resample v1.0.1: bootstrap and jackknife for beginners and experts](https://www.reddit.com/r/Python/comments/jj50fd/resample_v101_bootstrap_and_jackknife_for/)
+- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jjd5jx/wednesday_megathread_beginner_questions/)
+- [Nike snkrs bot, possible?](https://www.reddit.com/r/Python/comments/jjcns7/nike_snkrs_bot_possible/)
+- [Function that sets processor affinity to x random cores](https://www.reddit.com/r/Python/comments/jjbwh3/function_that_sets_processor_affinity_to_x_random/)
+- [Create Graphical User Interfaces with Python](https://www.reddit.com/r/Python/comments/jjaeor/create_graphical_user_interfaces_with_python/)
+- [iogf/eacc Python Eacc is a parsing tool it implements a flexible lexer and a straightforward approach to analyze documents](https://www.reddit.com/r/Python/comments/jjaars/iogfeacc_python_eacc_is_a_parsing_tool_it/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
