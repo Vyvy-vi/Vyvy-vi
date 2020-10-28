@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Essential Data Visualization Python Libraries](https://www.reddit.com/r/Python/comments/jjgruv/essential_data_visualization_python_libraries/)
+- [[rant] my school](https://www.reddit.com/r/Python/comments/jjj7ae/rant_my_school/)
+- [My first project (webscraping)](https://www.reddit.com/r/Python/comments/jjiitq/my_first_project_webscraping/)
+- [Want to FINISH ? A Feature on your project !!](https://www.reddit.com/r/Python/comments/jjiexq/want_to_finish_a_feature_on_your_project/)
 - [Screenshot Encoder](https://www.reddit.com/r/Python/comments/jjeqgf/screenshot_encoder/)
 - [Books for learning python (Beginner)](https://www.reddit.com/r/Python/comments/jjehqo/books_for_learning_python_beginner/)
-- [Youtube-dl source code encoded completely in two 512x512 images](https://www.reddit.com/r/Python/comments/jjecvw/youtubedl_source_code_encoded_completely_in_two/)
-- [I heard that you can control the mouse/keyboard with Python scripts and have some questions.](https://www.reddit.com/r/Python/comments/jje79w/i_heard_that_you_can_control_the_mousekeyboard/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
