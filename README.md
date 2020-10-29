@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [ML pipeline + tracking frameworks guide](https://www.reddit.com/r/Python/comments/jke54d/ml_pipeline_tracking_frameworks_guide/)
-- [Demo of how to generate code walkthrough videos with Python and Manim](https://www.reddit.com/r/Python/comments/jke4of/demo_of_how_to_generate_code_walkthrough_videos/)
-- [Source Code Poetry](https://www.reddit.com/r/Python/comments/jkdm3g/source_code_poetry/)
-- [fsutil - file-system utilities for lazy devs. 🧟‍♂️](https://www.reddit.com/r/Python/comments/jkd6va/fsutil_filesystem_utilities_for_lazy_devs/)
-- [Not just for Django: the Django Girls tutorial is an excellent and hospitable Python introduction](https://www.reddit.com/r/Python/comments/jkb80z/not_just_for_django_the_django_girls_tutorial_is/)
+- [Need your guidance as I am a beginner and starting my data science journey. Can anyone recommend good resources to learn python. Thank You](https://www.reddit.com/r/Python/comments/jkhuhj/need_your_guidance_as_i_am_a_beginner_and/)
+- [Mini Neural Networks in 100% Python](https://www.reddit.com/r/Python/comments/jkhtqw/mini_neural_networks_in_100_python/)
+- [On Eulers pentagonal reduction of the partition function.](https://www.reddit.com/r/Python/comments/jkgz7i/on_eulers_pentagonal_reduction_of_the_partition/)
+- [Get Stack Trace Without Crashing Program](https://www.reddit.com/r/Python/comments/jkgstj/get_stack_trace_without_crashing_program/)
+- [Testing code. To IDE or not to IDE.](https://www.reddit.com/r/Python/comments/jkgq7r/testing_code_to_ide_or_not_to_ide/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
