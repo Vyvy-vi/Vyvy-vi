@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I made a Twitter library to manage threads.](https://www.reddit.com/r/Python/comments/jk8ld2/i_made_a_twitter_library_to_manage_threads/)
-- [Free Python Tutorial](https://www.reddit.com/r/Python/comments/jk6r6o/free_python_tutorial/)
-- [Python Frameworks for Web Development you should know in 2020 - Aalpha](https://www.reddit.com/r/Python/comments/jk62b9/python_frameworks_for_web_development_you_should/)
-- [Is there an alternative to https://notebooks.ai/?](https://www.reddit.com/r/Python/comments/jk5xhi/is_there_an_alternative_to_httpsnotebooksai/)
-- [What project do you recommend after finishing basic -s](https://www.reddit.com/r/Python/comments/jk5g2w/what_project_do_you_recommend_after_finishing/)
+- [Not just for Django: the Django Girls tutorial is an excellent and hospitable Python introduction](https://www.reddit.com/r/Python/comments/jkb80z/not_just_for_django_the_django_girls_tutorial_is/)
+- [VS Code or PyCharm?](https://www.reddit.com/r/Python/comments/jkb80n/vs_code_or_pycharm/)
+- [A simple framework for assessing the impact of multiprocessing on run time on a multi-core machine.](https://www.reddit.com/r/Python/comments/jkabto/a_simple_framework_for_assessing_the_impact_of/)
+- [Will learning python be important for cybersecurity](https://www.reddit.com/r/Python/comments/jk9t93/will_learning_python_be_important_for/)
+- [Hands-On Guide To Different Tokenization Methods In NLP](https://www.reddit.com/r/Python/comments/jk9rl8/handson_guide_to_different_tokenization_methods/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
