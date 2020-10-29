@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [pygame 2 is out](https://www.reddit.com/r/Python/comments/jju41h/pygame_2_is_out/)
-- [Well this just absolutely screwed me](https://www.reddit.com/r/Python/comments/jjtaqx/well_this_just_absolutely_screwed_me/)
-- [Pygame 2.0 has been released](https://www.reddit.com/r/Python/comments/jjsmnq/pygame_20_has_been_released/)
-- [Pyston v2: 20% faster Python](https://www.reddit.com/r/Python/comments/jjsii6/pyston_v2_20_faster_python/)
-- [Inject a GUID (Correlation-ID) into every log message in a Django request - Now with ASGI/async support for Django3.1 and 3.2!](https://www.reddit.com/r/Python/comments/jjsgi6/inject_a_guid_correlationid_into_every_log/)
+- [Web scraping wolframalpha](https://www.reddit.com/r/Python/comments/jk0ao9/web_scraping_wolframalpha/)
+- [How did you started learning Python?](https://www.reddit.com/r/Python/comments/jk0a54/how_did_you_started_learning_python/)
+- [How did you start your Python Journey?](https://www.reddit.com/r/Python/comments/jk08f8/how_did_you_start_your_python_journey/)
+- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jjzhtl/thursday_megathread_python_careers/)
+- [what is the time complexity of accessing an item in a list](https://www.reddit.com/r/Python/comments/jjw9ms/what_is_the_time_complexity_of_accessing_an_item/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
