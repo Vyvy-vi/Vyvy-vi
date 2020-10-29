@@ -100,10 +100,10 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How do you write integration tests?](https://www.reddit.com/r/Python/comments/jkjyuu/how_do_you_write_integration_tests/)
+- [Bakery, a potential alternative to "sh" by amofat!](https://www.reddit.com/r/Python/comments/jkiwji/bakery_a_potential_alternative_to_sh_by_amofat/)
 - [Need your guidance as I am a beginner and starting my data science journey. Can anyone recommend good resources to learn python. Thank You](https://www.reddit.com/r/Python/comments/jkhuhj/need_your_guidance_as_i_am_a_beginner_and/)
-- [Mini Neural Networks in 100% Python](https://www.reddit.com/r/Python/comments/jkhtqw/mini_neural_networks_in_100_python/)
 - [On Eulers pentagonal reduction of the partition function.](https://www.reddit.com/r/Python/comments/jkgz7i/on_eulers_pentagonal_reduction_of_the_partition/)
-- [Get Stack Trace Without Crashing Program](https://www.reddit.com/r/Python/comments/jkgstj/get_stack_trace_without_crashing_program/)
 - [Testing code. To IDE or not to IDE.](https://www.reddit.com/r/Python/comments/jkgq7r/testing_code_to_ide_or_not_to_ide/)
 <!-- BLOG-POST-LIST:END -->
 </details>
