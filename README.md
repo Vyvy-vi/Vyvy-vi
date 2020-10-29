@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Frameworks for Web Development you should know in 2020 - Aalpha](https://www.reddit.com/r/Python/comments/jk62b9/python_frameworks_for_web_development_you_should/)
+- [Is there an alternative to https://notebooks.ai/?](https://www.reddit.com/r/Python/comments/jk5xhi/is_there_an_alternative_to_httpsnotebooksai/)
 - [What project do you recommend after finishing basic -s](https://www.reddit.com/r/Python/comments/jk5g2w/what_project_do_you_recommend_after_finishing/)
 - [Python Google Map Scraper | Python](https://www.reddit.com/r/Python/comments/jk459b/python_google_map_scraper_python/)
 - [Free Python Tutorial](https://www.reddit.com/r/Python/comments/jk3yww/free_python_tutorial/)
-- [A python script that draws domain colored images of complex functions](https://www.reddit.com/r/Python/comments/jk266t/a_python_script_that_draws_domain_colored_images/)
-- [Unsilence - Console Interface and Library to remove silent parts of a media file 🔈](https://www.reddit.com/r/Python/comments/jk1ndi/unsilence_console_interface_and_library_to_remove/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
