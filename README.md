@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Web scraping wolframalpha](https://www.reddit.com/r/Python/comments/jk0ao9/web_scraping_wolframalpha/)
-- [How did you started learning Python?](https://www.reddit.com/r/Python/comments/jk0a54/how_did_you_started_learning_python/)
-- [How did you start your Python Journey?](https://www.reddit.com/r/Python/comments/jk08f8/how_did_you_start_your_python_journey/)
-- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jjzhtl/thursday_megathread_python_careers/)
-- [what is the time complexity of accessing an item in a list](https://www.reddit.com/r/Python/comments/jjw9ms/what_is_the_time_complexity_of_accessing_an_item/)
+- [Python vs R](https://www.reddit.com/r/Python/comments/jk1ntv/python_vs_r/)
+- [Unsilence - Console Interface and Library to remove silent parts of a media file 🔈](https://www.reddit.com/r/Python/comments/jk1ndi/unsilence_console_interface_and_library_to_remove/)
+- [Poshpy: Easier PowerShelling from Python • Jamie Phillips](https://www.reddit.com/r/Python/comments/jk19yk/poshpy_easier_powershelling_from_python_jamie/)
+- [Python global in-memory configuration module (in 10 lines of code).](https://www.reddit.com/r/Python/comments/jk0zlb/python_global_inmemory_configuration_module_in_10/)
+- [Version 3.0 of my wallpaper changer for Spotify & Last.fm now creates gradients from album covers](https://www.reddit.com/r/Python/comments/jk0u1h/version_30_of_my_wallpaper_changer_for_spotify/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
