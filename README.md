@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [ML pipeline + tracking frameworks guide](https://www.reddit.com/r/Python/comments/jke54d/ml_pipeline_tracking_frameworks_guide/)
+- [Demo of how to generate code walkthrough videos with Python and Manim](https://www.reddit.com/r/Python/comments/jke4of/demo_of_how_to_generate_code_walkthrough_videos/)
+- [Source Code Poetry](https://www.reddit.com/r/Python/comments/jkdm3g/source_code_poetry/)
+- [fsutil - file-system utilities for lazy devs. 🧟‍♂️](https://www.reddit.com/r/Python/comments/jkd6va/fsutil_filesystem_utilities_for_lazy_devs/)
 - [Not just for Django: the Django Girls tutorial is an excellent and hospitable Python introduction](https://www.reddit.com/r/Python/comments/jkb80z/not_just_for_django_the_django_girls_tutorial_is/)
-- [VS Code or PyCharm?](https://www.reddit.com/r/Python/comments/jkb80n/vs_code_or_pycharm/)
-- [A simple framework for assessing the impact of multiprocessing on run time on a multi-core machine.](https://www.reddit.com/r/Python/comments/jkabto/a_simple_framework_for_assessing_the_impact_of/)
-- [Will learning python be important for cybersecurity](https://www.reddit.com/r/Python/comments/jk9t93/will_learning_python_be_important_for/)
-- [Hands-On Guide To Different Tokenization Methods In NLP](https://www.reddit.com/r/Python/comments/jk9rl8/handson_guide_to_different_tokenization_methods/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
