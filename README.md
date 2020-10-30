@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [How do you write integration tests?](https://www.reddit.com/r/Python/comments/jkjyuu/how_do_you_write_integration_tests/)
+- [Scrape Instagram data with instascrape](https://www.reddit.com/r/Python/comments/jkm3a1/scrape_instagram_data_with_instascrape/)
+- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jklzfi/friday_megathread_free_chat_friday/)
+- [Python coding at Source Code Poetry!](https://www.reddit.com/r/Python/comments/jkkqfc/python_coding_at_source_code_poetry/)
 - [Bakery, a potential alternative to "sh" by amofat!](https://www.reddit.com/r/Python/comments/jkiwji/bakery_a_potential_alternative_to_sh_by_amofat/)
 - [Need your guidance as I am a beginner and starting my data science journey. Can anyone recommend good resources to learn python. Thank You](https://www.reddit.com/r/Python/comments/jkhuhj/need_your_guidance_as_i_am_a_beginner_and/)
-- [On Eulers pentagonal reduction of the partition function.](https://www.reddit.com/r/Python/comments/jkgz7i/on_eulers_pentagonal_reduction_of_the_partition/)
-- [Testing code. To IDE or not to IDE.](https://www.reddit.com/r/Python/comments/jkgq7r/testing_code_to_ide_or_not_to_ide/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
