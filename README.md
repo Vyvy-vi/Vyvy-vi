@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Invite to GPT-2 Reddit Chatbot project (Intermediate Python)](https://www.reddit.com/r/Python/comments/jkmquu/invite_to_gpt2_reddit_chatbot_project/)
 - [Scrape Instagram data with instascrape](https://www.reddit.com/r/Python/comments/jkm3a1/scrape_instagram_data_with_instascrape/)
 - [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jklzfi/friday_megathread_free_chat_friday/)
 - [Python coding at Source Code Poetry!](https://www.reddit.com/r/Python/comments/jkkqfc/python_coding_at_source_code_poetry/)
 - [Bakery, a potential alternative to "sh" by amofat!](https://www.reddit.com/r/Python/comments/jkiwji/bakery_a_potential_alternative_to_sh_by_amofat/)
-- [Need your guidance as I am a beginner and starting my data science journey. Can anyone recommend good resources to learn python. Thank You](https://www.reddit.com/r/Python/comments/jkhuhj/need_your_guidance_as_i_am_a_beginner_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
