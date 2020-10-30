@@ -100,11 +100,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [mltype - CLI for improving typing skills](https://www.reddit.com/r/Python/comments/jknz5h/mltype_cli_for_improving_typing_skills/)
-- [Invite to GPT-2 Reddit Chatbot project (Intermediate Python)](https://www.reddit.com/r/Python/comments/jkmquu/invite_to_gpt2_reddit_chatbot_project/)
-- [Scrape Instagram data with instascrape](https://www.reddit.com/r/Python/comments/jkm3a1/scrape_instagram_data_with_instascrape/)
-- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jklzfi/friday_megathread_free_chat_friday/)
-- [Python coding at Source Code Poetry!](https://www.reddit.com/r/Python/comments/jkkqfc/python_coding_at_source_code_poetry/)
+- [Automation project idea / brainstorming](https://www.reddit.com/r/Python/comments/jkspfa/automation_project_idea_brainstorming/)
+- [If you use Github Actions and Poetry, try my new install-poetry action!](https://www.reddit.com/r/Python/comments/jkslzc/if_you_use_github_actions_and_poetry_try_my_new/)
+- [I built a state monitor using Python+Flask!](https://www.reddit.com/r/Python/comments/jksfg5/i_built_a_state_monitor_using_pythonflask/)
+- [Made a color picker to get any color on the screen](https://www.reddit.com/r/Python/comments/jks6sp/made_a_color_picker_to_get_any_color_on_the_screen/)
+- [First real project: PDF Editor in Python (appreciate your feedback)](https://www.reddit.com/r/Python/comments/jkrpno/first_real_project_pdf_editor_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
