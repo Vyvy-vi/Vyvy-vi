@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Automation project idea / brainstorming](https://www.reddit.com/r/Python/comments/jkspfa/automation_project_idea_brainstorming/)
-- [If you use Github Actions and Poetry, try my new install-poetry action!](https://www.reddit.com/r/Python/comments/jkslzc/if_you_use_github_actions_and_poetry_try_my_new/)
-- [I built a state monitor using Python+Flask!](https://www.reddit.com/r/Python/comments/jksfg5/i_built_a_state_monitor_using_pythonflask/)
-- [Made a color picker to get any color on the screen](https://www.reddit.com/r/Python/comments/jks6sp/made_a_color_picker_to_get_any_color_on_the_screen/)
-- [First real project: PDF Editor in Python (appreciate your feedback)](https://www.reddit.com/r/Python/comments/jkrpno/first_real_project_pdf_editor_in_python/)
+- [Tensorflow](https://www.reddit.com/r/Python/comments/jkwf2t/tensorflow/)
+- [Deepnote – a Python notebook with real-time collaboration in the browser. We just opened the platform to the public.](https://www.reddit.com/r/Python/comments/jkw8tr/deepnote_a_python_notebook_with_realtime/)
+- [Reality as a Service: my friends and I built a system that lets you submit your python code to run our robots, right now!](https://www.reddit.com/r/Python/comments/jkw8l7/reality_as_a_service_my_friends_and_i_built_a/)
+- [Path Finding Algorithm Basics: The A* Algorithm in 10 Min](https://www.reddit.com/r/Python/comments/jkvu8y/path_finding_algorithm_basics_the_a_algorithm_in/)
+- [Zip y unzip en python](https://www.reddit.com/r/Python/comments/jkvmc9/zip_y_unzip_en_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
