@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I've made some useful functions for scrape.](https://www.reddit.com/r/Python/comments/jkx840/ive_made_some_useful_functions_for_scrape/)
-- [Tensorflow](https://www.reddit.com/r/Python/comments/jkwf2t/tensorflow/)
-- [Deepnote – a Python notebook with real-time collaboration in the browser. We just opened the platform to the public.](https://www.reddit.com/r/Python/comments/jkw8tr/deepnote_a_python_notebook_with_realtime/)
-- [Reality as a Service: my friends and I built a system that lets you submit your python code to run our robots, right now!](https://www.reddit.com/r/Python/comments/jkw8l7/reality_as_a_service_my_friends_and_i_built_a/)
-- [Path Finding Algorithm Basics: The A* Algorithm in 10 Min](https://www.reddit.com/r/Python/comments/jkvu8y/path_finding_algorithm_basics_the_a_algorithm_in/)
+- [Made a "Guess the Number" game.](https://www.reddit.com/r/Python/comments/jl0z4m/made_a_guess_the_number_game/)
+- [Best IDE / Text Editor for Python?](https://www.reddit.com/r/Python/comments/jl0q4l/best_ide_text_editor_for_python/)
+- [scrap data from a script tag](https://www.reddit.com/r/Python/comments/jkzjmr/scrap_data_from_a_script_tag/)
+- [Understanding python decorators with step by step examples](https://www.reddit.com/r/Python/comments/jkzdgb/understanding_python_decorators_with_step_by_step/)
+- [Browser Automation with Python and Selenium](https://www.reddit.com/r/Python/comments/jkxtep/browser_automation_with_python_and_selenium/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
