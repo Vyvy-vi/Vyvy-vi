@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Made a "Guess the Number" game.](https://www.reddit.com/r/Python/comments/jl0z4m/made_a_guess_the_number_game/)
-- [Best IDE / Text Editor for Python?](https://www.reddit.com/r/Python/comments/jl0q4l/best_ide_text_editor_for_python/)
-- [scrap data from a script tag](https://www.reddit.com/r/Python/comments/jkzjmr/scrap_data_from_a_script_tag/)
-- [Understanding python decorators with step by step examples](https://www.reddit.com/r/Python/comments/jkzdgb/understanding_python_decorators_with_step_by_step/)
-- [Browser Automation with Python and Selenium](https://www.reddit.com/r/Python/comments/jkxtep/browser_automation_with_python_and_selenium/)
+- [Free Python Programming Course on Udemy!](https://www.reddit.com/r/Python/comments/jl5uxv/free_python_programming_course_on_udemy/)
+- [Editing excel with python ??](https://www.reddit.com/r/Python/comments/jl5awd/editing_excel_with_python/)
+- [Pastebin from the command line](https://www.reddit.com/r/Python/comments/jl588j/pastebin_from_the_command_line/)
+- [N+1 Problems are a major performance problem when using an orm such as django-orm if it is not targeted well. So I have created a package to solve the problem for django-orm. It automatically creates an optimized query for a rest-framework serializer.](https://www.reddit.com/r/Python/comments/jl4nb6/n1_problems_are_a_major_performance_problem_when/)
+- [List Comprehensions - for-loops in one-line; a way to think about list comprehensions.](https://www.reddit.com/r/Python/comments/jl35e3/list_comprehensions_forloops_in_oneline_a_way_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
