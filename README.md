@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I've made some useful functions for scrape.](https://www.reddit.com/r/Python/comments/jkx840/ive_made_some_useful_functions_for_scrape/)
 - [Tensorflow](https://www.reddit.com/r/Python/comments/jkwf2t/tensorflow/)
 - [Deepnote – a Python notebook with real-time collaboration in the browser. We just opened the platform to the public.](https://www.reddit.com/r/Python/comments/jkw8tr/deepnote_a_python_notebook_with_realtime/)
 - [Reality as a Service: my friends and I built a system that lets you submit your python code to run our robots, right now!](https://www.reddit.com/r/Python/comments/jkw8l7/reality_as_a_service_my_friends_and_i_built_a/)
 - [Path Finding Algorithm Basics: The A* Algorithm in 10 Min](https://www.reddit.com/r/Python/comments/jkvu8y/path_finding_algorithm_basics_the_a_algorithm_in/)
-- [Zip y unzip en python](https://www.reddit.com/r/Python/comments/jkvmc9/zip_y_unzip_en_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
