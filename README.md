@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [CSV - Copy Certain Columns From One CV to Another](https://www.reddit.com/r/Python/comments/jlo5hd/csv_copy_certain_columns_from_one_cv_to_another/)
+- [Question on assignments in Python3: What is the value of b after changing the value of a ?](https://www.reddit.com/r/Python/comments/jlngf1/question_on_assignments_in_python3_what_is_the/)
 - [Directory Fuzzing](https://www.reddit.com/r/Python/comments/jlmkt6/directory_fuzzing/)
 - [SolarY - A Solar System / Space Science Python Library](https://www.reddit.com/r/Python/comments/jlmcqa/solary_a_solar_system_space_science_python_library/)
 - [I made an image to ASCII converter using PIL!](https://www.reddit.com/r/Python/comments/jllt9f/i_made_an_image_to_ascii_converter_using_pil/)
-- [Know what is web scraping with python](https://www.reddit.com/r/Python/comments/jll51a/know_what_is_web_scraping_with_python/)
-- [I made a jobboard in Python / Django](https://www.reddit.com/r/Python/comments/jlkgfy/i_made_a_jobboard_in_python_django/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
