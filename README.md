@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Introducing igel: a delightful machine learning tool that allows you to train, test and use models without writing code. (Usage from terminal or a GUI)](https://www.reddit.com/r/Python/comments/jlisb2/introducing_igel_a_delightful_machine_learning/)
+- [Python behind the scenes #4: how Python bytecode is executed](https://www.reddit.com/r/Python/comments/jlhmuz/python_behind_the_scenes_4_how_python_bytecode_is/)
 - [How would you suggest to learn Python programming you to actually land a job after?](https://www.reddit.com/r/Python/comments/jlhcou/how_would_you_suggest_to_learn_python_programming/)
 - [Managing a Django Project with Poetry](https://www.reddit.com/r/Python/comments/jlgw61/managing_a_django_project_with_poetry/)
-- [Projects that will definitely help you in learning Python and land you a jon](https://www.reddit.com/r/Python/comments/jlg5hh/projects_that_will_definitely_help_you_in/)
 - [py.checkio.org makes me feel pleasantly ignorant](https://www.reddit.com/r/Python/comments/jlg47f/pycheckioorg_makes_me_feel_pleasantly_ignorant/)
-- [Mypy 0.790 Released](https://www.reddit.com/r/Python/comments/jlg1e4/mypy_0790_released/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
