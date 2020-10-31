@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [How To Install Python 3.9 On Mac](https://www.reddit.com/r/Python/comments/jle52h/how_to_install_python_39_on_mac/)
-- [Multiple Linear Regression Machine Learning Algorithm in Python and Sklearn](https://www.reddit.com/r/Python/comments/jle45w/multiple_linear_regression_machine_learning/)
-- [Deepnote a jupyter notebook to collaborate free on line](https://www.reddit.com/r/Python/comments/jldztc/deepnote_a_jupyter_notebook_to_collaborate_free/)
-- [Python event (code jam) with prizes](https://www.reddit.com/r/Python/comments/jld7ou/python_event_code_jam_with_prizes/)
-- [Relaxation music for coding python 💙](https://www.reddit.com/r/Python/comments/jlcdo8/relaxation_music_for_coding_python/)
+- [Projects that will definitely help you in learning Python and land you a jon](https://www.reddit.com/r/Python/comments/jlg5hh/projects_that_will_definitely_help_you_in/)
+- [py.checkio.org makes me feel pleasantly ignorant](https://www.reddit.com/r/Python/comments/jlg47f/pycheckioorg_makes_me_feel_pleasantly_ignorant/)
+- [Mypy 0.790 Released](https://www.reddit.com/r/Python/comments/jlg1e4/mypy_0790_released/)
+- [Selling a piece of code without marketing](https://www.reddit.com/r/Python/comments/jlfpwe/selling_a_piece_of_code_without_marketing/)
+- [Does this blog post resonate with you?](https://www.reddit.com/r/Python/comments/jlfifu/does_this_blog_post_resonate_with_you/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
