@@ -106,11 +106,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Creating a web framework with Python](https://www.reddit.com/r/Python/comments/jlp58h/creating_a_web_framework_with_python/)
-- [Is it stupid to code just for fun?](https://www.reddit.com/r/Python/comments/jloutf/is_it_stupid_to_code_just_for_fun/)
-- [Python implementation of FP Growth algorithm in data mining](https://www.reddit.com/r/Python/comments/jloqk8/python_implementation_of_fp_growth_algorithm_in/)
-- [This is the most outrageous command output I have ever seen in my entire Unix life](https://www.reddit.com/r/Python/comments/jlob97/this_is_the_most_outrageous_command_output_i_have/)
-- [CSV - Copy Certain Columns From One CV to Another](https://www.reddit.com/r/Python/comments/jlo5hd/csv_copy_certain_columns_from_one_cv_to_another/)
+- [A New skill](https://www.reddit.com/r/Python/comments/jlqyo8/a_new_skill/)
+- [Calculator with Integrated Keyboard Controls](https://www.reddit.com/r/Python/comments/jlqnxb/calculator_with_integrated_keyboard_controls/)
+- [Simple Calculator For Very Beginners](https://www.reddit.com/r/Python/comments/jlq8r4/simple_calculator_for_very_beginners/)
+- [When are you going to switch to Python 3.9?](https://www.reddit.com/r/Python/comments/jlq2ro/when_are_you_going_to_switch_to_python_39/)
+- [Python Core Developers and Community Members Q&A](https://www.reddit.com/r/Python/comments/jlq234/python_core_developers_and_community_members_qa/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
