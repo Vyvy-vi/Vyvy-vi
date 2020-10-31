@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Discord Google Classroom bot made with python](https://www.reddit.com/r/Python/comments/jl9t9e/discord_google_classroom_bot_made_with_python/)
+- [Programa python (help, i'm nob)](https://www.reddit.com/r/Python/comments/jl9qx0/programa_python_help_im_nob/)
 - [Giveaway: PyCharm 6 Months](https://www.reddit.com/r/Python/comments/jl8qav/giveaway_pycharm_6_months/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jl895r/saturday_megathread_share_your_resources/)
-- [Can someone help me write this function?](https://www.reddit.com/r/Python/comments/jl84le/can_someone_help_me_write_this_function/)
 - [I was bored of continuously creating posters for work, so I created a library to do it for me!](https://www.reddit.com/r/Python/comments/jl83as/i_was_bored_of_continuously_creating_posters_for/)
-- [How's My Python Tutorial On How To Save A Google Search Offline?](https://www.reddit.com/r/Python/comments/jl7seb/hows_my_python_tutorial_on_how_to_save_a_google/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
