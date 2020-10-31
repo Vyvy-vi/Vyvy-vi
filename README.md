@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Know what is web scraping with python](https://www.reddit.com/r/Python/comments/jll51a/know_what_is_web_scraping_with_python/)
+- [I made a jobboard in Python / Django](https://www.reddit.com/r/Python/comments/jlkgfy/i_made_a_jobboard_in_python_django/)
+- [matplotlib.pyplot -- For some reason, Python's plt.yscale("log") function failed... (This must be a bug.)](https://www.reddit.com/r/Python/comments/jlk6n3/matplotlibpyplot_for_some_reason_pythons/)
 - [Introducing igel: a delightful machine learning tool that allows you to train, test and use models without writing code. (Usage from terminal or a GUI)](https://www.reddit.com/r/Python/comments/jlisb2/introducing_igel_a_delightful_machine_learning/)
 - [Python behind the scenes #4: how Python bytecode is executed](https://www.reddit.com/r/Python/comments/jlhmuz/python_behind_the_scenes_4_how_python_bytecode_is/)
-- [How would you suggest to learn Python programming you to actually land a job after?](https://www.reddit.com/r/Python/comments/jlhcou/how_would_you_suggest_to_learn_python_programming/)
-- [Managing a Django Project with Poetry](https://www.reddit.com/r/Python/comments/jlgw61/managing_a_django_project_with_poetry/)
-- [py.checkio.org makes me feel pleasantly ignorant](https://www.reddit.com/r/Python/comments/jlg47f/pycheckioorg_makes_me_feel_pleasantly_ignorant/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
