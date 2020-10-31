@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Free Python Programming Course on Udemy!](https://www.reddit.com/r/Python/comments/jl5uxv/free_python_programming_course_on_udemy/)
-- [Editing excel with python ??](https://www.reddit.com/r/Python/comments/jl5awd/editing_excel_with_python/)
-- [Pastebin from the command line](https://www.reddit.com/r/Python/comments/jl588j/pastebin_from_the_command_line/)
-- [N+1 Problems are a major performance problem when using an orm such as django-orm if it is not targeted well. So I have created a package to solve the problem for django-orm. It automatically creates an optimized query for a rest-framework serializer.](https://www.reddit.com/r/Python/comments/jl4nb6/n1_problems_are_a_major_performance_problem_when/)
-- [List Comprehensions - for-loops in one-line; a way to think about list comprehensions.](https://www.reddit.com/r/Python/comments/jl35e3/list_comprehensions_forloops_in_oneline_a_way_to/)
+- [Giveaway: PyCharm 6 Months](https://www.reddit.com/r/Python/comments/jl8qav/giveaway_pycharm_6_months/)
+- [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jl895r/saturday_megathread_share_your_resources/)
+- [Can someone help me write this function?](https://www.reddit.com/r/Python/comments/jl84le/can_someone_help_me_write_this_function/)
+- [I was bored of continuously creating posters for work, so I created a library to do it for me!](https://www.reddit.com/r/Python/comments/jl83as/i_was_bored_of_continuously_creating_posters_for/)
+- [How's My Python Tutorial On How To Save A Google Search Offline?](https://www.reddit.com/r/Python/comments/jl7seb/hows_my_python_tutorial_on_how_to_save_a_google/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
