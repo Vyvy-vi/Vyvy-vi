@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Creating a web framework with Python](https://www.reddit.com/r/Python/comments/jlp58h/creating_a_web_framework_with_python/)
+- [Is it stupid to code just for fun?](https://www.reddit.com/r/Python/comments/jloutf/is_it_stupid_to_code_just_for_fun/)
+- [Python implementation of FP Growth algorithm in data mining](https://www.reddit.com/r/Python/comments/jloqk8/python_implementation_of_fp_growth_algorithm_in/)
+- [This is the most outrageous command output I have ever seen in my entire Unix life](https://www.reddit.com/r/Python/comments/jlob97/this_is_the_most_outrageous_command_output_i_have/)
 - [CSV - Copy Certain Columns From One CV to Another](https://www.reddit.com/r/Python/comments/jlo5hd/csv_copy_certain_columns_from_one_cv_to_another/)
-- [Question on assignments in Python3: What is the value of b after changing the value of a ?](https://www.reddit.com/r/Python/comments/jlngf1/question_on_assignments_in_python3_what_is_the/)
-- [Directory Fuzzing](https://www.reddit.com/r/Python/comments/jlmkt6/directory_fuzzing/)
-- [SolarY - A Solar System / Space Science Python Library](https://www.reddit.com/r/Python/comments/jlmcqa/solary_a_solar_system_space_science_python_library/)
-- [I made an image to ASCII converter using PIL!](https://www.reddit.com/r/Python/comments/jllt9f/i_made_an_image_to_ascii_converter_using_pil/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
