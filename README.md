@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How To Install Python 3.9 On Mac](https://www.reddit.com/r/Python/comments/jle52h/how_to_install_python_39_on_mac/)
+- [Multiple Linear Regression Machine Learning Algorithm in Python and Sklearn](https://www.reddit.com/r/Python/comments/jle45w/multiple_linear_regression_machine_learning/)
+- [Deepnote a jupyter notebook to collaborate free on line](https://www.reddit.com/r/Python/comments/jldztc/deepnote_a_jupyter_notebook_to_collaborate_free/)
 - [Python event (code jam) with prizes](https://www.reddit.com/r/Python/comments/jld7ou/python_event_code_jam_with_prizes/)
 - [Relaxation music for coding python 💙](https://www.reddit.com/r/Python/comments/jlcdo8/relaxation_music_for_coding_python/)
-- [Is there a real time collaboration coding platform? (Like a google docs but for coding)](https://www.reddit.com/r/Python/comments/jlbcd9/is_there_a_real_time_collaboration_coding/)
-- [How to save Gmail Attachments to Google Drive using Google APIs](https://www.reddit.com/r/Python/comments/jlawr3/how_to_save_gmail_attachments_to_google_drive/)
-- [Discord Google Classroom bot made with python](https://www.reddit.com/r/Python/comments/jl9t9e/discord_google_classroom_bot_made_with_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
