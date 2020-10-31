@@ -23,8 +23,6 @@ RightCoolCool
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-DiscordAPI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleAPIs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-html-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-css-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ScikitLearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-json-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -119,7 +117,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ---
 <details>
   <summary>:zap: PROBLEM OF THE DAY:</summary>
-
+    #TODO
 <!--QOTD:START-->
 <!--QOTD:END-->
 </details>
