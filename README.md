@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Is there a real time collaboration coding platform? (Like a google docs but for coding)](https://www.reddit.com/r/Python/comments/jlbcd9/is_there_a_real_time_collaboration_coding/)
 - [How to save Gmail Attachments to Google Drive using Google APIs](https://www.reddit.com/r/Python/comments/jlawr3/how_to_save_gmail_attachments_to_google_drive/)
 - [Discord Google Classroom bot made with python](https://www.reddit.com/r/Python/comments/jl9t9e/discord_google_classroom_bot_made_with_python/)
 - [Programa python (help, i'm nob)](https://www.reddit.com/r/Python/comments/jl9qx0/programa_python_help_im_nob/)
 - [Giveaway: PyCharm 6 Months](https://www.reddit.com/r/Python/comments/jl8qav/giveaway_pycharm_6_months/)
-- [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jl895r/saturday_megathread_share_your_resources/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
