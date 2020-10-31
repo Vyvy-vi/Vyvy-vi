@@ -101,11 +101,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How would you suggest to learn Python programming you to actually land a job after?](https://www.reddit.com/r/Python/comments/jlhcou/how_would_you_suggest_to_learn_python_programming/)
+- [Managing a Django Project with Poetry](https://www.reddit.com/r/Python/comments/jlgw61/managing_a_django_project_with_poetry/)
 - [Projects that will definitely help you in learning Python and land you a jon](https://www.reddit.com/r/Python/comments/jlg5hh/projects_that_will_definitely_help_you_in/)
 - [py.checkio.org makes me feel pleasantly ignorant](https://www.reddit.com/r/Python/comments/jlg47f/pycheckioorg_makes_me_feel_pleasantly_ignorant/)
 - [Mypy 0.790 Released](https://www.reddit.com/r/Python/comments/jlg1e4/mypy_0790_released/)
-- [Selling a piece of code without marketing](https://www.reddit.com/r/Python/comments/jlfpwe/selling_a_piece_of_code_without_marketing/)
-- [Does this blog post resonate with you?](https://www.reddit.com/r/Python/comments/jlfifu/does_this_blog_post_resonate_with_you/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
