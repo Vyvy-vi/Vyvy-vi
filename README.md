@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Messenger - Bwst way to scrape messages?](https://www.reddit.com/r/Python/comments/jm8xbb/facebook_messenger_bwst_way_to_scrape_messages/)
-- [#Python for computer science](https://www.reddit.com/r/Python/comments/jm8n7q/python_for_computer_science/)
-- [Test Internet Speed using Python - Simple and easy code](https://www.reddit.com/r/Python/comments/jm8axx/test_internet_speed_using_python_simple_and_easy/)
-- [Variable Scopes in Python 😃](https://www.reddit.com/r/Python/comments/jm845g/variable_scopes_in_python/)
-- [Download cat pics from r/wallpapers automatically with Firefox and Python!](https://www.reddit.com/r/Python/comments/jm7znt/download_cat_pics_from_rwallpapers_automatically/)
+- [Facebook Messenger - Best way to scrape messages?](https://www.reddit.com/r/Python/comments/jmbu1v/facebook_messenger_best_way_to_scrape_messages/)
+- [What's the latest on pipenv, poetry, etc?](https://www.reddit.com/r/Python/comments/jmbkiu/whats_the_latest_on_pipenv_poetry_etc/)
+- [I need people of the computer science field to fill this survey out to help me!!](https://www.reddit.com/r/Python/comments/jmb6ep/i_need_people_of_the_computer_science_field_to/)
+- [How do I understand and operate in the computer and python world as a teenager? I find it difficult to understand what a lot of the CS world means. Ex: Tiki, or wiki, or nodes, etc. Is there any place I can go to get a headstart on learning all of it??](https://www.reddit.com/r/Python/comments/jmaxr3/how_do_i_understand_and_operate_in_the_computer/)
+- ["Automate the Boring Stuff with Python" online course is free to sign up for the next few days with code NOV2020FREE](https://www.reddit.com/r/Python/comments/jmajhl/automate_the_boring_stuff_with_python_online/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
