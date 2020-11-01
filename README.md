@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Numpy-Matplot Appreaciation](https://www.reddit.com/r/Python/comments/jm7agj/numpymatplot_appreaciation/)
-- [Scraping search results from user input with selenium: only click on websites that match a certain criteria?](https://www.reddit.com/r/Python/comments/jm7520/scraping_search_results_from_user_input_with/)
-- [I made a library to make testing flask applications simple and convenient!](https://www.reddit.com/r/Python/comments/jm6zy5/i_made_a_library_to_make_testing_flask/)
-- [How does the import module work in Python 🐍](https://www.reddit.com/r/Python/comments/jm6hrm/how_does_the_import_module_work_in_python/)
-- [When to and When Not to Use Selenium Firefox Python - Geckodriver For Web Scraping and an Example Walkthrough of How to Use It](https://www.reddit.com/r/Python/comments/jm64a9/when_to_and_when_not_to_use_selenium_firefox/)
+- [Facebook Messenger - Bwst way to scrape messages?](https://www.reddit.com/r/Python/comments/jm8xbb/facebook_messenger_bwst_way_to_scrape_messages/)
+- [#Python for computer science](https://www.reddit.com/r/Python/comments/jm8n7q/python_for_computer_science/)
+- [Test Internet Speed using Python - Simple and easy code](https://www.reddit.com/r/Python/comments/jm8axx/test_internet_speed_using_python_simple_and_easy/)
+- [Variable Scopes in Python 😃](https://www.reddit.com/r/Python/comments/jm845g/variable_scopes_in_python/)
+- [Download cat pics from r/wallpapers automatically with Firefox and Python!](https://www.reddit.com/r/Python/comments/jm7znt/download_cat_pics_from_rwallpapers_automatically/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
