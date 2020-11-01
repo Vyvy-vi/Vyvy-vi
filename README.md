@@ -106,11 +106,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [pyhstr now supports IPython!](https://www.reddit.com/r/Python/comments/jlxq5v/pyhstr_now_supports_ipython/)
 - [Giveaway - Pycharm - First Come First Served](https://www.reddit.com/r/Python/comments/jlx2b7/giveaway_pycharm_first_come_first_served/)
 - [Python Lists](https://www.reddit.com/r/Python/comments/jlwcml/python_lists/)
 - [Getting Started With Google Drive API in Python](https://www.reddit.com/r/Python/comments/jlv4z3/getting_started_with_google_drive_api_in_python/)
 - [I wrote a AES256 encoder in one line of python 3 with only the built-in library](https://www.reddit.com/r/Python/comments/jlttc7/i_wrote_a_aes256_encoder_in_one_line_of_python_3/)
-- [I think it’s clear why I chose a Software Engineering career path instead of being an Artist](https://www.reddit.com/r/Python/comments/jltffk/i_think_its_clear_why_i_chose_a_software/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
