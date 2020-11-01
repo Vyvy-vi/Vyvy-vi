@@ -106,8 +106,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Google Drive API in Python](https://www.reddit.com/r/Python/comments/jlv4z3/getting_started_with_google_drive_api_in_python/)
 - [I wrote a AES256 encoder in one line of python 3 with only the built-in library](https://www.reddit.com/r/Python/comments/jlttc7/i_wrote_a_aes256_encoder_in_one_line_of_python_3/)
-- [At the beginning, when did you realize that you could look for a job as a programmer?](https://www.reddit.com/r/Python/comments/jltnzi/at_the_beginning_when_did_you_realize_that_you/)
 - [I think it’s clear why I chose a Software Engineering career path instead of being an Artist](https://www.reddit.com/r/Python/comments/jltffk/i_think_its_clear_why_i_chose_a_software/)
 - [learning python? Freelancing](https://www.reddit.com/r/Python/comments/jlt0zg/learning_python_freelancing/)
 - [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/jlsvdk/sunday_megathread_whats_everyone_working_on_this/)
