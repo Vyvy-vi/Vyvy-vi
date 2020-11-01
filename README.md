@@ -106,11 +106,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [learning python? Freelancing](https://www.reddit.com/r/Python/comments/jlt0zg/learning_python_freelancing/)
+- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/jlsvdk/sunday_megathread_whats_everyone_working_on_this/)
 - [A New skill](https://www.reddit.com/r/Python/comments/jlqyo8/a_new_skill/)
 - [Calculator with Integrated Keyboard Controls](https://www.reddit.com/r/Python/comments/jlqnxb/calculator_with_integrated_keyboard_controls/)
 - [Simple Calculator For Very Beginners](https://www.reddit.com/r/Python/comments/jlq8r4/simple_calculator_for_very_beginners/)
-- [When are you going to switch to Python 3.9?](https://www.reddit.com/r/Python/comments/jlq2ro/when_are_you_going_to_switch_to_python_39/)
-- [Python Core Developers and Community Members Q&A](https://www.reddit.com/r/Python/comments/jlq234/python_core_developers_and_community_members_qa/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
