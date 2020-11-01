@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Python OOPS - Class Methods, Instance Methods & Static Methods [Part-1]](https://www.reddit.com/r/Python/comments/jm16gt/python_oops_class_methods_instance_methods_static/)
-- [My first project: a Talk to Transformer discord bot!](https://www.reddit.com/r/Python/comments/jm1100/my_first_project_a_talk_to_transformer_discord_bot/)
-- [Why is releasing memory incredibly slow?](https://www.reddit.com/r/Python/comments/jm0wwj/why_is_releasing_memory_incredibly_slow/)
-- [Hi ,the 4 ways to implement polymorphism concept in Python is explained here.](https://www.reddit.com/r/Python/comments/jm0rig/hi_the_4_ways_to_implement_polymorphism_concept/)
-- [Detecting Document Similarity With Doc2vec: A step-by-step, hands-on introduction in Python](https://www.reddit.com/r/Python/comments/jlzcp0/detecting_document_similarity_with_doc2vec_a/)
+- [Calculate the cost of a sticker album](https://www.reddit.com/r/Python/comments/jm3gqc/calculate_the_cost_of_a_sticker_album/)
+- [Code for a complex calculator:](https://www.reddit.com/r/Python/comments/jm37ea/code_for_a_complex_calculator/)
+- [4chan API Package Suggestions?](https://www.reddit.com/r/Python/comments/jm2pab/4chan_api_package_suggestions/)
+- [I made a new Indeed job listing feed for the terminal.](https://www.reddit.com/r/Python/comments/jm1sh2/i_made_a_new_indeed_job_listing_feed_for_the/)
+- [I have created a repo which contains only source code for all the classes I took.](https://www.reddit.com/r/Python/comments/jm1fyp/i_have_created_a_repo_which_contains_only_source/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
