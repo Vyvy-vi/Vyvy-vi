@@ -106,11 +106,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Detecting Document Similarity With Doc2vec: A step-by-step, hands-on introduction in Python](https://www.reddit.com/r/Python/comments/jlzcp0/detecting_document_similarity_with_doc2vec_a/)
+- [Auxiliary Classifier GAN. No gradients provided for any variable](https://www.reddit.com/r/Python/comments/jlz2w2/auxiliary_classifier_gan_no_gradients_provided/)
+- [Simple 8Ball program for beginners](https://www.reddit.com/r/Python/comments/jlyxrd/simple_8ball_program_for_beginners/)
 - [pyhstr now supports IPython!](https://www.reddit.com/r/Python/comments/jlxq5v/pyhstr_now_supports_ipython/)
 - [Giveaway - Pycharm - First Come First Served](https://www.reddit.com/r/Python/comments/jlx2b7/giveaway_pycharm_first_come_first_served/)
-- [Python Lists](https://www.reddit.com/r/Python/comments/jlwcml/python_lists/)
-- [Getting Started With Google Drive API in Python](https://www.reddit.com/r/Python/comments/jlv4z3/getting_started_with_google_drive_api_in_python/)
-- [I wrote a AES256 encoder in one line of python 3 with only the built-in library](https://www.reddit.com/r/Python/comments/jlttc7/i_wrote_a_aes256_encoder_in_one_line_of_python_3/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
