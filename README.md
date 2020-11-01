@@ -106,11 +106,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python OOPS - Class Methods, Instance Methods & Static Methods [Part-1]](https://www.reddit.com/r/Python/comments/jm16gt/python_oops_class_methods_instance_methods_static/)
+- [My first project: a Talk to Transformer discord bot!](https://www.reddit.com/r/Python/comments/jm1100/my_first_project_a_talk_to_transformer_discord_bot/)
+- [Why is releasing memory incredibly slow?](https://www.reddit.com/r/Python/comments/jm0wwj/why_is_releasing_memory_incredibly_slow/)
+- [Hi ,the 4 ways to implement polymorphism concept in Python is explained here.](https://www.reddit.com/r/Python/comments/jm0rig/hi_the_4_ways_to_implement_polymorphism_concept/)
 - [Detecting Document Similarity With Doc2vec: A step-by-step, hands-on introduction in Python](https://www.reddit.com/r/Python/comments/jlzcp0/detecting_document_similarity_with_doc2vec_a/)
-- [Auxiliary Classifier GAN. No gradients provided for any variable](https://www.reddit.com/r/Python/comments/jlz2w2/auxiliary_classifier_gan_no_gradients_provided/)
-- [Simple 8Ball program for beginners](https://www.reddit.com/r/Python/comments/jlyxrd/simple_8ball_program_for_beginners/)
-- [pyhstr now supports IPython!](https://www.reddit.com/r/Python/comments/jlxq5v/pyhstr_now_supports_ipython/)
-- [Giveaway - Pycharm - First Come First Served](https://www.reddit.com/r/Python/comments/jlx2b7/giveaway_pycharm_first_come_first_served/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
