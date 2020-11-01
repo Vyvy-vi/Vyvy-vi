@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Calculate the cost of a sticker album](https://www.reddit.com/r/Python/comments/jm3gqc/calculate_the_cost_of_a_sticker_album/)
-- [Code for a complex calculator:](https://www.reddit.com/r/Python/comments/jm37ea/code_for_a_complex_calculator/)
-- [4chan API Package Suggestions?](https://www.reddit.com/r/Python/comments/jm2pab/4chan_api_package_suggestions/)
-- [I made a new Indeed job listing feed for the terminal.](https://www.reddit.com/r/Python/comments/jm1sh2/i_made_a_new_indeed_job_listing_feed_for_the/)
-- [I have created a repo which contains only source code for all the classes I took.](https://www.reddit.com/r/Python/comments/jm1fyp/i_have_created_a_repo_which_contains_only_source/)
+- [How does the import module work in Python 🐍](https://www.reddit.com/r/Python/comments/jm6hrm/how_does_the_import_module_work_in_python/)
+- [When to and When Not to Use Selenium Firefox Python - Geckodriver For Web Scraping and an Example Walkthrough of How to Use It](https://www.reddit.com/r/Python/comments/jm64a9/when_to_and_when_not_to_use_selenium_firefox/)
+- [Introduction to Scraping in Python with BeautifulSoup and Requests](https://www.reddit.com/r/Python/comments/jm6291/introduction_to_scraping_in_python_with/)
+- [Making a virtual secretary?](https://www.reddit.com/r/Python/comments/jm5m1q/making_a_virtual_secretary/)
+- [Introducing Liszt: A desktop Trello alternative in 100% Python with scriptable actions and simple drag and drop interface](https://www.reddit.com/r/Python/comments/jm5lni/introducing_liszt_a_desktop_trello_alternative_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
