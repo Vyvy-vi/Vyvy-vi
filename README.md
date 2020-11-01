@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Numpy-Matplot Appreaciation](https://www.reddit.com/r/Python/comments/jm7agj/numpymatplot_appreaciation/)
+- [Scraping search results from user input with selenium: only click on websites that match a certain criteria?](https://www.reddit.com/r/Python/comments/jm7520/scraping_search_results_from_user_input_with/)
+- [I made a library to make testing flask applications simple and convenient!](https://www.reddit.com/r/Python/comments/jm6zy5/i_made_a_library_to_make_testing_flask/)
 - [How does the import module work in Python 🐍](https://www.reddit.com/r/Python/comments/jm6hrm/how_does_the_import_module_work_in_python/)
 - [When to and When Not to Use Selenium Firefox Python - Geckodriver For Web Scraping and an Example Walkthrough of How to Use It](https://www.reddit.com/r/Python/comments/jm64a9/when_to_and_when_not_to_use_selenium_firefox/)
-- [Introduction to Scraping in Python with BeautifulSoup and Requests](https://www.reddit.com/r/Python/comments/jm6291/introduction_to_scraping_in_python_with/)
-- [Making a virtual secretary?](https://www.reddit.com/r/Python/comments/jm5m1q/making_a_virtual_secretary/)
-- [Introducing Liszt: A desktop Trello alternative in 100% Python with scriptable actions and simple drag and drop interface](https://www.reddit.com/r/Python/comments/jm5lni/introducing_liszt_a_desktop_trello_alternative_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
