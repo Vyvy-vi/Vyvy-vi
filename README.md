@@ -3,7 +3,7 @@
 ##### random joe-username:
 <!--DON'T REMOVE--->
 <!--username:START-->
-InterestingCoolRightCoolAwesomeCool
+AwesomeAwesomeAwesomeAwesomeAwesome
 <!--username:END-->
 
 ##### about:
