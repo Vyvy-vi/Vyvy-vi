@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Pygame creating map](https://www.reddit.com/r/Python/comments/jmlxit/pygame_creating_map/)
+- [Pynguin: Automated Unit Test Generation for Python](https://www.reddit.com/r/Python/comments/jml8gq/pynguin_automated_unit_test_generation_for_python/)
+- [Wich is faster? Def or Lambda?](https://www.reddit.com/r/Python/comments/jml4vy/wich_is_faster_def_or_lambda/)
 - [ML Optimization - Advanced Optimizers from scratch with Python](https://www.reddit.com/r/Python/comments/jmkdkl/ml_optimization_advanced_optimizers_from_scratch/)
 - [Python PDF & CHM format bulk download](https://www.reddit.com/r/Python/comments/jmk39r/python_pdf_chm_format_bulk_download/)
-- [Learning how to code for THE first time](https://www.reddit.com/r/Python/comments/jmjxxj/learning_how_to_code_for_the_first_time/)
-- [The walrus :=D](https://www.reddit.com/r/Python/comments/jmjgzq/the_walrus_d/)
-- [What is the latest (3.7+) recommended practice on datetime's timezone?](https://www.reddit.com/r/Python/comments/jmirla/what_is_the_latest_37_recommended_practice_on/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
