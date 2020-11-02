@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Building Network Graphs with Python | Part 3](https://www.reddit.com/r/Python/comments/jmoy3h/building_network_graphs_with_python_part_3/)
-- [Fourier Transforms With scipy.fft: Python Signal Processing – Real Python](https://www.reddit.com/r/Python/comments/jmorrm/fourier_transforms_with_scipyfft_python_signal/)
-- [Build Your Next Project with Wolfram Alpha API and Python](https://www.reddit.com/r/Python/comments/jmobeh/build_your_next_project_with_wolfram_alpha_api/)
-- [Best Way to Learn Python](https://www.reddit.com/r/Python/comments/jmo7k4/best_way_to_learn_python/)
-- [Deploying Machine Learning Models In Android Apps Using Python](https://www.reddit.com/r/Python/comments/jmo0i1/deploying_machine_learning_models_in_android_apps/)
+- [Reordering dictionary in Python](https://www.reddit.com/r/Python/comments/jmtpyc/reordering_dictionary_in_python/)
+- [Tips for a student](https://www.reddit.com/r/Python/comments/jmsbxp/tips_for_a_student/)
+- [25 of the most useful Python repos](https://www.reddit.com/r/Python/comments/jms9d8/25_of_the_most_useful_python_repos/)
+- [Gradient Descent from Scratch in Python](https://www.reddit.com/r/Python/comments/jms6yu/gradient_descent_from_scratch_in_python/)
+- [I made a python bot to join my online classes 😁😸😅](https://www.reddit.com/r/Python/comments/jms26z/i_made_a_python_bot_to_join_my_online_classes/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
