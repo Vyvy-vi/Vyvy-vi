@@ -123,4 +123,4 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <!--QOTD:END-->
 </details>
 
-![stuff](https://github-profile-trophy.vercel.app/?username=Vyvy-vi&column=7&theme=gruvbox%22)
+
