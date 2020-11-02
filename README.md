@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to create trade areas around retail store locations?](https://www.reddit.com/r/Python/comments/jmymy2/how_to_create_trade_areas_around_retail_store/)
+- [Can I use Python to develop a desktop "application"? - Advice Needed](https://www.reddit.com/r/Python/comments/jmy8mi/can_i_use_python_to_develop_a_desktop_application/)
+- [Selenium Wire: Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.](https://www.reddit.com/r/Python/comments/jmy3e6/selenium_wire_extends_seleniums_python_bindings/)
+- [[Bot Twitter] BillyAndMandy Screens](https://www.reddit.com/r/Python/comments/jmxz4a/bot_twitter_billyandmandy_screens/)
 - [Reshape Data in Python [MUST KNOWS]](https://www.reddit.com/r/Python/comments/jmws6u/reshape_data_in_python_must_knows/)
-- [A script that notice when i get in the bed](https://www.reddit.com/r/Python/comments/jmw5lx/a_script_that_notice_when_i_get_in_the_bed/)
-- [Chat App with PubNub API](https://www.reddit.com/r/Python/comments/jmvapd/chat_app_with_pubnub_api/)
-- [What's the coolest thing I can do as a beginner in python?](https://www.reddit.com/r/Python/comments/jmuuob/whats_the_coolest_thing_i_can_do_as_a_beginner_in/)
-- [I've created a short error generator in python 3.8](https://www.reddit.com/r/Python/comments/jmurbb/ive_created_a_short_error_generator_in_python_38/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
