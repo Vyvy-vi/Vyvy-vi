@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Building Network Graphs with Python | Part 3](https://www.reddit.com/r/Python/comments/jmoy3h/building_network_graphs_with_python_part_3/)
+- [Fourier Transforms With scipy.fft: Python Signal Processing – Real Python](https://www.reddit.com/r/Python/comments/jmorrm/fourier_transforms_with_scipyfft_python_signal/)
+- [Build Your Next Project with Wolfram Alpha API and Python](https://www.reddit.com/r/Python/comments/jmobeh/build_your_next_project_with_wolfram_alpha_api/)
+- [Best Way to Learn Python](https://www.reddit.com/r/Python/comments/jmo7k4/best_way_to_learn_python/)
 - [Deploying Machine Learning Models In Android Apps Using Python](https://www.reddit.com/r/Python/comments/jmo0i1/deploying_machine_learning_models_in_android_apps/)
-- [Top 10 Python Resources, October 2020](https://www.reddit.com/r/Python/comments/jmnx7z/top_10_python_resources_october_2020/)
-- [Music Player](https://www.reddit.com/r/Python/comments/jmnpy7/music_player/)
-- [Dunderless Python](https://www.reddit.com/r/Python/comments/jmneq1/dunderless_python/)
-- [Walrus Operator: Good or Bad](https://www.reddit.com/r/Python/comments/jmnant/walrus_operator_good_or_bad/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
