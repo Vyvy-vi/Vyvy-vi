@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [What's the coolest thing I can do as a beginner in python?](https://www.reddit.com/r/Python/comments/jmuuob/whats_the_coolest_thing_i_can_do_as_a_beginner_in/)
+- [I've created a short error generator in python 3.8](https://www.reddit.com/r/Python/comments/jmurbb/ive_created_a_short_error_generator_in_python_38/)
+- [A Python API for Dolt](https://www.reddit.com/r/Python/comments/jmu2tc/a_python_api_for_dolt/)
 - [Reordering dictionary in Python](https://www.reddit.com/r/Python/comments/jmtpyc/reordering_dictionary_in_python/)
 - [Tips for a student](https://www.reddit.com/r/Python/comments/jmsbxp/tips_for_a_student/)
-- [25 of the most useful Python repos](https://www.reddit.com/r/Python/comments/jms9d8/25_of_the_most_useful_python_repos/)
-- [Gradient Descent from Scratch in Python](https://www.reddit.com/r/Python/comments/jms6yu/gradient_descent_from_scratch_in_python/)
-- [I made a python bot to join my online classes 😁😸😅](https://www.reddit.com/r/Python/comments/jms26z/i_made_a_python_bot_to_join_my_online_classes/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
