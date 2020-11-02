@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I created an INFO AGGREGATOR for YouTube channels! Has sections for note taking, marking videos as watched, marking videos to rewatch, and a link to every video posted by that channel 🤓](https://www.reddit.com/r/Python/comments/jmicyo/i_created_an_info_aggregator_for_youtube_channels/)
-- [Java vs Python – Which One Should I Learn?](https://www.reddit.com/r/Python/comments/jmi1fs/java_vs_python_which_one_should_i_learn/)
-- [Detect beard from a face in Python](https://www.reddit.com/r/Python/comments/jmhsum/detect_beard_from_a_face_in_python/)
-- [Price tracker](https://www.reddit.com/r/Python/comments/jmfqfj/price_tracker/)
-- [Bang! my script to generate project structures!](https://www.reddit.com/r/Python/comments/jmfj40/bang_my_script_to_generate_project_structures/)
+- [ML Optimization - Advanced Optimizers from scratch with Python](https://www.reddit.com/r/Python/comments/jmkdkl/ml_optimization_advanced_optimizers_from_scratch/)
+- [Python PDF & CHM format bulk download](https://www.reddit.com/r/Python/comments/jmk39r/python_pdf_chm_format_bulk_download/)
+- [Learning how to code for THE first time](https://www.reddit.com/r/Python/comments/jmjxxj/learning_how_to_code_for_the_first_time/)
+- [The walrus :=D](https://www.reddit.com/r/Python/comments/jmjgzq/the_walrus_d/)
+- [What is the latest (3.7+) recommended practice on datetime's timezone?](https://www.reddit.com/r/Python/comments/jmirla/what_is_the_latest_37_recommended_practice_on/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
