@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Messenger - Best way to scrape messages?](https://www.reddit.com/r/Python/comments/jmbu1v/facebook_messenger_best_way_to_scrape_messages/)
-- [What's the latest on pipenv, poetry, etc?](https://www.reddit.com/r/Python/comments/jmbkiu/whats_the_latest_on_pipenv_poetry_etc/)
-- [I need people of the computer science field to fill this survey out to help me!!](https://www.reddit.com/r/Python/comments/jmb6ep/i_need_people_of_the_computer_science_field_to/)
-- [How do I understand and operate in the computer and python world as a teenager? I find it difficult to understand what a lot of the CS world means. Ex: Tiki, or wiki, or nodes, etc. Is there any place I can go to get a headstart on learning all of it??](https://www.reddit.com/r/Python/comments/jmaxr3/how_do_i_understand_and_operate_in_the_computer/)
-- ["Automate the Boring Stuff with Python" online course is free to sign up for the next few days with code NOV2020FREE](https://www.reddit.com/r/Python/comments/jmajhl/automate_the_boring_stuff_with_python_online/)
+- [I created an INFO AGGREGATOR for YouTube channels! Has sections for note taking, marking videos as watched, marking videos to rewatch, and a link to every video posted by that channel 🤓](https://www.reddit.com/r/Python/comments/jmicyo/i_created_an_info_aggregator_for_youtube_channels/)
+- [Java vs Python – Which One Should I Learn?](https://www.reddit.com/r/Python/comments/jmi1fs/java_vs_python_which_one_should_i_learn/)
+- [Detect beard from a face in Python](https://www.reddit.com/r/Python/comments/jmhsum/detect_beard_from_a_face_in_python/)
+- [Price tracker](https://www.reddit.com/r/Python/comments/jmfqfj/price_tracker/)
+- [Bang! my script to generate project structures!](https://www.reddit.com/r/Python/comments/jmfj40/bang_my_script_to_generate_project_structures/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
