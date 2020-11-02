@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Pygame creating map](https://www.reddit.com/r/Python/comments/jmlxit/pygame_creating_map/)
-- [Pynguin: Automated Unit Test Generation for Python](https://www.reddit.com/r/Python/comments/jml8gq/pynguin_automated_unit_test_generation_for_python/)
-- [Wich is faster? Def or Lambda?](https://www.reddit.com/r/Python/comments/jml4vy/wich_is_faster_def_or_lambda/)
-- [ML Optimization - Advanced Optimizers from scratch with Python](https://www.reddit.com/r/Python/comments/jmkdkl/ml_optimization_advanced_optimizers_from_scratch/)
-- [Python PDF & CHM format bulk download](https://www.reddit.com/r/Python/comments/jmk39r/python_pdf_chm_format_bulk_download/)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://www.reddit.com/r/Python/comments/jmo0i1/deploying_machine_learning_models_in_android_apps/)
+- [Top 10 Python Resources, October 2020](https://www.reddit.com/r/Python/comments/jmnx7z/top_10_python_resources_october_2020/)
+- [Music Player](https://www.reddit.com/r/Python/comments/jmnpy7/music_player/)
+- [Dunderless Python](https://www.reddit.com/r/Python/comments/jmneq1/dunderless_python/)
+- [Walrus Operator: Good or Bad](https://www.reddit.com/r/Python/comments/jmnant/walrus_operator_good_or_bad/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
