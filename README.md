@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Reshape Data in Python [MUST KNOWS]](https://www.reddit.com/r/Python/comments/jmws6u/reshape_data_in_python_must_knows/)
 - [A script that notice when i get in the bed](https://www.reddit.com/r/Python/comments/jmw5lx/a_script_that_notice_when_i_get_in_the_bed/)
 - [Chat App with PubNub API](https://www.reddit.com/r/Python/comments/jmvapd/chat_app_with_pubnub_api/)
 - [What's the coolest thing I can do as a beginner in python?](https://www.reddit.com/r/Python/comments/jmuuob/whats_the_coolest_thing_i_can_do_as_a_beginner_in/)
 - [I've created a short error generator in python 3.8](https://www.reddit.com/r/Python/comments/jmurbb/ive_created_a_short_error_generator_in_python_38/)
-- [A Python API for Dolt](https://www.reddit.com/r/Python/comments/jmu2tc/a_python_api_for_dolt/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
