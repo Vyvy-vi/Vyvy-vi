@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Will bad things happen if there was a printf() in Python 3?](https://www.reddit.com/r/Python/comments/jne1xb/will_bad_things_happen_if_there_was_a_printf_in/)
+- [How SonarCloud finds bugs in high-quality Python projects](https://www.reddit.com/r/Python/comments/jndzbv/how_sonarcloud_finds_bugs_in_highquality_python/)
 - [So I made this game?](https://www.reddit.com/r/Python/comments/jndahu/so_i_made_this_game/)
 - [Polling site](https://www.reddit.com/r/Python/comments/jnd3r5/polling_site/)
 - [A midi sequencer with GUI written in Python, sequencer engine in C](https://www.reddit.com/r/Python/comments/jnca2o/a_midi_sequencer_with_gui_written_in_python/)
-- [A script for making simple, single color PNG images.](https://www.reddit.com/r/Python/comments/jnb73i/a_script_for_making_simple_single_color_png_images/)
-- [Pybrowser 2](https://www.reddit.com/r/Python/comments/jnaid2/pybrowser_2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
