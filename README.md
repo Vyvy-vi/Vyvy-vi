@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [So I made this game?](https://www.reddit.com/r/Python/comments/jndahu/so_i_made_this_game/)
+- [Polling site](https://www.reddit.com/r/Python/comments/jnd3r5/polling_site/)
+- [A midi sequencer with GUI written in Python, sequencer engine in C](https://www.reddit.com/r/Python/comments/jnca2o/a_midi_sequencer_with_gui_written_in_python/)
 - [A script for making simple, single color PNG images.](https://www.reddit.com/r/Python/comments/jnb73i/a_script_for_making_simple_single_color_png_images/)
 - [Pybrowser 2](https://www.reddit.com/r/Python/comments/jnaid2/pybrowser_2/)
-- [Developing Microservice APIs with Python](https://www.reddit.com/r/Python/comments/jnahrk/developing_microservice_apis_with_python/)
-- [New release of Flask-Compress 1.8.0](https://www.reddit.com/r/Python/comments/jnaf7h/new_release_of_flaskcompress_180/)
-- [I made a cute blob in pygame :)](https://www.reddit.com/r/Python/comments/jnab1a/i_made_a_cute_blob_in_pygame/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
