@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [4 Line python-based URL shortener](https://www.reddit.com/r/Python/comments/jn2btp/4_line_pythonbased_url_shortener/)
+- [raspberry pi fan controller](https://www.reddit.com/r/Python/comments/jn22sr/raspberry_pi_fan_controller/)
 - [Beginning Python websites](https://www.reddit.com/r/Python/comments/jn0r19/beginning_python_websites/)
 - [Do you think type-hinting will be used by the Python interpreter in future versions?](https://www.reddit.com/r/Python/comments/jn08dv/do_you_think_typehinting_will_be_used_by_the/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jmzhzk/tuesday_megathread_advanced_questions/)
-- [How to create trade areas around retail store locations?](https://www.reddit.com/r/Python/comments/jmymy2/how_to_create_trade_areas_around_retail_store/)
-- [Can I use Python to develop a desktop "application"? - Advice Needed](https://www.reddit.com/r/Python/comments/jmy8mi/can_i_use_python_to_develop_a_desktop_application/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
