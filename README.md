@@ -107,7 +107,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [A script for making simple, single color PNG images.](https://www.reddit.com/r/Python/comments/jnaoy4/a_script_for_making_simple_single_color_png_images/)
+- [A script for making simple, single color PNG images.](https://www.reddit.com/r/Python/comments/jnb73i/a_script_for_making_simple_single_color_png_images/)
 - [Pybrowser 2](https://www.reddit.com/r/Python/comments/jnaid2/pybrowser_2/)
 - [Developing Microservice APIs with Python](https://www.reddit.com/r/Python/comments/jnahrk/developing_microservice_apis_with_python/)
 - [New release of Flask-Compress 1.8.0](https://www.reddit.com/r/Python/comments/jnaf7h/new_release_of_flaskcompress_180/)
