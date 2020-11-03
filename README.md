@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jmzhzk/tuesday_megathread_advanced_questions/)
 - [How to create trade areas around retail store locations?](https://www.reddit.com/r/Python/comments/jmymy2/how_to_create_trade_areas_around_retail_store/)
 - [Can I use Python to develop a desktop "application"? - Advice Needed](https://www.reddit.com/r/Python/comments/jmy8mi/can_i_use_python_to_develop_a_desktop_application/)
 - [Selenium Wire: Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.](https://www.reddit.com/r/Python/comments/jmy3e6/selenium_wire_extends_seleniums_python_bindings/)
 - [[Bot Twitter] BillyAndMandy Screens](https://www.reddit.com/r/Python/comments/jmxz4a/bot_twitter_billyandmandy_screens/)
-- [Reshape Data in Python [MUST KNOWS]](https://www.reddit.com/r/Python/comments/jmws6u/reshape_data_in_python_must_knows/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
