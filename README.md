@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn Online Python programming from the Experts contact me for further details on my WhatsApp 9934152644](https://www.reddit.com/r/Python/comments/jn39ve/learn_online_python_programming_from_the_experts/)
+- [what IDE do all of you guys use](https://www.reddit.com/r/Python/comments/jn389k/what_ide_do_all_of_you_guys_use/)
+- [Dear PyGui Now Has Built-in Demo](https://www.reddit.com/r/Python/comments/jn2xh2/dear_pygui_now_has_builtin_demo/)
 - [4 Line python-based URL shortener](https://www.reddit.com/r/Python/comments/jn2btp/4_line_pythonbased_url_shortener/)
 - [raspberry pi fan controller](https://www.reddit.com/r/Python/comments/jn22sr/raspberry_pi_fan_controller/)
-- [Beginning Python websites](https://www.reddit.com/r/Python/comments/jn0r19/beginning_python_websites/)
-- [Do you think type-hinting will be used by the Python interpreter in future versions?](https://www.reddit.com/r/Python/comments/jn08dv/do_you_think_typehinting_will_be_used_by_the/)
-- [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jmzhzk/tuesday_megathread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
