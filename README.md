@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Career Curve of Software Professionals as Bell Curve](https://www.reddit.com/r/Python/comments/jn6494/career_curve_of_software_professionals_as_bell/)
 - [Best Python Books for Beginner and Advanced Programmers](https://www.reddit.com/r/Python/comments/jn4sjo/best_python_books_for_beginner_and_advanced/)
 - [Project Suggestions](https://www.reddit.com/r/Python/comments/jn3uvt/project_suggestions/)
 - [Added theming support to my OpenSource Python software for businesses](https://www.reddit.com/r/Python/comments/jn3ton/added_theming_support_to_my_opensource_python/)
 - [what IDE do all of you guys use](https://www.reddit.com/r/Python/comments/jn389k/what_ide_do_all_of_you_guys_use/)
-- [Dear PyGui Now Has Built-in Demo](https://www.reddit.com/r/Python/comments/jn2xh2/dear_pygui_now_has_builtin_demo/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
