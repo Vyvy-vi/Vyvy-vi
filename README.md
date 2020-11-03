@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Is it recommended to create a game engine in python? If so, would it be better to make a 2D or 3D engine?](https://www.reddit.com/r/Python/comments/jngege/is_it_recommended_to_create_a_game_engine_in/)
+- [Introduction to Object Oriented Programming in Python](https://www.reddit.com/r/Python/comments/jng1ls/introduction_to_object_oriented_programming_in/)
 - [Linear Regression from Scratch in Python](https://www.reddit.com/r/Python/comments/jnejon/linear_regression_from_scratch_in_python/)
 - [Will bad things happen if there was a printf() in Python 3?](https://www.reddit.com/r/Python/comments/jne1xb/will_bad_things_happen_if_there_was_a_printf_in/)
 - [How SonarCloud finds bugs in high-quality Python projects](https://www.reddit.com/r/Python/comments/jndzbv/how_sonarcloud_finds_bugs_in_highquality_python/)
-- [So I made this game?](https://www.reddit.com/r/Python/comments/jndahu/so_i_made_this_game/)
-- [Higher Kinded Types in Python](https://www.reddit.com/r/Python/comments/jncpyg/higher_kinded_types_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
