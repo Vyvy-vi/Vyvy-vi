@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression from Scratch in Python](https://www.reddit.com/r/Python/comments/jnejon/linear_regression_from_scratch_in_python/)
 - [Will bad things happen if there was a printf() in Python 3?](https://www.reddit.com/r/Python/comments/jne1xb/will_bad_things_happen_if_there_was_a_printf_in/)
 - [How SonarCloud finds bugs in high-quality Python projects](https://www.reddit.com/r/Python/comments/jndzbv/how_sonarcloud_finds_bugs_in_highquality_python/)
 - [So I made this game?](https://www.reddit.com/r/Python/comments/jndahu/so_i_made_this_game/)
-- [Polling site](https://www.reddit.com/r/Python/comments/jnd3r5/polling_site/)
-- [A midi sequencer with GUI written in Python, sequencer engine in C](https://www.reddit.com/r/Python/comments/jnca2o/a_midi_sequencer_with_gui_written_in_python/)
+- [Higher Kinded Types in Python](https://www.reddit.com/r/Python/comments/jncpyg/higher_kinded_types_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
