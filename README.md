@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Python project ideas](https://www.reddit.com/r/Python/comments/jn8o1h/python_project_ideas/)
-- [Career Curve of Software Professionals as Bell Curve](https://www.reddit.com/r/Python/comments/jn6494/career_curve_of_software_professionals_as_bell/)
-- [Best Python Books for Beginner and Advanced Programmers](https://www.reddit.com/r/Python/comments/jn4sjo/best_python_books_for_beginner_and_advanced/)
-- [Project Suggestions](https://www.reddit.com/r/Python/comments/jn3uvt/project_suggestions/)
-- [Added theming support to my OpenSource Python software for businesses](https://www.reddit.com/r/Python/comments/jn3ton/added_theming_support_to_my_opensource_python/)
+- [A script for making simple, single color PNG images.](https://www.reddit.com/r/Python/comments/jnaoy4/a_script_for_making_simple_single_color_png_images/)
+- [Pybrowser 2](https://www.reddit.com/r/Python/comments/jnaid2/pybrowser_2/)
+- [Developing Microservice APIs with Python](https://www.reddit.com/r/Python/comments/jnahrk/developing_microservice_apis_with_python/)
+- [New release of Flask-Compress 1.8.0](https://www.reddit.com/r/Python/comments/jnaf7h/new_release_of_flaskcompress_180/)
+- [I made a cute blob in pygame :)](https://www.reddit.com/r/Python/comments/jnab1a/i_made_a_cute_blob_in_pygame/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
