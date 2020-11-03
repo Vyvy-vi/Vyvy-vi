@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Learn Online Python programming from the Experts contact me for further details on my WhatsApp 9934152644](https://www.reddit.com/r/Python/comments/jn39ve/learn_online_python_programming_from_the_experts/)
+- [Project Suggestions](https://www.reddit.com/r/Python/comments/jn3uvt/project_suggestions/)
+- [Added theming support to my OpenSource Python software for businesses](https://www.reddit.com/r/Python/comments/jn3ton/added_theming_support_to_my_opensource_python/)
 - [what IDE do all of you guys use](https://www.reddit.com/r/Python/comments/jn389k/what_ide_do_all_of_you_guys_use/)
 - [Dear PyGui Now Has Built-in Demo](https://www.reddit.com/r/Python/comments/jn2xh2/dear_pygui_now_has_builtin_demo/)
 - [4 Line python-based URL shortener](https://www.reddit.com/r/Python/comments/jn2btp/4_line_pythonbased_url_shortener/)
-- [raspberry pi fan controller](https://www.reddit.com/r/Python/comments/jn22sr/raspberry_pi_fan_controller/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
