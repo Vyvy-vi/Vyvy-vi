@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Considering a switch from PHP to Python](https://www.reddit.com/r/Python/comments/jnjshr/considering_a_switch_from_php_to_python/)
 - [I created a webapp to help find new fantasy football team names. Feedback appreciated!](https://www.reddit.com/r/Python/comments/jnim1d/i_created_a_webapp_to_help_find_new_fantasy/)
 - [I made a straight-line graphing program with Matplotlib](https://www.reddit.com/r/Python/comments/jnhhi9/i_made_a_straightline_graphing_program_with/)
 - [Is it recommended to create a game engine in python? If so, would it be better to make a 2D or 3D engine?](https://www.reddit.com/r/Python/comments/jngege/is_it_recommended_to_create_a_game_engine_in/)
 - [Introduction to Object Oriented Programming in Python](https://www.reddit.com/r/Python/comments/jng1ls/introduction_to_object_oriented_programming_in/)
-- [Linear Regression from Scratch in Python](https://www.reddit.com/r/Python/comments/jnejon/linear_regression_from_scratch_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
