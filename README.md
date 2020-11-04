@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Full Python course for beginners](https://www.reddit.com/r/Python/comments/jnvn1l/full_python_course_for_beginners/)
+- [Introducing SeeLink - A Link Sharing and Collaboration Platform Built With Python](https://www.reddit.com/r/Python/comments/jnvm0i/introducing_seelink_a_link_sharing_and/)
 - [Which book Is Best "Python Crash Course (PCC)" Or "Automate the Boring stuff with python (ATBSP)" for Beginners and Why?](https://www.reddit.com/r/Python/comments/jnuo91/which_book_is_best_python_crash_course_pcc_or/)
 - [How To Build A Messaging Chat App](https://www.reddit.com/r/Python/comments/jnuieb/how_to_build_a_messaging_chat_app/)
 - [Aura - code auditing and static code analysis on large scale (whole PyPI!)](https://www.reddit.com/r/Python/comments/jnu3gz/aura_code_auditing_and_static_code_analysis_on/)
-- [Schools should strengthen Computer Science](https://www.reddit.com/r/Python/comments/jnu248/schools_should_strengthen_computer_science/)
-- [Introducing constraintula](https://www.reddit.com/r/Python/comments/jntrr9/introducing_constraintula/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
