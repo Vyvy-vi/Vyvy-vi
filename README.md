@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [What should I do after basic python?](https://www.reddit.com/r/Python/comments/jnx7ny/what_should_i_do_after_basic_python/)
-- [Modern Python Environments - dependency and workspace management](https://www.reddit.com/r/Python/comments/jnwoj4/modern_python_environments_dependency_and/)
-- [NSFW / SFW Reddit Bot - Full Source code and setup video.](https://www.reddit.com/r/Python/comments/jnw84b/nsfw_sfw_reddit_bot_full_source_code_and_setup/)
-- [Full Python course for beginners](https://www.reddit.com/r/Python/comments/jnvn1l/full_python_course_for_beginners/)
-- [Introducing SeeLink - A Link Sharing and Collaboration Platform Built With Python](https://www.reddit.com/r/Python/comments/jnvm0i/introducing_seelink_a_link_sharing_and/)
+- [Can Julia rival Python for King of Data Science?](https://www.reddit.com/r/Python/comments/jny9jp/can_julia_rival_python_for_king_of_data_science/)
+- [Data Science for Sports - Learn How To Analyze and Visualize Sports Data](https://www.reddit.com/r/Python/comments/jny8h8/data_science_for_sports_learn_how_to_analyze_and/)
+- [I made a program in python that "makes your homework"](https://www.reddit.com/r/Python/comments/jny5mf/i_made_a_program_in_python_that_makes_your/)
+- [Made A Spotify Downloader!](https://www.reddit.com/r/Python/comments/jnxvqd/made_a_spotify_downloader/)
+- [Caching in Python Using the LRU Cache Strategy – Real Python](https://www.reddit.com/r/Python/comments/jnxt75/caching_in_python_using_the_lru_cache_strategy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
