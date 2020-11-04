@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Which book Is Best "Python Crash Course (PCC)" Or "Automate the Boring stuff with python (ATBSP)" for Beginners and Why?](https://www.reddit.com/r/Python/comments/jnuo91/which_book_is_best_python_crash_course_pcc_or/)
+- [How To Build A Messaging Chat App](https://www.reddit.com/r/Python/comments/jnuieb/how_to_build_a_messaging_chat_app/)
 - [Aura - code auditing and static code analysis on large scale (whole PyPI!)](https://www.reddit.com/r/Python/comments/jnu3gz/aura_code_auditing_and_static_code_analysis_on/)
 - [Schools should strengthen Computer Science](https://www.reddit.com/r/Python/comments/jnu248/schools_should_strengthen_computer_science/)
 - [Introducing constraintula](https://www.reddit.com/r/Python/comments/jntrr9/introducing_constraintula/)
-- [Back to Machine Learning Basics – Decision Tree & Random Forest](https://www.reddit.com/r/Python/comments/jntay7/back_to_machine_learning_basics_decision_tree/)
-- [Real-Time International Space Station Tracker using Python](https://www.reddit.com/r/Python/comments/jnt68p/realtime_international_space_station_tracker/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
