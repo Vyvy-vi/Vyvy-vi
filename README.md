@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Can Julia rival Python for King of Data Science?](https://www.reddit.com/r/Python/comments/jny9jp/can_julia_rival_python_for_king_of_data_science/)
-- [Data Science for Sports - Learn How To Analyze and Visualize Sports Data](https://www.reddit.com/r/Python/comments/jny8h8/data_science_for_sports_learn_how_to_analyze_and/)
-- [I made a program in python that "makes your homework"](https://www.reddit.com/r/Python/comments/jny5mf/i_made_a_program_in_python_that_makes_your/)
-- [Made A Spotify Downloader!](https://www.reddit.com/r/Python/comments/jnxvqd/made_a_spotify_downloader/)
-- [Caching in Python Using the LRU Cache Strategy – Real Python](https://www.reddit.com/r/Python/comments/jnxt75/caching_in_python_using_the_lru_cache_strategy/)
+- [Infection Monkey, An Open Source Security Tool](https://www.reddit.com/r/Python/comments/jnzhjm/infection_monkey_an_open_source_security_tool/)
+- [I made a script which generates montages from gaming clips](https://www.reddit.com/r/Python/comments/jnzhaj/i_made_a_script_which_generates_montages_from/)
+- [FastAPI Introduction - Build Your First Web App](https://www.reddit.com/r/Python/comments/jnz3bu/fastapi_introduction_build_your_first_web_app/)
+- [Is Miniconda free for commercial use ?](https://www.reddit.com/r/Python/comments/jnywn7/is_miniconda_free_for_commercial_use/)
+- [Pybrowser2: Search png files in your hard drive](https://www.reddit.com/r/Python/comments/jnykjd/pybrowser2_search_png_files_in_your_hard_drive/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
