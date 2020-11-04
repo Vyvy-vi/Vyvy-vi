@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Back to Machine Learning Basics – Decision Tree & Random Forest](https://www.reddit.com/r/Python/comments/jntay7/back_to_machine_learning_basics_decision_tree/)
+- [Real-Time International Space Station Tracker using Python](https://www.reddit.com/r/Python/comments/jnt68p/realtime_international_space_station_tracker/)
+- [I made a media player with download capabilities.](https://www.reddit.com/r/Python/comments/jnt17j/i_made_a_media_player_with_download_capabilities/)
 - [Gobblet game](https://www.reddit.com/r/Python/comments/jnslb4/gobblet_game/)
 - [Top 10 Free Books for Machine Learning and Data Science](https://www.reddit.com/r/Python/comments/jnshdh/top_10_free_books_for_machine_learning_and_data/)
-- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jnm2fg/wednesday_megathread_beginner_questions/)
-- [A Dependencyless Pure-Python Pandas-like DataFrame (for Lambdas)](https://www.reddit.com/r/Python/comments/jnlk2v/a_dependencyless_purepython_pandaslike_dataframe/)
-- [UWP Python 3.4 port](https://www.reddit.com/r/Python/comments/jnkz5m/uwp_python_34_port/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
