@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I quite didn't get the output so any suggestion on my code?](https://www.reddit.com/r/Python/comments/jo3xhg/i_quite_didnt_get_the_output_so_any_suggestion_on/)
+- [Cool python programs 1- flower garden (using turtle)](https://www.reddit.com/r/Python/comments/jo3mcr/cool_python_programs_1_flower_garden_using_turtle/)
 - [Are there any ides that look clean like repl.it and can run python internally?](https://www.reddit.com/r/Python/comments/jo21kl/are_there_any_ides_that_look_clean_like_replit/)
-- [Python is First among Top 10 Most Wanted Programming Languages](https://www.reddit.com/r/Python/comments/jo1t9v/python_is_first_among_top_10_most_wanted/)
 - [Pytorch implementation of keras metrics](https://www.reddit.com/r/Python/comments/jo0y5d/pytorch_implementation_of_keras_metrics/)
 - [Project Based Python](https://www.reddit.com/r/Python/comments/jo0wr6/project_based_python/)
-- [Infection Monkey, An Open Source Security Tool](https://www.reddit.com/r/Python/comments/jnzhjm/infection_monkey_an_open_source_security_tool/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
