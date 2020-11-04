@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [AudioBook project](https://www.reddit.com/r/Python/comments/jo4kve/audiobook_project/)
+- [Python is Now Officially the Second Most Popular Programming Language](https://www.reddit.com/r/Python/comments/jo4h73/python_is_now_officially_the_second_most_popular/)
 - [I quite didn't get the output so any suggestion on my code?](https://www.reddit.com/r/Python/comments/jo3xhg/i_quite_didnt_get_the_output_so_any_suggestion_on/)
 - [Cool python programs 1- flower garden (using turtle)](https://www.reddit.com/r/Python/comments/jo3mcr/cool_python_programs_1_flower_garden_using_turtle/)
 - [Are there any ides that look clean like repl.it and can run python internally?](https://www.reddit.com/r/Python/comments/jo21kl/are_there_any_ides_that_look_clean_like_replit/)
-- [Pytorch implementation of keras metrics](https://www.reddit.com/r/Python/comments/jo0y5d/pytorch_implementation_of_keras_metrics/)
-- [Project Based Python](https://www.reddit.com/r/Python/comments/jo0wr6/project_based_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
