@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Aura - code auditing and static code analysis on large scale (whole PyPI!)](https://www.reddit.com/r/Python/comments/jnu3gz/aura_code_auditing_and_static_code_analysis_on/)
+- [Schools should strengthen Computer Science](https://www.reddit.com/r/Python/comments/jnu248/schools_should_strengthen_computer_science/)
+- [Introducing constraintula](https://www.reddit.com/r/Python/comments/jntrr9/introducing_constraintula/)
 - [Back to Machine Learning Basics – Decision Tree & Random Forest](https://www.reddit.com/r/Python/comments/jntay7/back_to_machine_learning_basics_decision_tree/)
 - [Real-Time International Space Station Tracker using Python](https://www.reddit.com/r/Python/comments/jnt68p/realtime_international_space_station_tracker/)
-- [I made a media player with download capabilities.](https://www.reddit.com/r/Python/comments/jnt17j/i_made_a_media_player_with_download_capabilities/)
-- [Gobblet game](https://www.reddit.com/r/Python/comments/jnslb4/gobblet_game/)
-- [Top 10 Free Books for Machine Learning and Data Science](https://www.reddit.com/r/Python/comments/jnshdh/top_10_free_books_for_machine_learning_and_data/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
