@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Shooting my shot](https://www.reddit.com/r/Python/comments/jnnysg/shooting_my_shot/)
 - [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jnm2fg/wednesday_megathread_beginner_questions/)
 - [A Dependencyless Pure-Python Pandas-like DataFrame (for Lambdas)](https://www.reddit.com/r/Python/comments/jnlk2v/a_dependencyless_purepython_pandaslike_dataframe/)
 - [UWP Python 3.4 port](https://www.reddit.com/r/Python/comments/jnkz5m/uwp_python_34_port/)
 - [I created a Web scraping Udemy bot](https://www.reddit.com/r/Python/comments/jnkhbv/i_created_a_web_scraping_udemy_bot/)
-- [Considering a switch from PHP to Python](https://www.reddit.com/r/Python/comments/jnjshr/considering_a_switch_from_php_to_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
