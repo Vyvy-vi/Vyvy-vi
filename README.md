@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Are there any ides that look clean like repl.it and can run python internally?](https://www.reddit.com/r/Python/comments/jo21kl/are_there_any_ides_that_look_clean_like_replit/)
+- [Python is First among Top 10 Most Wanted Programming Languages](https://www.reddit.com/r/Python/comments/jo1t9v/python_is_first_among_top_10_most_wanted/)
 - [Pytorch implementation of keras metrics](https://www.reddit.com/r/Python/comments/jo0y5d/pytorch_implementation_of_keras_metrics/)
 - [Project Based Python](https://www.reddit.com/r/Python/comments/jo0wr6/project_based_python/)
-- [My video - "How to make the FizzBuzz game - Python Tutorial"](https://www.reddit.com/r/Python/comments/jnzy5z/my_video_how_to_make_the_fizzbuzz_game_python/)
 - [Infection Monkey, An Open Source Security Tool](https://www.reddit.com/r/Python/comments/jnzhjm/infection_monkey_an_open_source_security_tool/)
-- [I made a script which generates montages from gaming clips](https://www.reddit.com/r/Python/comments/jnzhaj/i_made_a_script_which_generates_montages_from/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
