@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hey guys! I just uploaded my first YouTube video tackling a challenge in python give it a watch if you are a beginner learning python. Let me know how you find it!](https://www.reddit.com/r/Python/comments/joifz1/hey_guys_i_just_uploaded_my_first_youtube_video/)
 - [Python Script to Scrape Wattpad Story and convert directly to Epub and Html file.](https://www.reddit.com/r/Python/comments/johpey/python_script_to_scrape_wattpad_story_and_convert/)
 - [Python overtakes Java to become the second-most popular programming language](https://www.reddit.com/r/Python/comments/johnib/python_overtakes_java_to_become_the_secondmost/)
 - [Easiest way to install and use YOLOv3 neural net for real-time object detection](https://www.reddit.com/r/Python/comments/johilv/easiest_way_to_install_and_use_yolov3_neural_net/)
 - [Ivy: a command-line static website generator in Python](https://www.reddit.com/r/Python/comments/johhtg/ivy_a_commandline_static_website_generator_in/)
-- [Introduction to LSTM Autoencoder Using Keras](https://www.reddit.com/r/Python/comments/joh2l7/introduction_to_lstm_autoencoder_using_keras/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
