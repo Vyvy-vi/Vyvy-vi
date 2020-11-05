@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to export web pages to PDFs in just 6 minutes using Python](https://www.reddit.com/r/Python/comments/jomj4y/learn_how_to_export_web_pages_to_pdfs_in_just_6/)
+- [Poetry vs. Docker caching: Fight!](https://www.reddit.com/r/Python/comments/jomg18/poetry_vs_docker_caching_fight/)
+- [Stumpy: unleashing the power of the matrix profile for time series analysis](https://www.reddit.com/r/Python/comments/jomdqg/stumpy_unleashing_the_power_of_the_matrix_profile/)
 - [I made a script that scrapes free Udemy courses and enrolls you into them](https://www.reddit.com/r/Python/comments/jolntk/i_made_a_script_that_scrapes_free_udemy_courses/)
 - [Python is 2nd most popular language now.](https://www.reddit.com/r/Python/comments/jokkhd/python_is_2nd_most_popular_language_now/)
-- [How PyCharm Started](https://www.reddit.com/r/Python/comments/joke8b/how_pycharm_started/)
-- [docstring for python functions generated automatically - feedback welcome](https://www.reddit.com/r/Python/comments/jok500/docstring_for_python_functions_generated/)
-- [Python Script to Scrape Wattpad Story and convert directly to Epub and Html file.](https://www.reddit.com/r/Python/comments/johpey/python_script_to_scrape_wattpad_story_and_convert/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
