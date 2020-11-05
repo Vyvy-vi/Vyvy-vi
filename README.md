@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Making python's dream of multithreading come true](https://www.reddit.com/r/Python/comments/joeg70/making_pythons_dream_of_multithreading_come_true/)
 - [Deploying Django to Google Cloud Platform - Compute Engine](https://www.reddit.com/r/Python/comments/jodgbd/deploying_django_to_google_cloud_platform_compute/)
 - [Simple Slides with Markdown and Python](https://www.reddit.com/r/Python/comments/jobefy/simple_slides_with_markdown_and_python/)
 - [looking for a good intermediate-advanced python project | all suggestions welcome :)](https://www.reddit.com/r/Python/comments/joas7w/looking_for_a_good_intermediateadvanced_python/)
 - [A Long Refactoring, step by step](https://www.reddit.com/r/Python/comments/joaqau/a_long_refactoring_step_by_step/)
-- [What are the most important real-life skills/modules you don't learn on HackerRank and LeetCode? Threading? I/O?](https://www.reddit.com/r/Python/comments/joajz2/what_are_the_most_important_reallife/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
