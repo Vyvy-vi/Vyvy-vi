@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [looking for a good intermediate-advanced python project | all suggestions welcome :)](https://www.reddit.com/r/Python/comments/joas7w/looking_for_a_good_intermediateadvanced_python/)
+- [A Long Refactoring, step by step](https://www.reddit.com/r/Python/comments/joaqau/a_long_refactoring_step_by_step/)
+- [What are the most important real-life skills/modules you don't learn on HackerRank and LeetCode? Threading? I/O?](https://www.reddit.com/r/Python/comments/joajz2/what_are_the_most_important_reallife/)
+- [Checking statewise election results](https://www.reddit.com/r/Python/comments/joafai/checking_statewise_election_results/)
 - [Building a 2020 Presidential Election Dashboard with Flask and Python (bumping a Python project)](https://www.reddit.com/r/Python/comments/jo8gm9/building_a_2020_presidential_election_dashboard/)
-- [Reading and retyping text using pytesseract](https://www.reddit.com/r/Python/comments/jo87j9/reading_and_retyping_text_using_pytesseract/)
-- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jo81vg/thursday_megathread_python_careers/)
-- [any other way to write to a file?](https://www.reddit.com/r/Python/comments/jo6xt2/any_other_way_to_write_to_a_file/)
-- [I created a quick package to generate heroku/youtube like codes (I plan to use it in a course about Python packaging)](https://www.reddit.com/r/Python/comments/jo6xk1/i_created_a_quick_package_to_generate/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
