@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [List of GAN and Deepfake papers and implementations](https://www.reddit.com/r/Python/comments/jostvf/list_of_gan_and_deepfake_papers_and/)
+- [Higher or Lower Number Game Beginner Tutorial](https://www.reddit.com/r/Python/comments/joseyo/higher_or_lower_number_game_beginner_tutorial/)
 - [https://github.com/SeanQuinn781/face-replace React Flask GUI app to replace faces frame by frame in Video or Images with Emojis, Boxes or Blur](https://www.reddit.com/r/Python/comments/joq1gm/httpsgithubcomseanquinn781facereplace_react_flask/)
 - [Python logo using Python](https://www.reddit.com/r/Python/comments/joov0j/python_logo_using_python/)
 - [Best practices for developing packages locally?](https://www.reddit.com/r/Python/comments/jootuz/best_practices_for_developing_packages_locally/)
-- [Made a Simple Hangman Game and I would like to read your feedbacks in terms of the code and what could've been better.](https://www.reddit.com/r/Python/comments/jonx3d/made_a_simple_hangman_game_and_i_would_like_to/)
-- [A new course on Data Science for Sports for learning how to analyze and visualize sports data.](https://www.reddit.com/r/Python/comments/jondsw/a_new_course_on_data_science_for_sports_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
