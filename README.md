@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simple Slides with Markdown and Python](https://www.reddit.com/r/Python/comments/jobefy/simple_slides_with_markdown_and_python/)
 - [looking for a good intermediate-advanced python project | all suggestions welcome :)](https://www.reddit.com/r/Python/comments/joas7w/looking_for_a_good_intermediateadvanced_python/)
 - [A Long Refactoring, step by step](https://www.reddit.com/r/Python/comments/joaqau/a_long_refactoring_step_by_step/)
 - [What are the most important real-life skills/modules you don't learn on HackerRank and LeetCode? Threading? I/O?](https://www.reddit.com/r/Python/comments/joajz2/what_are_the_most_important_reallife/)
 - [Checking statewise election results](https://www.reddit.com/r/Python/comments/joafai/checking_statewise_election_results/)
-- [Building a 2020 Presidential Election Dashboard with Flask and Python (bumping a Python project)](https://www.reddit.com/r/Python/comments/jo8gm9/building_a_2020_presidential_election_dashboard/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
