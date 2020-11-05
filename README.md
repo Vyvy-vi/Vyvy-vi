@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [PGExtras - PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more](https://www.reddit.com/r/Python/comments/jogbnn/pgextras_postgresql_database_performance_insights/)
+- [I wrote a script to convert Endnote plain text references inside a Word file into editable citations](https://www.reddit.com/r/Python/comments/jog41r/i_wrote_a_script_to_convert_endnote_plain_text/)
+- [IPyPlot - simple and fast way of displaying images in python notebooks](https://www.reddit.com/r/Python/comments/jog0gh/ipyplot_simple_and_fast_way_of_displaying_images/)
+- [Snake Game in ASCII with Python and curses.](https://www.reddit.com/r/Python/comments/jofs1y/snake_game_in_ascii_with_python_and_curses/)
 - [Multiple Linear Regression Machine Learning Algorithm in Python and Sklearn](https://www.reddit.com/r/Python/comments/jof3m5/multiple_linear_regression_machine_learning/)
-- [Making python's dream of multithreading come true](https://www.reddit.com/r/Python/comments/joeg70/making_pythons_dream_of_multithreading_come_true/)
-- [Deploying Django to Google Cloud Platform - Compute Engine](https://www.reddit.com/r/Python/comments/jodgbd/deploying_django_to_google_cloud_platform_compute/)
-- [Simple Slides with Markdown and Python](https://www.reddit.com/r/Python/comments/jobefy/simple_slides_with_markdown_and_python/)
-- [looking for a good intermediate-advanced python project | all suggestions welcome :)](https://www.reddit.com/r/Python/comments/joas7w/looking_for_a_good_intermediateadvanced_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
