@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [PGExtras - PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more](https://www.reddit.com/r/Python/comments/jogbnn/pgextras_postgresql_database_performance_insights/)
-- [I wrote a script to convert Endnote plain text references inside a Word file into editable citations](https://www.reddit.com/r/Python/comments/jog41r/i_wrote_a_script_to_convert_endnote_plain_text/)
-- [IPyPlot - simple and fast way of displaying images in python notebooks](https://www.reddit.com/r/Python/comments/jog0gh/ipyplot_simple_and_fast_way_of_displaying_images/)
-- [Snake Game in ASCII with Python and curses.](https://www.reddit.com/r/Python/comments/jofs1y/snake_game_in_ascii_with_python_and_curses/)
-- [Multiple Linear Regression Machine Learning Algorithm in Python and Sklearn](https://www.reddit.com/r/Python/comments/jof3m5/multiple_linear_regression_machine_learning/)
+- [Job interview challenge feedback](https://www.reddit.com/r/Python/comments/joh0ls/job_interview_challenge_feedback/)
+- [Timeglass: a menu bar timer in Python for macOS](https://www.reddit.com/r/Python/comments/joh005/timeglass_a_menu_bar_timer_in_python_for_macos/)
+- [Easiest way to install and use YOLOv3 neural net for real-time object detection](https://www.reddit.com/r/Python/comments/jogzh7/easiest_way_to_install_and_use_yolov3_neural_net/)
+- [Stack overflow traffic to questions about selected python packages](https://www.reddit.com/r/Python/comments/jogwc5/stack_overflow_traffic_to_questions_about/)
+- [How To Build A Successful Social Learning Platform](https://www.reddit.com/r/Python/comments/jogoss/how_to_build_a_successful_social_learning_platform/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
