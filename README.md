@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Building a 2020 Presidential Election Dashboard with Flask and Python (bumping a Python project)](https://www.reddit.com/r/Python/comments/jo8gm9/building_a_2020_presidential_election_dashboard/)
+- [Reading and retyping text using pytesseract](https://www.reddit.com/r/Python/comments/jo87j9/reading_and_retyping_text_using_pytesseract/)
+- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jo81vg/thursday_megathread_python_careers/)
 - [any other way to write to a file?](https://www.reddit.com/r/Python/comments/jo6xt2/any_other_way_to_write_to_a_file/)
 - [I created a quick package to generate heroku/youtube like codes (I plan to use it in a course about Python packaging)](https://www.reddit.com/r/Python/comments/jo6xk1/i_created_a_quick_package_to_generate/)
-- [Do u guys use PowerPoint or PowerShell as your IDE for python?](https://www.reddit.com/r/Python/comments/jo6qxh/do_u_guys_use_powerpoint_or_powershell_as_your/)
-- [print("Let's Talk Python")- A talk with Python Core Developer Lysandros Nikolaou](https://www.reddit.com/r/Python/comments/jo5k11/printlets_talk_python_a_talk_with_python_core/)
-- [Python's heapq module](https://www.reddit.com/r/Python/comments/jo58fi/pythons_heapq_module/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
