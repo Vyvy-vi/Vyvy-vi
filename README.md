@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a script that scrapes free Udemy courses and enrolls you into them](https://www.reddit.com/r/Python/comments/jolntk/i_made_a_script_that_scrapes_free_udemy_courses/)
+- [Python is 2nd most popular language now.](https://www.reddit.com/r/Python/comments/jokkhd/python_is_2nd_most_popular_language_now/)
 - [How PyCharm Started](https://www.reddit.com/r/Python/comments/joke8b/how_pycharm_started/)
 - [docstring for python functions generated automatically - feedback welcome](https://www.reddit.com/r/Python/comments/jok500/docstring_for_python_functions_generated/)
 - [Python Script to Scrape Wattpad Story and convert directly to Epub and Html file.](https://www.reddit.com/r/Python/comments/johpey/python_script_to_scrape_wattpad_story_and_convert/)
-- [Python overtakes Java to become the second-most popular programming language](https://www.reddit.com/r/Python/comments/johnib/python_overtakes_java_to_become_the_secondmost/)
-- [Easiest way to install and use YOLOv3 neural net for real-time object detection](https://www.reddit.com/r/Python/comments/johilv/easiest_way_to_install_and_use_yolov3_neural_net/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
