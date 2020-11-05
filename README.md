@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Job interview challenge feedback](https://www.reddit.com/r/Python/comments/joh0ls/job_interview_challenge_feedback/)
-- [Timeglass: a menu bar timer in Python for macOS](https://www.reddit.com/r/Python/comments/joh005/timeglass_a_menu_bar_timer_in_python_for_macos/)
-- [Easiest way to install and use YOLOv3 neural net for real-time object detection](https://www.reddit.com/r/Python/comments/jogzh7/easiest_way_to_install_and_use_yolov3_neural_net/)
-- [Stack overflow traffic to questions about selected python packages](https://www.reddit.com/r/Python/comments/jogwc5/stack_overflow_traffic_to_questions_about/)
-- [How To Build A Successful Social Learning Platform](https://www.reddit.com/r/Python/comments/jogoss/how_to_build_a_successful_social_learning_platform/)
+- [Python Script to Scrape Wattpad Story and convert directly to Epub and Html file.](https://www.reddit.com/r/Python/comments/johpey/python_script_to_scrape_wattpad_story_and_convert/)
+- [Python overtakes Java to become the second-most popular programming language](https://www.reddit.com/r/Python/comments/johnib/python_overtakes_java_to_become_the_secondmost/)
+- [Easiest way to install and use YOLOv3 neural net for real-time object detection](https://www.reddit.com/r/Python/comments/johilv/easiest_way_to_install_and_use_yolov3_neural_net/)
+- [Ivy: a command-line static website generator in Python](https://www.reddit.com/r/Python/comments/johhtg/ivy_a_commandline_static_website_generator_in/)
+- [Introduction to LSTM Autoencoder Using Keras](https://www.reddit.com/r/Python/comments/joh2l7/introduction_to_lstm_autoencoder_using_keras/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
