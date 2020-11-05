@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [A new course on Data Science for Sports for learning how to analyze and visualize sports data.](https://www.reddit.com/r/Python/comments/jondsw/a_new_course_on_data_science_for_sports_for/)
+- [Ryven: Flow-based visual scripting for Python](https://www.reddit.com/r/Python/comments/jomxfm/ryven_flowbased_visual_scripting_for_python/)
+- [Locust: a python implementation of "git diff" for abstract syntax trees](https://www.reddit.com/r/Python/comments/jomwmu/locust_a_python_implementation_of_git_diff_for/)
 - [Learn how to export web pages to PDFs in just 6 minutes using Python](https://www.reddit.com/r/Python/comments/jomj4y/learn_how_to_export_web_pages_to_pdfs_in_just_6/)
 - [Poetry vs. Docker caching: Fight!](https://www.reddit.com/r/Python/comments/jomg18/poetry_vs_docker_caching_fight/)
-- [Stumpy: unleashing the power of the matrix profile for time series analysis](https://www.reddit.com/r/Python/comments/jomdqg/stumpy_unleashing_the_power_of_the_matrix_profile/)
-- [I made a script that scrapes free Udemy courses and enrolls you into them](https://www.reddit.com/r/Python/comments/jolntk/i_made_a_script_that_scrapes_free_udemy_courses/)
-- [Python is 2nd most popular language now.](https://www.reddit.com/r/Python/comments/jokkhd/python_is_2nd_most_popular_language_now/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
