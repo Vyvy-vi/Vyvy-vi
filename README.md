@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [https://github.com/SeanQuinn781/face-replace React Flask GUI app to replace faces frame by frame in Video or Images with Emojis, Boxes or Blur](https://www.reddit.com/r/Python/comments/joq1gm/httpsgithubcomseanquinn781facereplace_react_flask/)
 - [Python logo using Python](https://www.reddit.com/r/Python/comments/joov0j/python_logo_using_python/)
 - [Best practices for developing packages locally?](https://www.reddit.com/r/Python/comments/jootuz/best_practices_for_developing_packages_locally/)
-- [I made a choropleth of 2020 polling error!](https://www.reddit.com/r/Python/comments/jooqwg/i_made_a_choropleth_of_2020_polling_error/)
-- [Coding class help](https://www.reddit.com/r/Python/comments/jooehw/coding_class_help/)
 - [Made a Simple Hangman Game and I would like to read your feedbacks in terms of the code and what could've been better.](https://www.reddit.com/r/Python/comments/jonx3d/made_a_simple_hangman_game_and_i_would_like_to/)
+- [A new course on Data Science for Sports for learning how to analyze and visualize sports data.](https://www.reddit.com/r/Python/comments/jondsw/a_new_course_on_data_science_for_sports_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
