@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [A new course on Data Science for Sports for learning how to analyze and visualize sports data.](https://www.reddit.com/r/Python/comments/jondsw/a_new_course_on_data_science_for_sports_for/)
-- [Ryven: Flow-based visual scripting for Python](https://www.reddit.com/r/Python/comments/jomxfm/ryven_flowbased_visual_scripting_for_python/)
-- [Locust: a python implementation of "git diff" for abstract syntax trees](https://www.reddit.com/r/Python/comments/jomwmu/locust_a_python_implementation_of_git_diff_for/)
-- [Learn how to export web pages to PDFs in just 6 minutes using Python](https://www.reddit.com/r/Python/comments/jomj4y/learn_how_to_export_web_pages_to_pdfs_in_just_6/)
-- [Poetry vs. Docker caching: Fight!](https://www.reddit.com/r/Python/comments/jomg18/poetry_vs_docker_caching_fight/)
+- [Python logo using Python](https://www.reddit.com/r/Python/comments/joov0j/python_logo_using_python/)
+- [Best practices for developing packages locally?](https://www.reddit.com/r/Python/comments/jootuz/best_practices_for_developing_packages_locally/)
+- [I made a choropleth of 2020 polling error!](https://www.reddit.com/r/Python/comments/jooqwg/i_made_a_choropleth_of_2020_polling_error/)
+- [Coding class help](https://www.reddit.com/r/Python/comments/jooehw/coding_class_help/)
+- [Made a Simple Hangman Game and I would like to read your feedbacks in terms of the code and what could've been better.](https://www.reddit.com/r/Python/comments/jonx3d/made_a_simple_hangman_game_and_i_would_like_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
