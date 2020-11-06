@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Integrating MailChimp with Django](https://www.reddit.com/r/Python/comments/jp5odh/integrating_mailchimp_with_django/)
+- [6 Small Projects That Will Boost Your Resume](https://www.reddit.com/r/Python/comments/jp5m95/6_small_projects_that_will_boost_your_resume/)
+- [I made a taskbar application to turn off smart lights/switches for Tuya/Smartlife compatible devices!](https://www.reddit.com/r/Python/comments/jp5lrr/i_made_a_taskbar_application_to_turn_off_smart/)
+- [TypeRacer "Cheat"](https://www.reddit.com/r/Python/comments/jp5fsq/typeracer_cheat/)
 - [I post an error to this sub and it gets auto deleted ?](https://www.reddit.com/r/Python/comments/jp4opf/i_post_an_error_to_this_sub_and_it_gets_auto/)
-- [Get historical stock prices at lightning speed with Pyhoo !](https://www.reddit.com/r/Python/comments/jp4krt/get_historical_stock_prices_at_lightning_speed/)
-- [Troubleshooting my python script](https://www.reddit.com/r/Python/comments/jp39cv/troubleshooting_my_python_script/)
-- [Dictionary of Obscure Words for Python](https://www.reddit.com/r/Python/comments/jp2oyy/dictionary_of_obscure_words_for_python/)
-- [Loss Functions in Deep Learning: An Overview](https://www.reddit.com/r/Python/comments/jp2hne/loss_functions_in_deep_learning_an_overview/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
