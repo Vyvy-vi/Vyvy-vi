@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [So I made a slot machine...for the terminal.](https://www.reddit.com/r/Python/comments/jpe783/so_i_made_a_slot_machinefor_the_terminal/)
+- [Best books for beginners](https://www.reddit.com/r/Python/comments/jpe3od/best_books_for_beginners/)
 - [The programming community is amazing](https://www.reddit.com/r/Python/comments/jpckgl/the_programming_community_is_amazing/)
 - [Petition to my pritn() another valid version of the print() function](https://www.reddit.com/r/Python/comments/jpcf75/petition_to_my_pritn_another_valid_version_of_the/)
 - [Disable Ignore or Suppress Warnings in Python Pandas and Jupyter Notebook](https://www.reddit.com/r/Python/comments/jp9mch/disable_ignore_or_suppress_warnings_in_python/)
-- [Our bot scraps Udemy Coupons and then automatically enrolls you to those paid courses for FREE.](https://www.reddit.com/r/Python/comments/jp8yze/our_bot_scraps_udemy_coupons_and_then/)
-- [I'm about to start a Python Developer position. I've been working with VS Code and am used to the hotkeys, general use, and beautiful themes. Convince Me: Why should I use PyCharm instead? What does it do for me?](https://www.reddit.com/r/Python/comments/jp8ne0/im_about_to_start_a_python_developer_position_ive/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
