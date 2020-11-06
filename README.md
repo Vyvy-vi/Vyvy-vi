@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Taking a dictionary as an argument is the root of all evil](https://www.reddit.com/r/Python/comments/jp0x4d/taking_a_dictionary_as_an_argument_is_the_root_of/)
 - [Neural Network from Scratch in Python](https://www.reddit.com/r/Python/comments/jp09ac/neural_network_from_scratch_in_python/)
 - [I made a choropleth map of the 538 forecast error with Python!](https://www.reddit.com/r/Python/comments/jozgjl/i_made_a_choropleth_map_of_the_538_forecast_error/)
 - [Forecasting vote counts in 8 lines of Python](https://www.reddit.com/r/Python/comments/joy2av/forecasting_vote_counts_in_8_lines_of_python/)
 - [Cartography: Graph view of infrastructure assets and relationships between them](https://www.reddit.com/r/Python/comments/jowy74/cartography_graph_view_of_infrastructure_assets/)
-- [Learn about Linear, Ridge, Lasso and the Elastic Net in Python](https://www.reddit.com/r/Python/comments/jowxoe/learn_about_linear_ridge_lasso_and_the_elastic/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
