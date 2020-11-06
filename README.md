@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a choropleth map of the 538 forecast error with Python!](https://www.reddit.com/r/Python/comments/jozgjl/i_made_a_choropleth_map_of_the_538_forecast_error/)
 - [Forecasting vote counts in 8 lines of Python](https://www.reddit.com/r/Python/comments/joy2av/forecasting_vote_counts_in_8_lines_of_python/)
 - [Cartography: Graph view of infrastructure assets and relationships between them](https://www.reddit.com/r/Python/comments/jowy74/cartography_graph_view_of_infrastructure_assets/)
 - [Learn about Linear, Ridge, Lasso and the Elastic Net in Python](https://www.reddit.com/r/Python/comments/jowxoe/learn_about_linear_ridge_lasso_and_the_elastic/)
 - [I've made a simple secure pastebin-like server app (binaries supported too)](https://www.reddit.com/r/Python/comments/jouswf/ive_made_a_simple_secure_pastebinlike_server_app/)
-- [Quick programming question](https://www.reddit.com/r/Python/comments/jourm1/quick_programming_question/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
