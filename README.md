@@ -108,10 +108,10 @@ SCSS                     1 repo              █░░░░░░░░░░�
   
 <!-- BLOG-POST-LIST:START -->
 - [Disable Ignore or Suppress Warnings in Python Pandas and Jupyter Notebook](https://www.reddit.com/r/Python/comments/jp9mch/disable_ignore_or_suppress_warnings_in_python/)
-- [Python chat bot date calculation in Json file](https://www.reddit.com/r/Python/comments/jp93py/python_chat_bot_date_calculation_in_json_file/)
 - [Our bot scraps Udemy Coupons and then automatically enrolls you to those paid courses for FREE.](https://www.reddit.com/r/Python/comments/jp8yze/our_bot_scraps_udemy_coupons_and_then/)
 - [I'm about to start a Python Developer position. I've been working with VS Code and am used to the hotkeys, general use, and beautiful themes. Convince Me: Why should I use PyCharm instead? What does it do for me?](https://www.reddit.com/r/Python/comments/jp8ne0/im_about_to_start_a_python_developer_position_ive/)
 - [a simple GUI project idea for beginners and intermediate Python developers](https://www.reddit.com/r/Python/comments/jp87et/a_simple_gui_project_idea_for_beginners_and/)
+- [Best game libraries for teaching python?](https://www.reddit.com/r/Python/comments/jp79e1/best_game_libraries_for_teaching_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
