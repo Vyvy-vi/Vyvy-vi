@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Our bot scraps Udemy Coupons and then automatically enrolls you to those paid courses for FREE.](https://www.reddit.com/r/Python/comments/jp8yze/our_bot_scraps_udemy_coupons_and_then/)
+- [I'm about to start a Python Developer position. I've been working with VS Code and am used to the hotkeys, general use, and beautiful themes. Convince Me: Why should I use PyCharm instead? What does it do for me?](https://www.reddit.com/r/Python/comments/jp8ne0/im_about_to_start_a_python_developer_position_ive/)
+- [a simple GUI project idea for beginners and intermediate Python developers](https://www.reddit.com/r/Python/comments/jp87et/a_simple_gui_project_idea_for_beginners_and/)
 - [Best game libraries for teaching python?](https://www.reddit.com/r/Python/comments/jp79e1/best_game_libraries_for_teaching_python/)
 - [Kane subOS](https://www.reddit.com/r/Python/comments/jp76ls/kane_subos/)
-- [Integrating MailChimp with Django](https://www.reddit.com/r/Python/comments/jp5odh/integrating_mailchimp_with_django/)
-- [6 Small Projects That Will Boost Your Resume](https://www.reddit.com/r/Python/comments/jp5m95/6_small_projects_that_will_boost_your_resume/)
-- [I made a taskbar application to turn off smart lights/switches for Tuya/Smartlife compatible devices!](https://www.reddit.com/r/Python/comments/jp5lrr/i_made_a_taskbar_application_to_turn_off_smart/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
