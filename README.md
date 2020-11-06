@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I've made a simple secure pastebin-like server app (binaries supported too)](https://www.reddit.com/r/Python/comments/jouswf/ive_made_a_simple_secure_pastebinlike_server_app/)
 - [Quick programming question](https://www.reddit.com/r/Python/comments/jourm1/quick_programming_question/)
-- [How to Fit All Human Knowledge in a Box](https://www.reddit.com/r/Python/comments/joumao/how_to_fit_all_human_knowledge_in_a_box/)
 - [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jou7uo/friday_megathread_free_chat_friday/)
-- [help with chatbot im a complete newbie](https://www.reddit.com/r/Python/comments/jou4zq/help_with_chatbot_im_a_complete_newbie/)
 - [Hehe recursion](https://www.reddit.com/r/Python/comments/jotswx/hehe_recursion/)
+- [List of GAN and Deepfake papers and implementations](https://www.reddit.com/r/Python/comments/jostvf/list_of_gan_and_deepfake_papers_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
