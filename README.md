@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [List of GAN and Deepfake papers and implementations](https://www.reddit.com/r/Python/comments/jostvf/list_of_gan_and_deepfake_papers_and/)
-- [Higher or Lower Number Game Beginner Tutorial](https://www.reddit.com/r/Python/comments/joseyo/higher_or_lower_number_game_beginner_tutorial/)
-- [https://github.com/SeanQuinn781/face-replace React Flask GUI app to replace faces frame by frame in Video or Images with Emojis, Boxes or Blur](https://www.reddit.com/r/Python/comments/joq1gm/httpsgithubcomseanquinn781facereplace_react_flask/)
-- [Python logo using Python](https://www.reddit.com/r/Python/comments/joov0j/python_logo_using_python/)
-- [Best practices for developing packages locally?](https://www.reddit.com/r/Python/comments/jootuz/best_practices_for_developing_packages_locally/)
+- [Quick programming question](https://www.reddit.com/r/Python/comments/jourm1/quick_programming_question/)
+- [How to Fit All Human Knowledge in a Box](https://www.reddit.com/r/Python/comments/joumao/how_to_fit_all_human_knowledge_in_a_box/)
+- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jou7uo/friday_megathread_free_chat_friday/)
+- [help with chatbot im a complete newbie](https://www.reddit.com/r/Python/comments/jou4zq/help_with_chatbot_im_a_complete_newbie/)
+- [Hehe recursion](https://www.reddit.com/r/Python/comments/jotswx/hehe_recursion/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
