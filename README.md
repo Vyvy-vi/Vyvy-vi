@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I post an error to this sub and it gets auto deleted ?](https://www.reddit.com/r/Python/comments/jp4opf/i_post_an_error_to_this_sub_and_it_gets_auto/)
+- [Get historical stock prices at lightning speed with Pyhoo !](https://www.reddit.com/r/Python/comments/jp4krt/get_historical_stock_prices_at_lightning_speed/)
 - [Troubleshooting my python script](https://www.reddit.com/r/Python/comments/jp39cv/troubleshooting_my_python_script/)
 - [Dictionary of Obscure Words for Python](https://www.reddit.com/r/Python/comments/jp2oyy/dictionary_of_obscure_words_for_python/)
 - [Loss Functions in Deep Learning: An Overview](https://www.reddit.com/r/Python/comments/jp2hne/loss_functions_in_deep_learning_an_overview/)
-- [Example walk through of using Selenium Firefox Python - Geckodriver stack for web scraping](https://www.reddit.com/r/Python/comments/jp1rdt/example_walk_through_of_using_selenium_firefox/)
-- [Taking a dictionary as an argument is the root of all evil](https://www.reddit.com/r/Python/comments/jp0x4d/taking_a_dictionary_as_an_argument_is_the_root_of/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
