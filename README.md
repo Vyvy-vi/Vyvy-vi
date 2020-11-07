@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [TypeRacer "cheat"](https://www.reddit.com/r/Python/comments/jpmhc6/typeracer_cheat/)
+- [How to convert ui file into py file](https://www.reddit.com/r/Python/comments/jpmges/how_to_convert_ui_file_into_py_file/)
 - [I Compared the Python Enhancement Proposal (PEP) process with California Ballot Initiatives](https://www.reddit.com/r/Python/comments/jphsf5/i_compared_the_python_enhancement_proposal_pep/)
 - [Start thinking about AARCH64/ARM64 packages?](https://www.reddit.com/r/Python/comments/jpgvk1/start_thinking_about_aarch64arm64_packages/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jpghy0/saturday_megathread_share_your_resources/)
-- [Wrote my first little program, and then got it down to 22 lines :D! Great feeling!](https://www.reddit.com/r/Python/comments/jpftgf/wrote_my_first_little_program_and_then_got_it/)
-- [So I made a slot machine...for the terminal.](https://www.reddit.com/r/Python/comments/jpe783/so_i_made_a_slot_machinefor_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
