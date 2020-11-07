@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [16 year old python freelancer](https://www.reddit.com/r/Python/comments/jpobkc/16_year_old_python_freelancer/)
 - [System shutdown restart in Python](https://www.reddit.com/r/Python/comments/jpnjcv/system_shutdown_restart_in_python/)
 - [TypeRacer "cheat"](https://www.reddit.com/r/Python/comments/jpmhc6/typeracer_cheat/)
 - [How to convert ui file into py file](https://www.reddit.com/r/Python/comments/jpmges/how_to_convert_ui_file_into_py_file/)
 - [I Compared the Python Enhancement Proposal (PEP) process with California Ballot Initiatives](https://www.reddit.com/r/Python/comments/jphsf5/i_compared_the_python_enhancement_proposal_pep/)
-- [Start thinking about AARCH64/ARM64 packages?](https://www.reddit.com/r/Python/comments/jpgvk1/start_thinking_about_aarch64arm64_packages/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
