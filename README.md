@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Less than a week left till the Build Stuff Conference! Hurry to get your 15% discount;)](https://www.reddit.com/r/Python/comments/jpzymi/less_than_a_week_left_till_the_build_stuff/)
 - [How to sync files between a Google Drive folder and a remote server with Python](https://www.reddit.com/r/Python/comments/jpw9va/how_to_sync_files_between_a_google_drive_folder/)
 - [Logistic Regression Machine Learning Classification in Python and Sklearn](https://www.reddit.com/r/Python/comments/jptm00/logistic_regression_machine_learning/)
 - [Play detective on Reddit: Discover political trolls, secret influencers and more](https://www.reddit.com/r/Python/comments/jpt7s7/play_detective_on_reddit_discover_political/)
 - [Snake and apple game in python pygame 1: intro and create surface](https://www.reddit.com/r/Python/comments/jprvg8/snake_and_apple_game_in_python_pygame_1_intro_and/)
-- [Tape: Function Tracking for Your Open Sourced Code](https://www.reddit.com/r/Python/comments/jpq83n/tape_function_tracking_for_your_open_sourced_code/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
