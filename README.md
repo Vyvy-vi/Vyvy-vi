@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Start thinking about AARCH64/ARM64 packages?](https://www.reddit.com/r/Python/comments/jpgvk1/start_thinking_about_aarch64arm64_packages/)
+- [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jpghy0/saturday_megathread_share_your_resources/)
+- [Wrote my first little program, and then got it down to 22 lines :D! Great feeling!](https://www.reddit.com/r/Python/comments/jpftgf/wrote_my_first_little_program_and_then_got_it/)
 - [So I made a slot machine...for the terminal.](https://www.reddit.com/r/Python/comments/jpe783/so_i_made_a_slot_machinefor_the_terminal/)
 - [Best books for beginners](https://www.reddit.com/r/Python/comments/jpe3od/best_books_for_beginners/)
-- [The programming community is amazing](https://www.reddit.com/r/Python/comments/jpckgl/the_programming_community_is_amazing/)
-- [Petition to my pritn() another valid version of the print() function](https://www.reddit.com/r/Python/comments/jpcf75/petition_to_my_pritn_another_valid_version_of_the/)
-- [Disable Ignore or Suppress Warnings in Python Pandas and Jupyter Notebook](https://www.reddit.com/r/Python/comments/jp9mch/disable_ignore_or_suppress_warnings_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
