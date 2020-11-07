@@ -109,9 +109,9 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Logistic Regression Machine Learning Classification in Python and Sklearn](https://www.reddit.com/r/Python/comments/jptm00/logistic_regression_machine_learning/)
 - [Play detective on Reddit: Discover political trolls, secret influencers and more](https://www.reddit.com/r/Python/comments/jpt7s7/play_detective_on_reddit_discover_political/)
-- [why does pylint scream?](https://www.reddit.com/r/Python/comments/jpshpt/why_does_pylint_scream/)
 - [Snake and apple game in python pygame 1: intro and create surface](https://www.reddit.com/r/Python/comments/jprvg8/snake_and_apple_game_in_python_pygame_1_intro_and/)
 - [Tape: Function Tracking for Your Open Sourced Code](https://www.reddit.com/r/Python/comments/jpq83n/tape_function_tracking_for_your_open_sourced_code/)
+- [React Context concept in Python](https://www.reddit.com/r/Python/comments/jppart/react_context_concept_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
