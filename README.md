@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Snake and apple game in python pygame 1: intro and create surface](https://www.reddit.com/r/Python/comments/jprvg8/snake_and_apple_game_in_python_pygame_1_intro_and/)
 - [Tape: Function Tracking for Your Open Sourced Code](https://www.reddit.com/r/Python/comments/jpq83n/tape_function_tracking_for_your_open_sourced_code/)
 - [React Context concept in Python](https://www.reddit.com/r/Python/comments/jppart/react_context_concept_in_python/)
 - [73 Examples to Help You Master Python's f-strings](https://www.reddit.com/r/Python/comments/jpojgg/73_examples_to_help_you_master_pythons_fstrings/)
 - [16 year old python freelancer](https://www.reddit.com/r/Python/comments/jpobkc/16_year_old_python_freelancer/)
-- [System shutdown restart in Python](https://www.reddit.com/r/Python/comments/jpnjcv/system_shutdown_restart_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
