@@ -111,7 +111,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jpghy0/saturday_megathread_share_your_resources/)
 - [Wrote my first little program, and then got it down to 22 lines :D! Great feeling!](https://www.reddit.com/r/Python/comments/jpftgf/wrote_my_first_little_program_and_then_got_it/)
 - [So I made a slot machine...for the terminal.](https://www.reddit.com/r/Python/comments/jpe783/so_i_made_a_slot_machinefor_the_terminal/)
-- [Best books for beginners](https://www.reddit.com/r/Python/comments/jpe3od/best_books_for_beginners/)
+- [The programming community is amazing](https://www.reddit.com/r/Python/comments/jpckgl/the_programming_community_is_amazing/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
