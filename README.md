@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I created a small project to marshall/unmarshall python objects to and from json](https://www.reddit.com/r/Python/comments/jq6ier/i_created_a_small_project_to_marshallunmarshall/)
+- [how can i generate specific wordlist](https://www.reddit.com/r/Python/comments/jq6cs4/how_can_i_generate_specific_wordlist/)
 - [Is there a guide for newbie on how to make python do basic things in debian like copying pasting into different programs?](https://www.reddit.com/r/Python/comments/jq47v5/is_there_a_guide_for_newbie_on_how_to_make_python/)
-- [Learning python](https://www.reddit.com/r/Python/comments/jq3tm4/learning_python/)
 - [Programming language behind Meet](https://www.reddit.com/r/Python/comments/jq3065/programming_language_behind_meet/)
-- [Python in a Full Stack JavaScript App](https://www.reddit.com/r/Python/comments/jq2wss/python_in_a_full_stack_javascript_app/)
-- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/jq1egn/sunday_megathread_whats_everyone_working_on_this/)
+- [I made a simple job queue system](https://www.reddit.com/r/Python/comments/jq2yci/i_made_a_simple_job_queue_system/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
