@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I'm going to start teaching Python to high schoolers in a short while. What is something you'd like to see in a Python course at high school?](https://www.reddit.com/r/Python/comments/jqjiyt/im_going_to_start_teaching_python_to_high/)
+- [If/else list comprehension](https://www.reddit.com/r/Python/comments/jqj9ok/ifelse_list_comprehension/)
+- [Horrible mark with Sateesh Mane's class](https://www.reddit.com/r/Python/comments/jqj2py/horrible_mark_with_sateesh_manes_class/)
+- [Generate vscode snippets with python](https://www.reddit.com/r/Python/comments/jqimnj/generate_vscode_snippets_with_python/)
 - [Comparing command-line tools with pandas for cleaning CSV data](https://www.reddit.com/r/Python/comments/jqij3h/comparing_commandline_tools_with_pandas_for/)
-- [Can anyone show off their web scraping projects?](https://www.reddit.com/r/Python/comments/jqgnv9/can_anyone_show_off_their_web_scraping_projects/)
-- [Learn How to Print Hourglass Pattern](https://www.reddit.com/r/Python/comments/jqfy5m/learn_how_to_print_hourglass_pattern/)
-- [Any good Python IDE options on par with Visual Studio Code on the web?](https://www.reddit.com/r/Python/comments/jqfrc0/any_good_python_ide_options_on_par_with_visual/)
-- [PyCabinet: directories as an object [https://github.com/nmeares/pycabinet]](https://www.reddit.com/r/Python/comments/jqfb32/pycabinet_directories_as_an_object/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
