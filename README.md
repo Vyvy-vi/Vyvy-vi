@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [If you use Poetry, check out the Install Poetry action I made 🎉](https://www.reddit.com/r/Python/comments/jqbc3z/if_you_use_poetry_check_out_the_install_poetry/)
 - [AI that tells you if you are a genius or not.](https://www.reddit.com/r/Python/comments/jqamin/ai_that_tells_you_if_you_are_a_genius_or_not/)
 - [Clustering - Introduction, Areas & Applications (with examples)](https://www.reddit.com/r/Python/comments/jq9yte/clustering_introduction_areas_applications_with/)
 - [Short Tutorial on Downloading Stock Market Quotes From Stooq](https://www.reddit.com/r/Python/comments/jq8vf3/short_tutorial_on_downloading_stock_market_quotes/)
 - [Top 5 Decision Tree Algorithm Advantages and Disadvantages](https://www.reddit.com/r/Python/comments/jq7hqw/top_5_decision_tree_algorithm_advantages_and/)
-- [I created a small project to marshall/unmarshall python objects to and from json](https://www.reddit.com/r/Python/comments/jq6ier/i_created_a_small_project_to_marshallunmarshall/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
