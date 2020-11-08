@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd916/web_scraping_with_python_beginners_tutorial/)
+- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd8am/web_scraping_with_python_beginners_tutorial/)
+- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd75o/web_scraping_with_python_beginners_tutorial/)
+- [Jokes Generator with Python - Tutorial](https://www.reddit.com/r/Python/comments/jqd32n/jokes_generator_with_python_tutorial/)
 - [My weekend project was to write a visual sudoku solver without looking into how other ones are implemented before hand.](https://www.reddit.com/r/Python/comments/jqc9ml/my_weekend_project_was_to_write_a_visual_sudoku/)
-- [If you use Poetry, check out the Install Poetry action I made 🎉](https://www.reddit.com/r/Python/comments/jqbc3z/if_you_use_poetry_check_out_the_install_poetry/)
-- [AI that tells you if you are a genius or not.](https://www.reddit.com/r/Python/comments/jqamin/ai_that_tells_you_if_you_are_a_genius_or_not/)
-- [Clustering - Introduction, Areas & Applications (with examples)](https://www.reddit.com/r/Python/comments/jq9yte/clustering_introduction_areas_applications_with/)
-- [Short Tutorial on Downloading Stock Market Quotes From Stooq](https://www.reddit.com/r/Python/comments/jq8vf3/short_tutorial_on_downloading_stock_market_quotes/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
