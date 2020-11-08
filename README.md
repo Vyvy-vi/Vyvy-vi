@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Short Tutorial on Downloading Stock Market Quotes From Stooq](https://www.reddit.com/r/Python/comments/jq8vf3/short_tutorial_on_downloading_stock_market_quotes/)
 - [Top 5 Decision Tree Algorithm Advantages and Disadvantages](https://www.reddit.com/r/Python/comments/jq7hqw/top_5_decision_tree_algorithm_advantages_and/)
 - [I created a small project to marshall/unmarshall python objects to and from json](https://www.reddit.com/r/Python/comments/jq6ier/i_created_a_small_project_to_marshallunmarshall/)
 - [how can i generate specific wordlist](https://www.reddit.com/r/Python/comments/jq6cs4/how_can_i_generate_specific_wordlist/)
 - [Programming language behind Meet](https://www.reddit.com/r/Python/comments/jq3065/programming_language_behind_meet/)
-- [I made a simple job queue system](https://www.reddit.com/r/Python/comments/jq2yci/i_made_a_simple_job_queue_system/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
