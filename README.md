@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations for ML Social Media Bots](https://www.reddit.com/r/Python/comments/jqf20e/recommendations_for_ml_social_media_bots/)
+- [This week’s open source newsletter just went out! This one had some seriously interesting projects, like a Go P2P Docker registry open sourced by Uber and a Python graph database for managing infrastructure asset relationships open-sourced by Lyft.](https://www.reddit.com/r/Python/comments/jqer32/this_weeks_open_source_newsletter_just_went_out/)
+- [Github doesnt work](https://www.reddit.com/r/Python/comments/jqeicg/github_doesnt_work/)
 - [robust-json: A Python library for working with JSON files and objects](https://www.reddit.com/r/Python/comments/jqdzfh/robustjson_a_python_library_for_working_with_json/)
 - [Minimalistic Todo and Task Application](https://www.reddit.com/r/Python/comments/jqdrfc/minimalistic_todo_and_task_application/)
-- [I created a library for better runtime error messages](https://www.reddit.com/r/Python/comments/jqdd61/i_created_a_library_for_better_runtime_error/)
-- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd916/web_scraping_with_python_beginners_tutorial/)
-- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd8am/web_scraping_with_python_beginners_tutorial/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
