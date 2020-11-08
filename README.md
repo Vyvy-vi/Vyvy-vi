@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Print Hourglass Pattern](https://www.reddit.com/r/Python/comments/jqfy5m/learn_how_to_print_hourglass_pattern/)
+- [Any good Python IDE options on par with Visual Studio Code on the web?](https://www.reddit.com/r/Python/comments/jqfrc0/any_good_python_ide_options_on_par_with_visual/)
+- [PyCabinet: directories as an object [https://github.com/nmeares/pycabinet]](https://www.reddit.com/r/Python/comments/jqfb32/pycabinet_directories_as_an_object/)
 - [Recommendations for ML Social Media Bots](https://www.reddit.com/r/Python/comments/jqf20e/recommendations_for_ml_social_media_bots/)
 - [This week’s open source newsletter just went out! This one had some seriously interesting projects, like a Go P2P Docker registry open sourced by Uber and a Python graph database for managing infrastructure asset relationships open-sourced by Lyft.](https://www.reddit.com/r/Python/comments/jqer32/this_weeks_open_source_newsletter_just_went_out/)
-- [Github doesnt work](https://www.reddit.com/r/Python/comments/jqeicg/github_doesnt_work/)
-- [robust-json: A Python library for working with JSON files and objects](https://www.reddit.com/r/Python/comments/jqdzfh/robustjson_a_python_library_for_working_with_json/)
-- [Minimalistic Todo and Task Application](https://www.reddit.com/r/Python/comments/jqdrfc/minimalistic_todo_and_task_application/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
