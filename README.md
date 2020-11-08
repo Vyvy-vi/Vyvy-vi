@@ -107,9 +107,9 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Decision Tree Algorithm Advantages and Disadvantages](https://www.reddit.com/r/Python/comments/jq7hqw/top_5_decision_tree_algorithm_advantages_and/)
 - [I created a small project to marshall/unmarshall python objects to and from json](https://www.reddit.com/r/Python/comments/jq6ier/i_created_a_small_project_to_marshallunmarshall/)
 - [how can i generate specific wordlist](https://www.reddit.com/r/Python/comments/jq6cs4/how_can_i_generate_specific_wordlist/)
-- [Is there a guide for newbie on how to make python do basic things in debian like copying pasting into different programs?](https://www.reddit.com/r/Python/comments/jq47v5/is_there_a_guide_for_newbie_on_how_to_make_python/)
 - [Programming language behind Meet](https://www.reddit.com/r/Python/comments/jq3065/programming_language_behind_meet/)
 - [I made a simple job queue system](https://www.reddit.com/r/Python/comments/jq2yci/i_made_a_simple_job_queue_system/)
 <!-- BLOG-POST-LIST:END -->
