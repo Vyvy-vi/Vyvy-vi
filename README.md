@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Programming language behind Meet](https://www.reddit.com/r/Python/comments/jq3065/programming_language_behind_meet/)
+- [Python in a Full Stack JavaScript App](https://www.reddit.com/r/Python/comments/jq2wss/python_in_a_full_stack_javascript_app/)
 - [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/jq1egn/sunday_megathread_whats_everyone_working_on_this/)
 - [I Made a Twitter Bot That Posts Every Curse Word I Say](https://www.reddit.com/r/Python/comments/jq0mjv/i_made_a_twitter_bot_that_posts_every_curse_word/)
 - [Hour glass with numbers formatting.](https://www.reddit.com/r/Python/comments/jq0m5g/hour_glass_with_numbers_formatting/)
-- [Less than a week left till the Build Stuff Conference! Hurry to get your 15% discount;)](https://www.reddit.com/r/Python/comments/jpzymi/less_than_a_week_left_till_the_build_stuff/)
-- [How to sync files between a Google Drive folder and a remote server with Python](https://www.reddit.com/r/Python/comments/jpw9va/how_to_sync_files_between_a_google_drive_folder/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
