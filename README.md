@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Comparing command-line tools with pandas for cleaning CSV data](https://www.reddit.com/r/Python/comments/jqij3h/comparing_commandline_tools_with_pandas_for/)
 - [Can anyone show off their web scraping projects?](https://www.reddit.com/r/Python/comments/jqgnv9/can_anyone_show_off_their_web_scraping_projects/)
 - [Learn How to Print Hourglass Pattern](https://www.reddit.com/r/Python/comments/jqfy5m/learn_how_to_print_hourglass_pattern/)
 - [Any good Python IDE options on par with Visual Studio Code on the web?](https://www.reddit.com/r/Python/comments/jqfrc0/any_good_python_ide_options_on_par_with_visual/)
 - [PyCabinet: directories as an object [https://github.com/nmeares/pycabinet]](https://www.reddit.com/r/Python/comments/jqfb32/pycabinet_directories_as_an_object/)
-- [Recommendations for ML Social Media Bots](https://www.reddit.com/r/Python/comments/jqf20e/recommendations_for_ml_social_media_bots/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
