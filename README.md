@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Profile your Python script at transaction level with minimum overhead](https://www.reddit.com/r/Python/comments/jqktv0/profile_your_python_script_at_transaction_level/)
 - [I'm going to start teaching Python to high schoolers in a short while. What is something you'd like to see in a Python course at high school?](https://www.reddit.com/r/Python/comments/jqjiyt/im_going_to_start_teaching_python_to_high/)
 - [If/else list comprehension](https://www.reddit.com/r/Python/comments/jqj9ok/ifelse_list_comprehension/)
 - [Horrible mark with Sateesh Mane's class](https://www.reddit.com/r/Python/comments/jqj2py/horrible_mark_with_sateesh_manes_class/)
 - [Generate vscode snippets with python](https://www.reddit.com/r/Python/comments/jqimnj/generate_vscode_snippets_with_python/)
-- [Comparing command-line tools with pandas for cleaning CSV data](https://www.reddit.com/r/Python/comments/jqij3h/comparing_commandline_tools_with_pandas_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
