@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [robust-json: A Python library for working with JSON files and objects](https://www.reddit.com/r/Python/comments/jqdzfh/robustjson_a_python_library_for_working_with_json/)
+- [Minimalistic Todo and Task Application](https://www.reddit.com/r/Python/comments/jqdrfc/minimalistic_todo_and_task_application/)
+- [I created a library for better runtime error messages](https://www.reddit.com/r/Python/comments/jqdd61/i_created_a_library_for_better_runtime_error/)
 - [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd916/web_scraping_with_python_beginners_tutorial/)
 - [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd8am/web_scraping_with_python_beginners_tutorial/)
-- [Web Scraping with Python - Beginners Tutorial](https://www.reddit.com/r/Python/comments/jqd75o/web_scraping_with_python_beginners_tutorial/)
-- [Jokes Generator with Python - Tutorial](https://www.reddit.com/r/Python/comments/jqd32n/jokes_generator_with_python_tutorial/)
-- [My weekend project was to write a visual sudoku solver without looking into how other ones are implemented before hand.](https://www.reddit.com/r/Python/comments/jqc9ml/my_weekend_project_was_to_write_a_visual_sudoku/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
