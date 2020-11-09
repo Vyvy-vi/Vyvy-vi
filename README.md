@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.reddit.com/r/Python/comments/jqyo53/natural_language_processing_nlp_tutorial_with/)
+- [Use Sentiment Analysis With Python to Classify Movie Reviews – Real Python](https://www.reddit.com/r/Python/comments/jqyevx/use_sentiment_analysis_with_python_to_classify/)
 - [Deploy Your Flask Server To Google Cloud Run Using Github Actions](https://www.reddit.com/r/Python/comments/jqy8dk/deploy_your_flask_server_to_google_cloud_run/)
 - [Scraping tweets without limits using snscrape and tweepy and store them in csv](https://www.reddit.com/r/Python/comments/jqy73z/scraping_tweets_without_limits_using_snscrape_and/)
 - [I wrote a Python script to automatically generate compilations from Reddit videos](https://www.reddit.com/r/Python/comments/jqxxle/i_wrote_a_python_script_to_automatically_generate/)
-- [Comprehensive guide to grouping and aggregating data with pandas](https://www.reddit.com/r/Python/comments/jqxtbj/comprehensive_guide_to_grouping_and_aggregating/)
-- [I made a web application to watch all the videos of a YouTube playlist/channel on the same page.](https://www.reddit.com/r/Python/comments/jqxhzs/i_made_a_web_application_to_watch_all_the_videos/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
