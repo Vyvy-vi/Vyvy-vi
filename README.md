@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Why Build Your Own Corporate LMS?](https://www.reddit.com/r/Python/comments/jqumfg/why_build_your_own_corporate_lms/)
 - [ML Optimization pt.3 - Hyperparameter Optimization with Python](https://www.reddit.com/r/Python/comments/jqtzhi/ml_optimization_pt3_hyperparameter_optimization/)
 - [New to all this Charm!](https://www.reddit.com/r/Python/comments/jqtyvp/new_to_all_this_charm/)
 - [Face recognition (Gender classification)](https://www.reddit.com/r/Python/comments/jqt3ef/face_recognition_gender_classification/)
 - [My first script in python for checking how many lines you have coded in a project](https://www.reddit.com/r/Python/comments/jqs1pm/my_first_script_in_python_for_checking_how_many/)
-- [Crime Logger project](https://www.reddit.com/r/Python/comments/jqo3v6/crime_logger_project/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
