@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.reddit.com/r/Python/comments/jqyo53/natural_language_processing_nlp_tutorial_with/)
-- [Use Sentiment Analysis With Python to Classify Movie Reviews – Real Python](https://www.reddit.com/r/Python/comments/jqyevx/use_sentiment_analysis_with_python_to_classify/)
-- [Deploy Your Flask Server To Google Cloud Run Using Github Actions](https://www.reddit.com/r/Python/comments/jqy8dk/deploy_your_flask_server_to_google_cloud_run/)
-- [Scraping tweets without limits using snscrape and tweepy and store them in csv](https://www.reddit.com/r/Python/comments/jqy73z/scraping_tweets_without_limits_using_snscrape_and/)
-- [I wrote a Python script to automatically generate compilations from Reddit videos](https://www.reddit.com/r/Python/comments/jqxxle/i_wrote_a_python_script_to_automatically_generate/)
+- [A Simple Walk-through with NumPy for Data Science](https://www.reddit.com/r/Python/comments/jr0ovd/a_simple_walkthrough_with_numpy_for_data_science/)
+- [The last few months being unemployed and in quarantine, I've been developing an open-source randomness testing suite called coinflip—and today I just released its first beta!](https://www.reddit.com/r/Python/comments/jr0a75/the_last_few_months_being_unemployed_and_in/)
+- [Visualizing the Evolution of American Street Network Design with Python and OSMnx](https://www.reddit.com/r/Python/comments/jr09xr/visualizing_the_evolution_of_american_street/)
+- [I made a tool for downloading older versions of Steam games.](https://www.reddit.com/r/Python/comments/jqzin5/i_made_a_tool_for_downloading_older_versions_of/)
+- [How to build, deploy and scale a machine learning app on a serverless architecture (Part 0)](https://www.reddit.com/r/Python/comments/jqzh7q/how_to_build_deploy_and_scale_a_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
