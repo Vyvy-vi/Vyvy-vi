@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Make your code look pretty with the help of Python!](https://www.reddit.com/r/Python/comments/jr2tv5/make_your_code_look_pretty_with_the_help_of_python/)
+- [The effortless way to process images with OpenCV Canny algorithm.](https://www.reddit.com/r/Python/comments/jr2djt/the_effortless_way_to_process_images_with_opencv/)
+- [Make your code look pretty with the help of Python!](https://www.reddit.com/r/Python/comments/jr22se/make_your_code_look_pretty_with_the_help_of_python/)
 - [A Simple Walk-through with NumPy for Data Science](https://www.reddit.com/r/Python/comments/jr0ovd/a_simple_walkthrough_with_numpy_for_data_science/)
 - [The last few months being unemployed and in quarantine, I've been developing an open-source randomness testing suite called coinflip—and today I just released its first beta!](https://www.reddit.com/r/Python/comments/jr0a75/the_last_few_months_being_unemployed_and_in/)
-- [Visualizing the Evolution of American Street Network Design with Python and OSMnx](https://www.reddit.com/r/Python/comments/jr09xr/visualizing_the_evolution_of_american_street/)
-- [I made a tool for downloading older versions of Steam games.](https://www.reddit.com/r/Python/comments/jqzin5/i_made_a_tool_for_downloading_older_versions_of/)
-- [How to build, deploy and scale a machine learning app on a serverless architecture (Part 0)](https://www.reddit.com/r/Python/comments/jqzh7q/how_to_build_deploy_and_scale_a_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
