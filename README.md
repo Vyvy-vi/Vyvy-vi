@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Why I Like Py](https://www.reddit.com/r/Python/comments/jr4ko5/why_i_like_py/)
-- [Your data tests failed! Now what?](https://www.reddit.com/r/Python/comments/jr3u8a/your_data_tests_failed_now_what/)
-- [Understanding the Raison D’être of the Mighty Queue with Python](https://www.reddit.com/r/Python/comments/jr3ct7/understanding_the_raison_dêtre_of_the_mighty/)
-- [Web Scraping 101](https://www.reddit.com/r/Python/comments/jr33sn/web_scraping_101/)
-- [I made a code which gets search keywords and showing the google search results.](https://www.reddit.com/r/Python/comments/jr2uxi/i_made_a_code_which_gets_search_keywords_and/)
+- [mph-/lcapy Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.](https://www.reddit.com/r/Python/comments/jr6fnr/mphlcapy_lcapy_is_a_python_package_for_linear/)
+- [Python behind the scenes #4: how Python bytecode is executed](https://www.reddit.com/r/Python/comments/jr6ahw/python_behind_the_scenes_4_how_python_bytecode_is/)
+- [Part 2 is finally here](https://www.reddit.com/r/Python/comments/jr5uzq/part_2_is_finally_here/)
+- [Any good reads on writing organized python code?](https://www.reddit.com/r/Python/comments/jr5isd/any_good_reads_on_writing_organized_python_code/)
+- [BUILD Charts in Python [Seaborn]](https://www.reddit.com/r/Python/comments/jr5brh/build_charts_in_python_seaborn/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
