@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Your data tests failed! Now what?](https://www.reddit.com/r/Python/comments/jr3u8a/your_data_tests_failed_now_what/)
+- [Understanding the Raison D’être of the Mighty Queue with Python](https://www.reddit.com/r/Python/comments/jr3ct7/understanding_the_raison_dêtre_of_the_mighty/)
+- [Web Scraping 101](https://www.reddit.com/r/Python/comments/jr33sn/web_scraping_101/)
+- [I made a code which gets search keywords and showing the google search results.](https://www.reddit.com/r/Python/comments/jr2uxi/i_made_a_code_which_gets_search_keywords_and/)
 - [Make your code look pretty with the help of Python!](https://www.reddit.com/r/Python/comments/jr2tv5/make_your_code_look_pretty_with_the_help_of_python/)
-- [The effortless way to process images with OpenCV Canny algorithm.](https://www.reddit.com/r/Python/comments/jr2djt/the_effortless_way_to_process_images_with_opencv/)
-- [Make your code look pretty with the help of Python!](https://www.reddit.com/r/Python/comments/jr22se/make_your_code_look_pretty_with_the_help_of_python/)
-- [A Simple Walk-through with NumPy for Data Science](https://www.reddit.com/r/Python/comments/jr0ovd/a_simple_walkthrough_with_numpy_for_data_science/)
-- [The last few months being unemployed and in quarantine, I've been developing an open-source randomness testing suite called coinflip—and today I just released its first beta!](https://www.reddit.com/r/Python/comments/jr0a75/the_last_few_months_being_unemployed_and_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
