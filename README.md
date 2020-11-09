@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [#001 Introduction to Machine Learning](https://www.reddit.com/r/Python/comments/jqx7x7/001_introduction_to_machine_learning/)
+- [Rate limiting using Python and Redis](https://www.reddit.com/r/Python/comments/jqx3f1/rate_limiting_using_python_and_redis/)
 - [Introducing Python for Class 10th (Explanation and Questions)](https://www.reddit.com/r/Python/comments/jqwhjs/introducing_python_for_class_10th_explanation_and/)
 - [A Brief History of Python](https://www.reddit.com/r/Python/comments/jqw9ax/a_brief_history_of_python/)
 - [Freelancer here, my client has asked me to build a good front end desktop application, the backend/Script is ready. Tkinter gives a very basic UI, can someone suggest other libraries or video tutorials that I can look into?](https://www.reddit.com/r/Python/comments/jqvwjw/freelancer_here_my_client_has_asked_me_to_build_a/)
-- [Avoiding Bash frustration — Use Python for shell scripts](https://www.reddit.com/r/Python/comments/jqva5b/avoiding_bash_frustration_use_python_for_shell/)
-- [Why Build Your Own Corporate LMS?](https://www.reddit.com/r/Python/comments/jqumfg/why_build_your_own_corporate_lms/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
