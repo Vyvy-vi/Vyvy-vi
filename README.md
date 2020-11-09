@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Why I Like Py](https://www.reddit.com/r/Python/comments/jr4ko5/why_i_like_py/)
 - [Your data tests failed! Now what?](https://www.reddit.com/r/Python/comments/jr3u8a/your_data_tests_failed_now_what/)
 - [Understanding the Raison D’être of the Mighty Queue with Python](https://www.reddit.com/r/Python/comments/jr3ct7/understanding_the_raison_dêtre_of_the_mighty/)
 - [Web Scraping 101](https://www.reddit.com/r/Python/comments/jr33sn/web_scraping_101/)
 - [I made a code which gets search keywords and showing the google search results.](https://www.reddit.com/r/Python/comments/jr2uxi/i_made_a_code_which_gets_search_keywords_and/)
-- [Make your code look pretty with the help of Python!](https://www.reddit.com/r/Python/comments/jr2tv5/make_your_code_look_pretty_with_the_help_of_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
