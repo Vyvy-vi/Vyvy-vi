@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Crime Logger project](https://www.reddit.com/r/Python/comments/jqo3v6/crime_logger_project/)
 - [The Best IDEs, Packages, and Other Essentials for your Python Programmer Toolkit](https://www.reddit.com/r/Python/comments/jqmx7j/the_best_ides_packages_and_other_essentials_for/)
 - [Can someone help me run this?](https://www.reddit.com/r/Python/comments/jqmujg/can_someone_help_me_run_this/)
 - [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/jqmo0h/monday_megathread_project_ideas/)
 - [Profile your Python script at transaction level with minimum overhead](https://www.reddit.com/r/Python/comments/jqktv0/profile_your_python_script_at_transaction_level/)
-- [I'm going to start teaching Python to high schoolers in a short while. What is something you'd like to see in a Python course at high school?](https://www.reddit.com/r/Python/comments/jqjiyt/im_going_to_start_teaching_python_to_high/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
