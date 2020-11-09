@@ -107,11 +107,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [#001 Introduction to Machine Learning](https://www.reddit.com/r/Python/comments/jqx7x7/001_introduction_to_machine_learning/)
-- [Rate limiting using Python and Redis](https://www.reddit.com/r/Python/comments/jqx3f1/rate_limiting_using_python_and_redis/)
-- [Introducing Python for Class 10th (Explanation and Questions)](https://www.reddit.com/r/Python/comments/jqwhjs/introducing_python_for_class_10th_explanation_and/)
-- [A Brief History of Python](https://www.reddit.com/r/Python/comments/jqw9ax/a_brief_history_of_python/)
-- [Freelancer here, my client has asked me to build a good front end desktop application, the backend/Script is ready. Tkinter gives a very basic UI, can someone suggest other libraries or video tutorials that I can look into?](https://www.reddit.com/r/Python/comments/jqvwjw/freelancer_here_my_client_has_asked_me_to_build_a/)
+- [Deploy Your Flask Server To Google Cloud Run Using Github Actions](https://www.reddit.com/r/Python/comments/jqy8dk/deploy_your_flask_server_to_google_cloud_run/)
+- [Scraping tweets without limits using snscrape and tweepy and store them in csv](https://www.reddit.com/r/Python/comments/jqy73z/scraping_tweets_without_limits_using_snscrape_and/)
+- [I wrote a Python script to automatically generate compilations from Reddit videos](https://www.reddit.com/r/Python/comments/jqxxle/i_wrote_a_python_script_to_automatically_generate/)
+- [Comprehensive guide to grouping and aggregating data with pandas](https://www.reddit.com/r/Python/comments/jqxtbj/comprehensive_guide_to_grouping_and_aggregating/)
+- [I made a web application to watch all the videos of a YouTube playlist/channel on the same page.](https://www.reddit.com/r/Python/comments/jqxhzs/i_made_a_web_application_to_watch_all_the_videos/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
