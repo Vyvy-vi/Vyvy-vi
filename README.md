@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jr9p8i/tuesday_megathread_advanced_questions/)
 - [mph-/lcapy Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.](https://www.reddit.com/r/Python/comments/jr6fnr/mphlcapy_lcapy_is_a_python_package_for_linear/)
 - [Python behind the scenes #4: how Python bytecode is executed](https://www.reddit.com/r/Python/comments/jr6ahw/python_behind_the_scenes_4_how_python_bytecode_is/)
 - [Part 2 is finally here](https://www.reddit.com/r/Python/comments/jr5uzq/part_2_is_finally_here/)
 - [Any good reads on writing organized python code?](https://www.reddit.com/r/Python/comments/jr5isd/any_good_reads_on_writing_organized_python_code/)
-- [BUILD Charts in Python [Seaborn]](https://www.reddit.com/r/Python/comments/jr5brh/build_charts_in_python_seaborn/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
