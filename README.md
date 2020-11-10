@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [My first major project: x86 Assembly, in python!](https://www.reddit.com/r/Python/comments/jriqxj/my_first_major_project_x86_assembly_in_python/)
-- [looking for a new IDE](https://www.reddit.com/r/Python/comments/jriq68/looking_for_a_new_ide/)
-- [Hello, fellow python explorers!](https://www.reddit.com/r/Python/comments/jrhuun/hello_fellow_python_explorers/)
-- [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/jrhh8t/the_complete_python_pro_bootcamp_for_2021_by_dr/)
-- [Can anyone solve this problem with python?](https://www.reddit.com/r/Python/comments/jrh6ht/can_anyone_solve_this_problem_with_python/)
+- [VS Code vs. Pycharm](https://www.reddit.com/r/Python/comments/jrjtm1/vs_code_vs_pycharm/)
+- [How Python or Libraries "Owners" makes money?](https://www.reddit.com/r/Python/comments/jrjl1b/how_python_or_libraries_owners_makes_money/)
+- [How To Build A Custom CRM And Make It Thrive](https://www.reddit.com/r/Python/comments/jrjjbe/how_to_build_a_custom_crm_and_make_it_thrive/)
+- [zen of python](https://www.reddit.com/r/Python/comments/jrjirs/zen_of_python/)
+- [Built a Voila webapp from Jupyter with a fancy Vue seats widget to visualize political coalitions in multi-party systems (Netherlands in this case) using poll data with uncertainty estimates](https://www.reddit.com/r/Python/comments/jrjegk/built_a_voila_webapp_from_jupyter_with_a_fancy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
