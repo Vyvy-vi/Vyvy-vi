@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My first major project: x86 Assembly, in python!](https://www.reddit.com/r/Python/comments/jriqxj/my_first_major_project_x86_assembly_in_python/)
+- [looking for a new IDE](https://www.reddit.com/r/Python/comments/jriq68/looking_for_a_new_ide/)
 - [Hello, fellow python explorers!](https://www.reddit.com/r/Python/comments/jrhuun/hello_fellow_python_explorers/)
-- [did I create a Python ... MALWARE?](https://www.reddit.com/r/Python/comments/jrhu71/did_i_create_a_python_malware/)
 - [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/jrhh8t/the_complete_python_pro_bootcamp_for_2021_by_dr/)
 - [Can anyone solve this problem with python?](https://www.reddit.com/r/Python/comments/jrh6ht/can_anyone_solve_this_problem_with_python/)
-- [Run Universal Checks using AI](https://www.reddit.com/r/Python/comments/jrgvs2/run_universal_checks_using_ai/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
