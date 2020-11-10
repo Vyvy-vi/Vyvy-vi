@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Can someone help me with this please](https://www.reddit.com/r/Python/comments/jrr8od/can_someone_help_me_with_this_please/)
+- [Why I switched careers from Aerospace Engineering to Web Development](https://www.reddit.com/r/Python/comments/jrqupm/why_i_switched_careers_from_aerospace_engineering/)
+- [Optimizing your code vs. parallelizing your code](https://www.reddit.com/r/Python/comments/jrqd1q/optimizing_your_code_vs_parallelizing_your_code/)
 - [Crime 29 Demo --> Comments welcome! <--](https://www.reddit.com/r/Python/comments/jrp2yd/crime_29_demo_comments_welcome/)
 - [Hi, I'm not sure if I'm breaking any rules, but I just launched a new Udemy Course on Data Science for Business and Real World. Here's a $9.99 coupon (cheapest I can offer it).](https://www.reddit.com/r/Python/comments/jrodhc/hi_im_not_sure_if_im_breaking_any_rules_but_i/)
-- [AI memory assistant – remember everything you read](https://www.reddit.com/r/Python/comments/jrnzux/ai_memory_assistant_remember_everything_you_read/)
-- [Row based security - looking for suggestions](https://www.reddit.com/r/Python/comments/jrnrn4/row_based_security_looking_for_suggestions/)
-- [Python Selenium | Getting Started With Python And Selenium - Beginner Friendly](https://www.reddit.com/r/Python/comments/jrmx4i/python_selenium_getting_started_with_python_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
