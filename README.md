@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Row based security - looking for suggestions](https://www.reddit.com/r/Python/comments/jrnrn4/row_based_security_looking_for_suggestions/)
+- [Python Selenium | Getting Started With Python And Selenium - Beginner Friendly](https://www.reddit.com/r/Python/comments/jrmx4i/python_selenium_getting_started_with_python_and/)
+- [Create A KEY LOGGER Using Python - Complete Tutorial + Source Code.](https://www.reddit.com/r/Python/comments/jrmrd4/create_a_key_logger_using_python_complete/)
 - [A concise guide to efficient tooling (or at least my take on it :p), VSCode oriented](https://www.reddit.com/r/Python/comments/jrmj2t/a_concise_guide_to_efficient_tooling_or_at_least/)
 - [Archive (encrypt) files and directories to image file 🖼️](https://www.reddit.com/r/Python/comments/jrl1jj/archive_encrypt_files_and_directories_to_image/)
-- [Let's make a Simple Voice Assistant like J.A.R.V.I.S using Python [for Beginners & Intermediates]](https://www.reddit.com/r/Python/comments/jrkseu/lets_make_a_simple_voice_assistant_like_jarvis/)
-- [Strategy Design Pattern With Code](https://www.reddit.com/r/Python/comments/jrkjra/strategy_design_pattern_with_code/)
-- [Using lemme see command on Kane subOS](https://www.reddit.com/r/Python/comments/jrjz36/using_lemme_see_command_on_kane_subos/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
