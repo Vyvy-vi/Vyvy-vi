@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Is the unique way (C)Python's regex implementation handles zero-length matches considered a good thing?](https://www.reddit.com/r/Python/comments/jrtnoh/is_the_unique_way_cpythons_regex_implementation/)
+- [Discord Token logger | how to change info path](https://www.reddit.com/r/Python/comments/jrtz7x/discord_token_logger_how_to_change_info_path/)
+- [Python Tutorial For Beginners | 80 Free Courses](https://www.reddit.com/r/Python/comments/jrtqz3/python_tutorial_for_beginners_80_free_courses/)
 - [(This must be a Bug) matlplotlib warning 'UserWarning: Attempting to set identical bottom==top results' -------- Have others encountered this problem? --- Is there a Work-Around ? ------------- Could someone provide sample code (that contains NO problems) that results in this error ?](https://www.reddit.com/r/Python/comments/jrsymp/this_must_be_a_bug_matlplotlib_warning/)
 - [I automated a youtube channel using python!](https://www.reddit.com/r/Python/comments/jrsw7m/i_automated_a_youtube_channel_using_python/)
 - [git-substatus: a command line tool that makes to inspect git status of sub-directories easy](https://www.reddit.com/r/Python/comments/jrsv89/gitsubstatus_a_command_line_tool_that_makes_to/)
-- [Kane update video showcase!](https://www.reddit.com/r/Python/comments/jrrdbu/kane_update_video_showcase/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
