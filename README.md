@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [A concise guide to efficient tooling (or at least my take on it :p), VSCode oriented](https://www.reddit.com/r/Python/comments/jrmj2t/a_concise_guide_to_efficient_tooling_or_at_least/)
 - [Archive (encrypt) files and directories to image file 🖼️](https://www.reddit.com/r/Python/comments/jrl1jj/archive_encrypt_files_and_directories_to_image/)
 - [Let's make a Simple Voice Assistant like J.A.R.V.I.S using Python [for Beginners & Intermediates]](https://www.reddit.com/r/Python/comments/jrkseu/lets_make_a_simple_voice_assistant_like_jarvis/)
 - [Strategy Design Pattern With Code](https://www.reddit.com/r/Python/comments/jrkjra/strategy_design_pattern_with_code/)
 - [Using lemme see command on Kane subOS](https://www.reddit.com/r/Python/comments/jrjz36/using_lemme_see_command_on_kane_subos/)
-- [VS Code vs. Pycharm](https://www.reddit.com/r/Python/comments/jrjtm1/vs_code_vs_pycharm/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
