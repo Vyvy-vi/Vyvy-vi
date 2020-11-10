@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Can anyone solve this problem with python?](https://www.reddit.com/r/Python/comments/jrh6ht/can_anyone_solve_this_problem_with_python/)
+- [Run Universal Checks using AI](https://www.reddit.com/r/Python/comments/jrgvs2/run_universal_checks_using_ai/)
+- [Hi, this tutorial is about displaying mysql data in table form in python GUI using Treeview. Few features like style and horizontal scrollbar has been added](https://www.reddit.com/r/Python/comments/jrgkv4/hi_this_tutorial_is_about_displaying_mysql_data/)
 - [What is the initial size allocated in a dynamic array ?](https://www.reddit.com/r/Python/comments/jrghlj/what_is_the_initial_size_allocated_in_a_dynamic/)
 - [Feedback](https://www.reddit.com/r/Python/comments/jrdrz7/feedback/)
-- [🔥 A python module that you think should have been available by now.🔥](https://www.reddit.com/r/Python/comments/jrdosv/a_python_module_that_you_think_should_have_been/)
-- [Is anyone using pro version of Wing IDE or PyCharm?](https://www.reddit.com/r/Python/comments/jrdc28/is_anyone_using_pro_version_of_wing_ide_or_pycharm/)
-- [I made a binary, hexadecimal, and octal converter using python](https://www.reddit.com/r/Python/comments/jrbtoc/i_made_a_binary_hexadecimal_and_octal_converter/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
