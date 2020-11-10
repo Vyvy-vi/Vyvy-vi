@@ -108,7 +108,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Please help: given a positive integer n, greater than 1, assign True to is_prime if n has no factors other than 1 and itself. (remember, m is a factor of n, if m divides n evenly.)](https://www.reddit.com/r/Python/comments/jrf6k7/please_help_given_a_positive_integer_n_greater/)
+- [What is the initial size allocated in a dynamic array ?](https://www.reddit.com/r/Python/comments/jrghlj/what_is_the_initial_size_allocated_in_a_dynamic/)
 - [Feedback](https://www.reddit.com/r/Python/comments/jrdrz7/feedback/)
 - [🔥 A python module that you think should have been available by now.🔥](https://www.reddit.com/r/Python/comments/jrdosv/a_python_module_that_you_think_should_have_been/)
 - [Is anyone using pro version of Wing IDE or PyCharm?](https://www.reddit.com/r/Python/comments/jrdc28/is_anyone_using_pro_version_of_wing_ide_or_pycharm/)
