@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Design Pattern With Code](https://www.reddit.com/r/Python/comments/jrkjra/strategy_design_pattern_with_code/)
+- [Using lemme see command on Kane subOS](https://www.reddit.com/r/Python/comments/jrjz36/using_lemme_see_command_on_kane_subos/)
 - [VS Code vs. Pycharm](https://www.reddit.com/r/Python/comments/jrjtm1/vs_code_vs_pycharm/)
 - [How Python or Libraries "Owners" makes money?](https://www.reddit.com/r/Python/comments/jrjl1b/how_python_or_libraries_owners_makes_money/)
 - [How To Build A Custom CRM And Make It Thrive](https://www.reddit.com/r/Python/comments/jrjjbe/how_to_build_a_custom_crm_and_make_it_thrive/)
-- [zen of python](https://www.reddit.com/r/Python/comments/jrjirs/zen_of_python/)
-- [Built a Voila webapp from Jupyter with a fancy Vue seats widget to visualize political coalitions in multi-party systems (Netherlands in this case) using poll data with uncertainty estimates](https://www.reddit.com/r/Python/comments/jrjegk/built_a_voila_webapp_from_jupyter_with_a_fancy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
