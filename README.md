@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Feedback](https://www.reddit.com/r/Python/comments/jrdrz7/feedback/)
+- [🔥 A python module that you think should have been available by now.🔥](https://www.reddit.com/r/Python/comments/jrdosv/a_python_module_that_you_think_should_have_been/)
+- [Is anyone using pro version of Wing IDE or PyCharm?](https://www.reddit.com/r/Python/comments/jrdc28/is_anyone_using_pro_version_of_wing_ide_or_pycharm/)
 - [I made a binary, hexadecimal, and octal converter using python](https://www.reddit.com/r/Python/comments/jrbtoc/i_made_a_binary_hexadecimal_and_octal_converter/)
 - [[Python Code] HHAR-net: Hierarchical Human Activity Recognition using Neural Networks](https://www.reddit.com/r/Python/comments/jrbfzp/python_code_hharnet_hierarchical_human_activity/)
-- [Made a python script that plays a number of poker hands (5 card stud)](https://www.reddit.com/r/Python/comments/jralr6/made_a_python_script_that_plays_a_number_of_poker/)
-- [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jr9p8i/tuesday_megathread_advanced_questions/)
-- [mph-/lcapy Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.](https://www.reddit.com/r/Python/comments/jr6fnr/mphlcapy_lcapy_is_a_python_package_for_linear/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
