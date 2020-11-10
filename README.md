@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Can someone please help me? I would appreciate the love super simple](https://www.reddit.com/r/Python/comments/jrsibh/can_someone_please_help_me_i_would_appreciate_the/)
+- [Is the unique way (C)Python's regex implementation handles zero-length matches considered a good thing?](https://www.reddit.com/r/Python/comments/jrtnoh/is_the_unique_way_cpythons_regex_implementation/)
+- [(This must be a Bug) matlplotlib warning 'UserWarning: Attempting to set identical bottom==top results' -------- Have others encountered this problem? --- Is there a Work-Around ? ------------- Could someone provide sample code (that contains NO problems) that results in this error ?](https://www.reddit.com/r/Python/comments/jrsymp/this_must_be_a_bug_matlplotlib_warning/)
+- [I automated a youtube channel using python!](https://www.reddit.com/r/Python/comments/jrsw7m/i_automated_a_youtube_channel_using_python/)
+- [git-substatus: a command line tool that makes to inspect git status of sub-directories easy](https://www.reddit.com/r/Python/comments/jrsv89/gitsubstatus_a_command_line_tool_that_makes_to/)
 - [Kane update video showcase!](https://www.reddit.com/r/Python/comments/jrrdbu/kane_update_video_showcase/)
-- [Why I switched careers from Aerospace Engineering to Web Development](https://www.reddit.com/r/Python/comments/jrqupm/why_i_switched_careers_from_aerospace_engineering/)
-- [Optimizing your code vs. parallelizing your code](https://www.reddit.com/r/Python/comments/jrqd1q/optimizing_your_code_vs_parallelizing_your_code/)
-- [Crime 29 Demo --> Comments welcome! <--](https://www.reddit.com/r/Python/comments/jrp2yd/crime_29_demo_comments_welcome/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
