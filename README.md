@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Crime 29 Demo --> Comments welcome! <--](https://www.reddit.com/r/Python/comments/jrp2yd/crime_29_demo_comments_welcome/)
 - [Hi, I'm not sure if I'm breaking any rules, but I just launched a new Udemy Course on Data Science for Business and Real World. Here's a $9.99 coupon (cheapest I can offer it).](https://www.reddit.com/r/Python/comments/jrodhc/hi_im_not_sure_if_im_breaking_any_rules_but_i/)
 - [AI memory assistant – remember everything you read](https://www.reddit.com/r/Python/comments/jrnzux/ai_memory_assistant_remember_everything_you_read/)
 - [Row based security - looking for suggestions](https://www.reddit.com/r/Python/comments/jrnrn4/row_based_security_looking_for_suggestions/)
 - [Python Selenium | Getting Started With Python And Selenium - Beginner Friendly](https://www.reddit.com/r/Python/comments/jrmx4i/python_selenium_getting_started_with_python_and/)
-- [Create A KEY LOGGER Using Python - Complete Tutorial + Source Code.](https://www.reddit.com/r/Python/comments/jrmrd4/create_a_key_logger_using_python_complete/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
