@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Please help: given a positive integer n, greater than 1, assign True to is_prime if n has no factors other than 1 and itself. (remember, m is a factor of n, if m divides n evenly.)](https://www.reddit.com/r/Python/comments/jrf6k7/please_help_given_a_positive_integer_n_greater/)
 - [Feedback](https://www.reddit.com/r/Python/comments/jrdrz7/feedback/)
 - [🔥 A python module that you think should have been available by now.🔥](https://www.reddit.com/r/Python/comments/jrdosv/a_python_module_that_you_think_should_have_been/)
 - [Is anyone using pro version of Wing IDE or PyCharm?](https://www.reddit.com/r/Python/comments/jrdc28/is_anyone_using_pro_version_of_wing_ide_or_pycharm/)
 - [I made a binary, hexadecimal, and octal converter using python](https://www.reddit.com/r/Python/comments/jrbtoc/i_made_a_binary_hexadecimal_and_octal_converter/)
-- [[Python Code] HHAR-net: Hierarchical Human Activity Recognition using Neural Networks](https://www.reddit.com/r/Python/comments/jrbfzp/python_code_hharnet_hierarchical_human_activity/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
