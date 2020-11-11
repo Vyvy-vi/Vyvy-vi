@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Youtube Video Tags / Keywords](https://www.reddit.com/r/Python/comments/jsfvb1/scraping_youtube_video_tags_keywords/)
+- [The next project idea](https://www.reddit.com/r/Python/comments/jsfucs/the_next_project_idea/)
 - [I created a course on NumPy, and I'm releasing a bunch of my challenge videos for free.](https://www.reddit.com/r/Python/comments/jsefsh/i_created_a_course_on_numpy_and_im_releasing_a/)
 - [Abusing pytest](https://www.reddit.com/r/Python/comments/jse602/abusing_pytest/)
 - [Type-Casting in Python](https://www.reddit.com/r/Python/comments/jsd37d/typecasting_in_python/)
-- [Update Spotify Playlist automatically with Beautiful Soup, Selenium and Spotify API](https://www.reddit.com/r/Python/comments/jsch99/update_spotify_playlist_automatically_with/)
-- [I made a program that converts images into Lego mosaics.](https://www.reddit.com/r/Python/comments/jscc68/i_made_a_program_that_converts_images_into_lego/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
