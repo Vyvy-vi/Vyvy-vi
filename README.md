@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Faster Python](https://www.reddit.com/r/Python/comments/jrz4mm/faster_python/)
+- [I made a small automation keyboard auto-complete script](https://www.reddit.com/r/Python/comments/jrz2d5/i_made_a_small_automation_keyboard_autocomplete/)
 - [I automated my science homework with python (Tassomai)](https://www.reddit.com/r/Python/comments/jrxe37/i_automated_my_science_homework_with_python/)
 - [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jrwvr6/wednesday_megathread_beginner_questions/)
 - [PEP 642 -- Constraint Pattern Syntax for Structural Pattern Matching](https://www.reddit.com/r/Python/comments/jrwouh/pep_642_constraint_pattern_syntax_for_structural/)
-- [I used Flask and the astroquery.jplhorizons submodule to build a realistic browser-based solar system simulator](https://www.reddit.com/r/Python/comments/jrwj7p/i_used_flask_and_the_astroqueryjplhorizons/)
-- [Discord Token logger | how to change info path](https://www.reddit.com/r/Python/comments/jrtz7x/discord_token_logger_how_to_change_info_path/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
