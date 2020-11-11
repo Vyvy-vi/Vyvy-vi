@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Dependency hell in Python has caused myself and every programmer I know to hate the language](https://www.reddit.com/r/Python/comments/js095f/dependency_hell_in_python_has_caused_myself_and/)
+- [re: Codewars Stop gninnipS My sdroW!](https://www.reddit.com/r/Python/comments/js1sj3/re_codewars_stop_gninnips_my_sdrow/)
+- [I wrote a small utility to help eagerly run a file when a change is observed in a directory](https://www.reddit.com/r/Python/comments/js1cfl/i_wrote_a_small_utility_to_help_eagerly_run_a/)
+- [👨‍💻 Django For Beginners - Models in Django ( Part 5 )](https://www.reddit.com/r/Python/comments/js19qo/django_for_beginners_models_in_django_part_5/)
 - [Help me PLEASE!!!](https://www.reddit.com/r/Python/comments/js065f/help_me_please/)
 - [I made a SSH/FTP Client in Python](https://www.reddit.com/r/Python/comments/jrzhsd/i_made_a_sshftp_client_in_python/)
-- [Faster Python](https://www.reddit.com/r/Python/comments/jrz4mm/faster_python/)
-- [I made a small automation keyboard auto-complete script](https://www.reddit.com/r/Python/comments/jrz2d5/i_made_a_small_automation_keyboard_autocomplete/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
