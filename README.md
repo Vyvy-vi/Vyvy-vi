@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a program to hide images inside other images! (Digital Steganography)](https://www.reddit.com/r/Python/comments/js74i6/i_made_a_program_to_hide_images_inside_other/)
 - [Spent 4 hours building a YouTube comments extracting app using Python over the weekend (based on PyQt5 and YouTube Data API).](https://www.reddit.com/r/Python/comments/js71jo/spent_4_hours_building_a_youtube_comments/)
 - [My Simple Guitar app](https://www.reddit.com/r/Python/comments/js6mh3/my_simple_guitar_app/)
 - [I improved the composition of dialogues for gamedevs](https://www.reddit.com/r/Python/comments/js6m1v/i_improved_the_composition_of_dialogues_for/)
 - [I made a face recognizer using pre-trained DL models and Python. For now, it can recognize some actors and me. You can find the link to the tutorial below. (please upvote that comment so that people can find it easily)](https://www.reddit.com/r/Python/comments/js6erk/i_made_a_face_recognizer_using_pretrained_dl/)
-- [I made an easy-to-use, schemaless layer over SQLite: Goatfish](https://www.reddit.com/r/Python/comments/js6edv/i_made_an_easytouse_schemaless_layer_over_sqlite/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
