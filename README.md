@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Yet another argparse dispatcher but with annotation support](https://www.reddit.com/r/Python/comments/jsauwc/yet_another_argparse_dispatcher_but_with/)
+- [Etebase - An open source and end-to-end encrypted Firebase alternative](https://www.reddit.com/r/Python/comments/js9vh5/etebase_an_open_source_and_endtoend_encrypted/)
 - [Python Packages - check their popularity and how they're commonly used together](https://www.reddit.com/r/Python/comments/js9hw3/python_packages_check_their_popularity_and_how/)
 - [I worked hard on this, try it and then comment.](https://www.reddit.com/r/Python/comments/js9e01/i_worked_hard_on_this_try_it_and_then_comment/)
 - [I made a 3D rendering desktop app from scratch (Tkinter, Numpy, PIL)](https://www.reddit.com/r/Python/comments/js9b1f/i_made_a_3d_rendering_desktop_app_from_scratch/)
-- [Top 10 Uses For Python All Over the World](https://www.reddit.com/r/Python/comments/js9003/top_10_uses_for_python_all_over_the_world/)
-- [Hey Guys, I just posted my "Python Voice Assistant" tutorial on Medium.com! Now you can read it on Medium too!](https://www.reddit.com/r/Python/comments/js8ysz/hey_guys_i_just_posted_my_python_voice_assistant/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
