@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [What are some examples of the best GUIs that can be done with tkinter?](https://www.reddit.com/r/Python/comments/js5iq7/what_are_some_examples_of_the_best_guis_that_can/)
+- [I made a late 90s style chat for fun](https://www.reddit.com/r/Python/comments/js5bgp/i_made_a_late_90s_style_chat_for_fun/)
+- [Binary Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/js571f/binary_search_algorithm_in_python_data_structure/)
+- [Linear Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/js56ro/linear_search_algorithm_in_python_data_structure/)
 - [Could someone help me with that line ? It keeps on putting me "SyntaxError: (unicode error) 'unicodeescape' codec can't decode byes in position 2-3: truncated \UXXXXXXXX escape" ?](https://www.reddit.com/r/Python/comments/js45ox/could_someone_help_me_with_that_line_it_keeps_on/)
-- [Why did I wait so long?](https://www.reddit.com/r/Python/comments/js3xlv/why_did_i_wait_so_long/)
-- [Learn the basics of Python programming language in minutes (A Beginners Guide)](https://www.reddit.com/r/Python/comments/js3sno/learn_the_basics_of_python_programming_language/)
-- [Feedback for my first API and web app(open source)](https://www.reddit.com/r/Python/comments/js32dl/feedback_for_my_first_api_and_web_appopen_source/)
-- [Learn Python Programming Language Online in Tamil](https://www.reddit.com/r/Python/comments/js2zb0/learn_python_programming_language_online_in_tamil/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
