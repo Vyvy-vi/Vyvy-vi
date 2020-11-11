@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Tp-Note learns RestructuredText](https://www.reddit.com/r/Python/comments/js6aep/tpnote_learns_restructuredtext/)
+- [Anyone up for adding a decent chart visualization to the election scraper?](https://www.reddit.com/r/Python/comments/js5y9q/anyone_up_for_adding_a_decent_chart_visualization/)
+- [Offshoring Destinations – Where To Outsource Developers From and Why Choose Poland?](https://www.reddit.com/r/Python/comments/js5we6/offshoring_destinations_where_to_outsource/)
 - [What are some examples of the best GUIs that can be done with tkinter?](https://www.reddit.com/r/Python/comments/js5iq7/what_are_some_examples_of_the_best_guis_that_can/)
 - [I made a late 90s style chat for fun](https://www.reddit.com/r/Python/comments/js5bgp/i_made_a_late_90s_style_chat_for_fun/)
-- [Binary Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/js571f/binary_search_algorithm_in_python_data_structure/)
-- [Linear Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/js56ro/linear_search_algorithm_in_python_data_structure/)
-- [Could someone help me with that line ? It keeps on putting me "SyntaxError: (unicode error) 'unicodeescape' codec can't decode byes in position 2-3: truncated \UXXXXXXXX escape" ?](https://www.reddit.com/r/Python/comments/js45ox/could_someone_help_me_with_that_line_it_keeps_on/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
