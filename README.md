@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I automated my science homework with python (Tassomai)](https://www.reddit.com/r/Python/comments/jrxe37/i_automated_my_science_homework_with_python/)
+- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jrwvr6/wednesday_megathread_beginner_questions/)
+- [PEP 642 -- Constraint Pattern Syntax for Structural Pattern Matching](https://www.reddit.com/r/Python/comments/jrwouh/pep_642_constraint_pattern_syntax_for_structural/)
+- [I used Flask and the astroquery.jplhorizons submodule to build a realistic browser-based solar system simulator](https://www.reddit.com/r/Python/comments/jrwj7p/i_used_flask_and_the_astroqueryjplhorizons/)
 - [Discord Token logger | how to change info path](https://www.reddit.com/r/Python/comments/jrtz7x/discord_token_logger_how_to_change_info_path/)
-- [Python Tutorial For Beginners | 80 Free Courses](https://www.reddit.com/r/Python/comments/jrtqz3/python_tutorial_for_beginners_80_free_courses/)
-- [(This must be a Bug) matlplotlib warning 'UserWarning: Attempting to set identical bottom==top results' -------- Have others encountered this problem? --- Is there a Work-Around ? ------------- Could someone provide sample code (that contains NO problems) that results in this error ?](https://www.reddit.com/r/Python/comments/jrsymp/this_must_be_a_bug_matlplotlib_warning/)
-- [I automated a youtube channel using python!](https://www.reddit.com/r/Python/comments/jrsw7m/i_automated_a_youtube_channel_using_python/)
-- [git-substatus: a command line tool that makes to inspect git status of sub-directories easy](https://www.reddit.com/r/Python/comments/jrsv89/gitsubstatus_a_command_line_tool_that_makes_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
