@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hosting hobby apps](https://www.reddit.com/r/Python/comments/jsitoc/hosting_hobby_apps/)
+- [I'm currently writing a new book on Neural Networks - Check out the first few chapters!](https://www.reddit.com/r/Python/comments/jsipfz/im_currently_writing_a_new_book_on_neural/)
+- [Are there some better Search Options for Python Sphinx Documentation?](https://www.reddit.com/r/Python/comments/jshxgq/are_there_some_better_search_options_for_python/)
+- [What are your favorite AR libraries in Python?](https://www.reddit.com/r/Python/comments/jshs1h/what_are_your_favorite_ar_libraries_in_python/)
 - [Real world application comparison of fast high-level programming languages](https://www.reddit.com/r/Python/comments/jshq9x/real_world_application_comparison_of_fast/)
-- [Scraping Youtube Video Tags / Keywords](https://www.reddit.com/r/Python/comments/jsfvb1/scraping_youtube_video_tags_keywords/)
-- [The next project idea](https://www.reddit.com/r/Python/comments/jsfucs/the_next_project_idea/)
-- [I created a course on NumPy, and I'm releasing a bunch of my challenge videos for free.](https://www.reddit.com/r/Python/comments/jsefsh/i_created_a_course_on_numpy_and_im_releasing_a/)
-- [Abusing pytest](https://www.reddit.com/r/Python/comments/jse602/abusing_pytest/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
