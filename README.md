@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Experiences with FastAPI?](https://www.reddit.com/r/Python/comments/jsb5nk/experiences_with_fastapi/)
-- [Yet another argparse dispatcher but with annotation support](https://www.reddit.com/r/Python/comments/jsauwc/yet_another_argparse_dispatcher_but_with/)
-- [Etebase - An open source and end-to-end encrypted Firebase alternative](https://www.reddit.com/r/Python/comments/js9vh5/etebase_an_open_source_and_endtoend_encrypted/)
-- [Python Packages - check their popularity and how they're commonly used together](https://www.reddit.com/r/Python/comments/js9hw3/python_packages_check_their_popularity_and_how/)
-- [I worked hard on this, try it and then comment.](https://www.reddit.com/r/Python/comments/js9e01/i_worked_hard_on_this_try_it_and_then_comment/)
+- [Type-Casting in Python](https://www.reddit.com/r/Python/comments/jsd37d/typecasting_in_python/)
+- [Top 10 Internships for Machine Learning and Data Science Students](https://www.reddit.com/r/Python/comments/jscyhk/top_10_internships_for_machine_learning_and_data/)
+- [Update Spotify Playlist automatically with Beautiful Soup, Selenium and Spotify API](https://www.reddit.com/r/Python/comments/jsch99/update_spotify_playlist_automatically_with/)
+- [I made a program that converts images into Lego mosaics.](https://www.reddit.com/r/Python/comments/jscc68/i_made_a_program_that_converts_images_into_lego/)
+- [chromedriver not working because it only works with chrome 81](https://www.reddit.com/r/Python/comments/jsc6il/chromedriver_not_working_because_it_only_works/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
