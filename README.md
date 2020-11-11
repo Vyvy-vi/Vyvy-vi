@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Could someone help me with that line ? It keeps on putting me "SyntaxError: (unicode error) 'unicodeescape' codec can't decode byes in position 2-3: truncated \UXXXXXXXX escape" ?](https://www.reddit.com/r/Python/comments/js45ox/could_someone_help_me_with_that_line_it_keeps_on/)
 - [Why did I wait so long?](https://www.reddit.com/r/Python/comments/js3xlv/why_did_i_wait_so_long/)
 - [Learn the basics of Python programming language in minutes (A Beginners Guide)](https://www.reddit.com/r/Python/comments/js3sno/learn_the_basics_of_python_programming_language/)
 - [Feedback for my first API and web app(open source)](https://www.reddit.com/r/Python/comments/js32dl/feedback_for_my_first_api_and_web_appopen_source/)
 - [Learn Python Programming Language Online in Tamil](https://www.reddit.com/r/Python/comments/js2zb0/learn_python_programming_language_online_in_tamil/)
-- [Tetris](https://www.reddit.com/r/Python/comments/js2aa0/tetris/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
