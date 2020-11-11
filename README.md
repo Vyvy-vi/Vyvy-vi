@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I made a program to hide images inside other images! (Digital Steganography)](https://www.reddit.com/r/Python/comments/js74i6/i_made_a_program_to_hide_images_inside_other/)
-- [Spent 4 hours building a YouTube comments extracting app using Python over the weekend (based on PyQt5 and YouTube Data API).](https://www.reddit.com/r/Python/comments/js71jo/spent_4_hours_building_a_youtube_comments/)
-- [My Simple Guitar app](https://www.reddit.com/r/Python/comments/js6mh3/my_simple_guitar_app/)
-- [I improved the composition of dialogues for gamedevs](https://www.reddit.com/r/Python/comments/js6m1v/i_improved_the_composition_of_dialogues_for/)
-- [I made a face recognizer using pre-trained DL models and Python. For now, it can recognize some actors and me. You can find the link to the tutorial below. (please upvote that comment so that people can find it easily)](https://www.reddit.com/r/Python/comments/js6erk/i_made_a_face_recognizer_using_pretrained_dl/)
+- [Python Packages - check their popularity and how they're commonly used together](https://www.reddit.com/r/Python/comments/js9hw3/python_packages_check_their_popularity_and_how/)
+- [I worked hard on this, try it and then comment.](https://www.reddit.com/r/Python/comments/js9e01/i_worked_hard_on_this_try_it_and_then_comment/)
+- [I made a 3D rendering desktop app from scratch (Tkinter, Numpy, PIL)](https://www.reddit.com/r/Python/comments/js9b1f/i_made_a_3d_rendering_desktop_app_from_scratch/)
+- [Top 10 Uses For Python All Over the World](https://www.reddit.com/r/Python/comments/js9003/top_10_uses_for_python_all_over_the_world/)
+- [Hey Guys, I just posted my "Python Voice Assistant" tutorial on Medium.com! Now you can read it on Medium too!](https://www.reddit.com/r/Python/comments/js8ysz/hey_guys_i_just_posted_my_python_voice_assistant/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
