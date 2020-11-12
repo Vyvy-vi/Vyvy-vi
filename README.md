@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an Expert in Software Estimates: Practical Tips to Get a Realistic Project Estimation](https://www.reddit.com/r/Python/comments/jstji8/how_to_become_an_expert_in_software_estimates/)
-- [Framework for enforcing database/configuration/data state?](https://www.reddit.com/r/Python/comments/jssnby/framework_for_enforcing_databaseconfigurationdata/)
-- [How To Integrate Video Conferencing API to Your Application](https://www.reddit.com/r/Python/comments/jsshox/how_to_integrate_video_conferencing_api_to_your/)
-- [Yet Another Package Manager Post - Thoughts about Conda?](https://www.reddit.com/r/Python/comments/jss73h/yet_another_package_manager_post_thoughts_about/)
-- [How To Take A Screenshot Using Python & Selenium?](https://www.reddit.com/r/Python/comments/jsqde8/how_to_take_a_screenshot_using_python_selenium/)
+- [Can Benford's Law be used to detect voter fraud?](https://www.reddit.com/r/Python/comments/jsuxe7/can_benfords_law_be_used_to_detect_voter_fraud/)
+- [The scientific community of #Python 🐍🔬](https://www.reddit.com/r/Python/comments/jsuv8q/the_scientific_community_of_python/)
+- [Basic courses to practice](https://www.reddit.com/r/Python/comments/jsus32/basic_courses_to_practice/)
+- [Python List](https://www.reddit.com/r/Python/comments/jsuqhe/python_list/)
+- [HighFiveHi - A python script integrating ipython and h5py for better usability.](https://www.reddit.com/r/Python/comments/jsuq5r/highfivehi_a_python_script_integrating_ipython/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
