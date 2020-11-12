@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Type Hints in Python](https://www.reddit.com/r/Python/comments/jszlzn/type_hints_in_python/)
 - [Guido van Rossum joins Microsoft](https://www.reddit.com/r/Python/comments/jsyf3c/guido_van_rossum_joins_microsoft/)
 - [Finding and Exploiting S3 Amazon Buckets with Python](https://www.reddit.com/r/Python/comments/jsy3ne/finding_and_exploiting_s3_amazon_buckets_with/)
 - [Help me to find a better solution to get the phone number details](https://www.reddit.com/r/Python/comments/jsy0tl/help_me_to_find_a_better_solution_to_get_the/)
 - [Python + Scraping + Udemy = Data](https://www.reddit.com/r/Python/comments/jsxahd/python_scraping_udemy_data/)
-- [Learn how you can speed-up your Python code (10x-1000x) using numba](https://www.reddit.com/r/Python/comments/jswlca/learn_how_you_can_speedup_your_python_code/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
