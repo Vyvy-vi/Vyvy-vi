@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Sudoku Solver Using Backtracking Approach | Sudoku Puzzle Solver](https://www.reddit.com/r/Python/comments/jsnghn/python_sudoku_solver_using_backtracking_approach/)
+- [Binary Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jsnfmy/binary_search_algorithm_in_python_data_structure/)
+- [what are some projects to do for a resume?](https://www.reddit.com/r/Python/comments/jsmy9j/what_are_some_projects_to_do_for_a_resume/)
 - [How do you Track Progress on your Projects](https://www.reddit.com/r/Python/comments/jsl9gz/how_do_you_track_progress_on_your_projects/)
 - [Simple Python Tutorial for Robinhood API](https://www.reddit.com/r/Python/comments/jsl568/simple_python_tutorial_for_robinhood_api/)
-- [Neural network cars racing game with python](https://www.reddit.com/r/Python/comments/jsko52/neural_network_cars_racing_game_with_python/)
-- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jsjquh/thursday_megathread_python_careers/)
-- [I'm currently writing a new book on Neural Networks - Check out the first few chapters!](https://www.reddit.com/r/Python/comments/jsipfz/im_currently_writing_a_new_book_on_neural/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
