@@ -108,7 +108,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Hosting hobby apps](https://www.reddit.com/r/Python/comments/jsitoc/hosting_hobby_apps/)
+- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jsjquh/thursday_megathread_python_careers/)
 - [I'm currently writing a new book on Neural Networks - Check out the first few chapters!](https://www.reddit.com/r/Python/comments/jsipfz/im_currently_writing_a_new_book_on_neural/)
 - [Are there some better Search Options for Python Sphinx Documentation?](https://www.reddit.com/r/Python/comments/jshxgq/are_there_some_better_search_options_for_python/)
 - [What are your favorite AR libraries in Python?](https://www.reddit.com/r/Python/comments/jshs1h/what_are_your_favorite_ar_libraries_in_python/)
