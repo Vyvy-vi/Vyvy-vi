@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Apple's M1 chip for web dev with Django](https://www.reddit.com/r/Python/comments/jt4346/apples_m1_chip_for_web_dev_with_django/)
+- [Keep calmcode.io and carry on](https://www.reddit.com/r/Python/comments/jt3vtf/keep_calmcodeio_and_carry_on/)
 - [A simple program that I made to shut down a computer with Python](https://www.reddit.com/r/Python/comments/jt35ta/a_simple_program_that_i_made_to_shut_down_a/)
 - [Space Invaders in PyGame!](https://www.reddit.com/r/Python/comments/jt2m64/space_invaders_in_pygame/)
 - [AI neural network training with playable game [link in comments]](https://www.reddit.com/r/Python/comments/jt284f/ai_neural_network_training_with_playable_game/)
-- [How to make a notepad program with python and tkinter](https://www.reddit.com/r/Python/comments/jt1c4v/how_to_make_a_notepad_program_with_python_and/)
-- [Very interesting python project](https://www.reddit.com/r/Python/comments/jt0wko/very_interesting_python_project/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
