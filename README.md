@@ -112,7 +112,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 - [Keep calmcode.io and carry on](https://www.reddit.com/r/Python/comments/jt3vtf/keep_calmcodeio_and_carry_on/)
 - [A simple program that I made to shut down a computer with Python](https://www.reddit.com/r/Python/comments/jt35ta/a_simple_program_that_i_made_to_shut_down_a/)
 - [Space Invaders in PyGame!](https://www.reddit.com/r/Python/comments/jt2m64/space_invaders_in_pygame/)
-- [AI neural network training with playable game [link in comments]](https://www.reddit.com/r/Python/comments/jt284f/ai_neural_network_training_with_playable_game/)
+- [How to make a notepad program with python and tkinter](https://www.reddit.com/r/Python/comments/jt1c4v/how_to_make_a_notepad_program_with_python_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
