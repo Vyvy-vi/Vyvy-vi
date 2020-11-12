@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python + Scraping + Udemy = Data](https://www.reddit.com/r/Python/comments/jsxahd/python_scraping_udemy_data/)
+- [Learn how you can speed-up your Python code (10x-1000x) using numba](https://www.reddit.com/r/Python/comments/jswlca/learn_how_you_can_speedup_your_python_code/)
+- [Never Lose in a typing race again with Python!](https://www.reddit.com/r/Python/comments/jswl6n/never_lose_in_a_typing_race_again_with_python/)
 - [Our experience with Hypothesis testing (and why do we love it so much !)](https://www.reddit.com/r/Python/comments/jsvo9y/our_experience_with_hypothesis_testing_and_why_do/)
-- [Offering paid uni assignment solving](https://www.reddit.com/r/Python/comments/jsve5q/offering_paid_uni_assignment_solving/)
 - [Can Benford's Law be used to detect voter fraud?](https://www.reddit.com/r/Python/comments/jsuxe7/can_benfords_law_be_used_to_detect_voter_fraud/)
-- [The scientific community of #Python 🐍🔬](https://www.reddit.com/r/Python/comments/jsuv8q/the_scientific_community_of_python/)
-- [Basic courses to practice](https://www.reddit.com/r/Python/comments/jsus32/basic_courses_to_practice/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
