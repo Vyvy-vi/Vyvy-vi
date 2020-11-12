@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to Become an Expert in Software Estimates: Practical Tips to Get a Realistic Project Estimation](https://www.reddit.com/r/Python/comments/jstji8/how_to_become_an_expert_in_software_estimates/)
 - [Framework for enforcing database/configuration/data state?](https://www.reddit.com/r/Python/comments/jssnby/framework_for_enforcing_databaseconfigurationdata/)
 - [How To Integrate Video Conferencing API to Your Application](https://www.reddit.com/r/Python/comments/jsshox/how_to_integrate_video_conferencing_api_to_your/)
 - [Yet Another Package Manager Post - Thoughts about Conda?](https://www.reddit.com/r/Python/comments/jss73h/yet_another_package_manager_post_thoughts_about/)
 - [How To Take A Screenshot Using Python & Selenium?](https://www.reddit.com/r/Python/comments/jsqde8/how_to_take_a_screenshot_using_python_selenium/)
-- [Plexiglass: A cybersecurity research toolbox for adversarial attacks and deepfakes](https://www.reddit.com/r/Python/comments/jsppl5/plexiglass_a_cybersecurity_research_toolbox_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
