@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Package Manager Post - Thoughts about Conda?](https://www.reddit.com/r/Python/comments/jss73h/yet_another_package_manager_post_thoughts_about/)
 - [How To Take A Screenshot Using Python & Selenium?](https://www.reddit.com/r/Python/comments/jsqde8/how_to_take_a_screenshot_using_python_selenium/)
 - [Plexiglass: A cybersecurity research toolbox for adversarial attacks and deepfakes](https://www.reddit.com/r/Python/comments/jsppl5/plexiglass_a_cybersecurity_research_toolbox_for/)
 - [Python Sudoku Solver Using Backtracking Approach | Sudoku Puzzle Solver](https://www.reddit.com/r/Python/comments/jsnghn/python_sudoku_solver_using_backtracking_approach/)
 - [Binary Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jsnfmy/binary_search_algorithm_in_python_data_structure/)
-- [what are some projects to do for a resume?](https://www.reddit.com/r/Python/comments/jsmy9j/what_are_some_projects_to_do_for_a_resume/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
