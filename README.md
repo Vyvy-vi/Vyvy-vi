@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to make a notepad program with python and tkinter](https://www.reddit.com/r/Python/comments/jt1c4v/how_to_make_a_notepad_program_with_python_and/)
 - [Very interesting python project](https://www.reddit.com/r/Python/comments/jt0wko/very_interesting_python_project/)
 - [What topic will be discussed when Sir Guido Van Rossum will meet Sir Anders Hejlsberg over a cup of coffee at Microsoft ??](https://www.reddit.com/r/Python/comments/jt0p0r/what_topic_will_be_discussed_when_sir_guido_van/)
 - [Python creator Guido van Rossum joins Microsoft](https://www.reddit.com/r/Python/comments/jt0ktm/python_creator_guido_van_rossum_joins_microsoft/)
 - [Type Hints in Python](https://www.reddit.com/r/Python/comments/jszlzn/type_hints_in_python/)
-- [Guido van Rossum joins Microsoft](https://www.reddit.com/r/Python/comments/jsyf3c/guido_van_rossum_joins_microsoft/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
