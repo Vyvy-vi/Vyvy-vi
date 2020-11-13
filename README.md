@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Best way to run Jenkins Job from the Command Line](https://www.reddit.com/r/Python/comments/jtq326/best_way_to_run_jenkins_job_from_the_command_line/)
 - [python game issues](https://www.reddit.com/r/Python/comments/jtp1ue/python_game_issues/)
 - [Find a Python Library for your projects](https://www.reddit.com/r/Python/comments/jtoavg/find_a_python_library_for_your_projects/)
 - [Python - Currency Converter using Free API | No API Key needed | OpenSource](https://www.reddit.com/r/Python/comments/jto8ka/python_currency_converter_using_free_api_no_api/)
 - [Code explanation @ 5:00](https://www.reddit.com/r/Python/comments/jtmsqv/code_explanation_500/)
-- [A daily countdown text message of days until to 2021 using python](https://www.reddit.com/r/Python/comments/jtlzvy/a_daily_countdown_text_message_of_days_until_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
