@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Scientific Machine Learning with Julia: the SciML ecosystem](https://www.reddit.com/r/Python/comments/jtjrwe/scientific_machine_learning_with_julia_the_sciml/)
 - [Anvil, a platform for building full-stack web apps with nothing but Python, has open-sourced 2 of their major components (maybe the whole thing).](https://www.reddit.com/r/Python/comments/jtj9t6/anvil_a_platform_for_building_fullstack_web_apps/)
 - [How I made an Among Us Bot in Python using PyAutoGUI perform Simple Tasks [Steam/PC]](https://www.reddit.com/r/Python/comments/jtj2mv/how_i_made_an_among_us_bot_in_python_using/)
 - [I have programmed a playable game and trained multiple AI agents on it!](https://www.reddit.com/r/Python/comments/jtiw3n/i_have_programmed_a_playable_game_and_trained/)
 - [I Wrote a Python Script for SEO Automation.](https://www.reddit.com/r/Python/comments/jtiogp/i_wrote_a_python_script_for_seo_automation/)
-- [Start page numbering from a specific page in Microsoft Word python-docx](https://www.reddit.com/r/Python/comments/jthqfn/start_page_numbering_from_a_specific_page_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
