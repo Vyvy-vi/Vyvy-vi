@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Anvil, a platform for building full-stack web apps with nothing but Python, has open-sourced 2 of their major components (maybe the whole thing).](https://www.reddit.com/r/Python/comments/jtj9t6/anvil_a_platform_for_building_fullstack_web_apps/)
+- [How I made an Among Us Bot in Python using PyAutoGUI perform Simple Tasks [Steam/PC]](https://www.reddit.com/r/Python/comments/jtj2mv/how_i_made_an_among_us_bot_in_python_using/)
+- [I have programmed a playable game and trained multiple AI agents on it!](https://www.reddit.com/r/Python/comments/jtiw3n/i_have_programmed_a_playable_game_and_trained/)
+- [I Wrote a Python Script for SEO Automation.](https://www.reddit.com/r/Python/comments/jtiogp/i_wrote_a_python_script_for_seo_automation/)
 - [Start page numbering from a specific page in Microsoft Word python-docx](https://www.reddit.com/r/Python/comments/jthqfn/start_page_numbering_from_a_specific_page_in/)
-- [I've created a tool to allow you to read & store comics online for free. Searchable by artist, writer, year, character. Anything uploaded before 1st June 2021 doesn't count towards storage cost forever. My first big project](https://www.reddit.com/r/Python/comments/jthhim/ive_created_a_tool_to_allow_you_to_read_store/)
-- [AI Builds an Instagram Account](https://www.reddit.com/r/Python/comments/jtfyjq/ai_builds_an_instagram_account/)
-- [I made a program to generate weed strain names using a RNN from scratch](https://www.reddit.com/r/Python/comments/jtfyis/i_made_a_program_to_generate_weed_strain_names/)
-- [Laptop choice?](https://www.reddit.com/r/Python/comments/jtfv8i/laptop_choice/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
