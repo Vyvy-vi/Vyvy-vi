@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Start page numbering from a specific page in Microsoft Word python-docx](https://www.reddit.com/r/Python/comments/jthqfn/start_page_numbering_from_a_specific_page_in/)
+- [I've created a tool to allow you to read & store comics online for free. Searchable by artist, writer, year, character. Anything uploaded before 1st June 2021 doesn't count towards storage cost forever. My first big project](https://www.reddit.com/r/Python/comments/jthhim/ive_created_a_tool_to_allow_you_to_read_store/)
 - [AI Builds an Instagram Account](https://www.reddit.com/r/Python/comments/jtfyjq/ai_builds_an_instagram_account/)
 - [I made a program to generate weed strain names using a RNN from scratch](https://www.reddit.com/r/Python/comments/jtfyis/i_made_a_program_to_generate_weed_strain_names/)
 - [Laptop choice?](https://www.reddit.com/r/Python/comments/jtfv8i/laptop_choice/)
-- [Plotly Express tutorial](https://www.reddit.com/r/Python/comments/jtfo6v/plotly_express_tutorial/)
-- [Created a Discord CS:GO stats Bot, Cars10](https://www.reddit.com/r/Python/comments/jtfelm/created_a_discord_csgo_stats_bot_cars10/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
