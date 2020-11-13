@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [What is coming with Python3.10!](https://www.reddit.com/r/Python/comments/jt788n/what_is_coming_with_python310/)
 - [New to python need help with a problem](https://www.reddit.com/r/Python/comments/jt6olj/new_to_python_need_help_with_a_problem/)
 - [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jt6eoa/friday_megathread_free_chat_friday/)
 - [Apple's M1 chip for web dev with Django](https://www.reddit.com/r/Python/comments/jt4346/apples_m1_chip_for_web_dev_with_django/)
 - [Keep calmcode.io and carry on](https://www.reddit.com/r/Python/comments/jt3vtf/keep_calmcodeio_and_carry_on/)
-- [A simple program that I made to shut down a computer with Python](https://www.reddit.com/r/Python/comments/jt35ta/a_simple_program_that_i_made_to_shut_down_a/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
