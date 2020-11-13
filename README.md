@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Background for Video Conferencing using image segmentation(TensorFlow) and OpenCV, Python](https://www.reddit.com/r/Python/comments/jte8ml/virtual_background_for_video_conferencing_using/)
+- [Web application allowing page numbering from specific page utilizing python-docx](https://www.reddit.com/r/Python/comments/jte4py/web_application_allowing_page_numbering_from/)
 - [Factories & @classmethod - Example | Python OOP](https://www.reddit.com/r/Python/comments/jtdvdd/factories_classmethod_example_python_oop/)
 - [Python swallows Java to become second-most popular programming language](https://www.reddit.com/r/Python/comments/jtdi2e/python_swallows_java_to_become_secondmost_popular/)
 - [What One question you will ask to applicants if you want to hire Python Developer [ Web / Machine Learning / Artificial Intelligence / Data Science ] ?](https://www.reddit.com/r/Python/comments/jtdbaa/what_one_question_you_will_ask_to_applicants_if/)
-- [What Are The New Features In Python 3.9?](https://www.reddit.com/r/Python/comments/jtchmo/what_are_the_new_features_in_python_39/)
-- [Python + Odoo = ERP (Like SAP)](https://www.reddit.com/r/Python/comments/jtcguk/python_odoo_erp_like_sap/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
