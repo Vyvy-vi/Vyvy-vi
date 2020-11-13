@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [What One question you will ask to applicants if you want to hire Python Developer [ Web / Machine Learning / Artificial Intelligence / Data Science ] ?](https://www.reddit.com/r/Python/comments/jtdbaa/what_one_question_you_will_ask_to_applicants_if/)
 - [What Are The New Features In Python 3.9?](https://www.reddit.com/r/Python/comments/jtchmo/what_are_the_new_features_in_python_39/)
 - [Python + Odoo = ERP (Like SAP)](https://www.reddit.com/r/Python/comments/jtcguk/python_odoo_erp_like_sap/)
 - [Brainf*ck Interpreter/Editor in Python](https://www.reddit.com/r/Python/comments/jt83vi/brainfck_interpretereditor_in_python/)
 - [What is coming with Python3.10!](https://www.reddit.com/r/Python/comments/jt788n/what_is_coming_with_python310/)
-- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jt6eoa/friday_megathread_free_chat_friday/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
