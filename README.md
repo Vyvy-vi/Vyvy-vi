@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [joshlk/many_requests Dead easy interface for executing many HTTP requests asynchronously.](https://www.reddit.com/r/Python/comments/jteuug/joshlkmany_requests_dead_easy_interface_for/)
-- [Instant feedback, instant-debugging Python coding](https://www.reddit.com/r/Python/comments/jterba/instant_feedback_instantdebugging_python_coding/)
-- [Manylinux1 is obsolete, manylinux2010 is almost EOL, what is next?](https://www.reddit.com/r/Python/comments/jteodf/manylinux1_is_obsolete_manylinux2010_is_almost/)
-- [Virtual Background for Video Conferencing using image segmentation(TensorFlow) and OpenCV, Python](https://www.reddit.com/r/Python/comments/jte8ml/virtual_background_for_video_conferencing_using/)
-- [Web application allowing page numbering from specific page utilizing python-docx](https://www.reddit.com/r/Python/comments/jte4py/web_application_allowing_page_numbering_from/)
+- [AI Builds an Instagram Account](https://www.reddit.com/r/Python/comments/jtfyjq/ai_builds_an_instagram_account/)
+- [I made a program to generate weed strain names using a RNN from scratch](https://www.reddit.com/r/Python/comments/jtfyis/i_made_a_program_to_generate_weed_strain_names/)
+- [Laptop choice?](https://www.reddit.com/r/Python/comments/jtfv8i/laptop_choice/)
+- [Plotly Express tutorial](https://www.reddit.com/r/Python/comments/jtfo6v/plotly_express_tutorial/)
+- [Created a Discord CS:GO stats Bot, Cars10](https://www.reddit.com/r/Python/comments/jtfelm/created_a_discord_csgo_stats_bot_cars10/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
