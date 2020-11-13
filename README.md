@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [joshlk/many_requests Dead easy interface for executing many HTTP requests asynchronously.](https://www.reddit.com/r/Python/comments/jteuug/joshlkmany_requests_dead_easy_interface_for/)
+- [Instant feedback, instant-debugging Python coding](https://www.reddit.com/r/Python/comments/jterba/instant_feedback_instantdebugging_python_coding/)
+- [Manylinux1 is obsolete, manylinux2010 is almost EOL, what is next?](https://www.reddit.com/r/Python/comments/jteodf/manylinux1_is_obsolete_manylinux2010_is_almost/)
 - [Virtual Background for Video Conferencing using image segmentation(TensorFlow) and OpenCV, Python](https://www.reddit.com/r/Python/comments/jte8ml/virtual_background_for_video_conferencing_using/)
 - [Web application allowing page numbering from specific page utilizing python-docx](https://www.reddit.com/r/Python/comments/jte4py/web_application_allowing_page_numbering_from/)
-- [Factories & @classmethod - Example | Python OOP](https://www.reddit.com/r/Python/comments/jtdvdd/factories_classmethod_example_python_oop/)
-- [Python swallows Java to become second-most popular programming language](https://www.reddit.com/r/Python/comments/jtdi2e/python_swallows_java_to_become_secondmost_popular/)
-- [What One question you will ask to applicants if you want to hire Python Developer [ Web / Machine Learning / Artificial Intelligence / Data Science ] ?](https://www.reddit.com/r/Python/comments/jtdbaa/what_one_question_you_will_ask_to_applicants_if/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
