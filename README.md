@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Code explanation @ 5:00](https://www.reddit.com/r/Python/comments/jtmsqv/code_explanation_500/)
 - [A daily countdown text message of days until to 2021 using python](https://www.reddit.com/r/Python/comments/jtlzvy/a_daily_countdown_text_message_of_days_until_to/)
 - [Hunting for Malicious Packages on PyPI](https://www.reddit.com/r/Python/comments/jtk1ic/hunting_for_malicious_packages_on_pypi/)
 - [Scientific Machine Learning with Julia: the SciML ecosystem](https://www.reddit.com/r/Python/comments/jtjrwe/scientific_machine_learning_with_julia_the_sciml/)
 - [Anvil, a platform for building full-stack web apps with nothing but Python, has open-sourced 2 of their major components (maybe the whole thing).](https://www.reddit.com/r/Python/comments/jtj9t6/anvil_a_platform_for_building_fullstack_web_apps/)
-- [How I made an Among Us Bot in Python using PyAutoGUI perform Simple Tasks [Steam/PC]](https://www.reddit.com/r/Python/comments/jtj2mv/how_i_made_an_among_us_bot_in_python_using/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
