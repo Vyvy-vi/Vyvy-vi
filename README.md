@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [The Moral Dilemmas of Self-Driving Cars](https://www.reddit.com/r/Python/comments/jtsqyw/the_moral_dilemmas_of_selfdriving_cars/)
+- [MySQL + Python Tut for Beginners](https://www.reddit.com/r/Python/comments/jtsnk3/mysql_python_tut_for_beginners/)
 - [A Worksheet Generator for ESL Teachers](https://www.reddit.com/r/Python/comments/jts3y7/a_worksheet_generator_for_esl_teachers/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jtrnx3/saturday_megathread_share_your_resources/)
 - [Best way to run Jenkins Job from the Command Line](https://www.reddit.com/r/Python/comments/jtq326/best_way_to_run_jenkins_job_from_the_command_line/)
-- [python game issues](https://www.reddit.com/r/Python/comments/jtp1ue/python_game_issues/)
-- [Find a Python Library for your projects](https://www.reddit.com/r/Python/comments/jtoavg/find_a_python_library_for_your_projects/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
