@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [python app to track amazon prices](https://www.reddit.com/r/Python/comments/jua99n/python_app_to_track_amazon_prices/)
 - [DIY Synthesizer in Python DEVLOG #3 - Raspberry Pi & Code Release](https://www.reddit.com/r/Python/comments/ju8vib/diy_synthesizer_in_python_devlog_3_raspberry_pi/)
 - [Tinkerdoodle: Connect MicroPython devices to Jupyter Notebooks with WebUSB](https://www.reddit.com/r/Python/comments/ju8p0y/tinkerdoodle_connect_micropython_devices_to/)
 - [Duck Typing in Python - Renan Moura](https://www.reddit.com/r/Python/comments/ju8ek2/duck_typing_in_python_renan_moura/)
 - [Why's Python so famous?](https://www.reddit.com/r/Python/comments/ju65bp/whys_python_so_famous/)
-- [Python Udemy course by Prof. Angela Yu](https://www.reddit.com/r/Python/comments/ju5vyd/python_udemy_course_by_prof_angela_yu/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
