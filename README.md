@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Please help me](https://www.reddit.com/r/Python/comments/jtz65p/please_help_me/)
-- [Arch-Emacs Bootstrapping Script](https://www.reddit.com/r/Python/comments/jtyw3c/archemacs_bootstrapping_script/)
-- [Large Scale Facial Recognition](https://www.reddit.com/r/Python/comments/jtxd22/large_scale_facial_recognition/)
-- [How to perform Microsoft OneDrive OAuth Sign-In and Authorization in a Python Web App](https://www.reddit.com/r/Python/comments/jtwkih/how_to_perform_microsoft_onedrive_oauth_signin/)
-- [MySQL + Python Tut for Beginners](https://www.reddit.com/r/Python/comments/jtsnk3/mysql_python_tut_for_beginners/)
+- [Deconstructing xkcd.com/1987/](https://www.reddit.com/r/Python/comments/jtzk4s/deconstructing_xkcdcom1987/)
+- [The many ways to pass code to Python from the terminal](https://www.reddit.com/r/Python/comments/jtzji1/the_many_ways_to_pass_code_to_python_from_the/)
+- [Python in GitHub Actions](https://www.reddit.com/r/Python/comments/jtzj0a/python_in_github_actions/)
+- [Refactoring to Multiple Exit Points](https://www.reddit.com/r/Python/comments/jtzgyo/refactoring_to_multiple_exit_points/)
+- [Functional strategies in Python](https://www.reddit.com/r/Python/comments/jtzgk0/functional_strategies_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
