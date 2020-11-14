@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CUDA: GPU Accelerated Python on Cross-Vendor Graphics Cards Made Simple with Vulkan Kompute & PyShader](https://www.reddit.com/r/Python/comments/ju2gu4/beyond_cuda_gpu_accelerated_python_on_crossvendor/)
+- [Python Chat Application (Client & Server)](https://www.reddit.com/r/Python/comments/ju3bv5/python_chat_application_client_server/)
+- [GPU Accelerated Python on Cross-Vendor Graphics Cards Made Simple with Vulkan Kompute & PyShader](https://www.reddit.com/r/Python/comments/ju2o2q/gpu_accelerated_python_on_crossvendor_graphics/)
 - [Best A-Z Python Cheat Sheet 2020 (Basic to Advance)](https://www.reddit.com/r/Python/comments/ju1sw3/best_az_python_cheat_sheet_2020_basic_to_advance/)
 - [I created the easiest way to share and collaborate on links with friends, family, and teammates.](https://www.reddit.com/r/Python/comments/ju0zi8/i_created_the_easiest_way_to_share_and/)
 - [Python Script | Organize Your Office Documents Into Folders - Beginner Friendly Tutorial](https://www.reddit.com/r/Python/comments/ju0y9r/python_script_organize_your_office_documents_into/)
-- [Deconstructing xkcd.com/1987/](https://www.reddit.com/r/Python/comments/jtzk4s/deconstructing_xkcdcom1987/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
