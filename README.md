@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hello can anyone help me](https://www.reddit.com/r/Python/comments/ju4dnq/hello_can_anyone_help_me/)
+- [A Quick Guide on How to Setup a Python Virtual Environment [Windows, Linux & Mac] | thecodingpie](https://www.reddit.com/r/Python/comments/ju3ybo/a_quick_guide_on_how_to_setup_a_python_virtual/)
+- [gREST v2.1.0 is released](https://www.reddit.com/r/Python/comments/ju3rsa/grest_v210_is_released/)
 - [Python Chat Application (Client & Server)](https://www.reddit.com/r/Python/comments/ju3bv5/python_chat_application_client_server/)
 - [GPU Accelerated Python on Cross-Vendor Graphics Cards Made Simple with Vulkan Kompute & PyShader](https://www.reddit.com/r/Python/comments/ju2o2q/gpu_accelerated_python_on_crossvendor_graphics/)
-- [Best A-Z Python Cheat Sheet 2020 (Basic to Advance)](https://www.reddit.com/r/Python/comments/ju1sw3/best_az_python_cheat_sheet_2020_basic_to_advance/)
-- [I created the easiest way to share and collaborate on links with friends, family, and teammates.](https://www.reddit.com/r/Python/comments/ju0zi8/i_created_the_easiest_way_to_share_and/)
-- [Python Script | Organize Your Office Documents Into Folders - Beginner Friendly Tutorial](https://www.reddit.com/r/Python/comments/ju0y9r/python_script_organize_your_office_documents_into/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
