@@ -108,7 +108,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [beginner python question](https://www.reddit.com/r/Python/comments/jtugkw/beginner_python_question/)
+- [How to perform Microsoft OneDrive OAuth Sign-In and Authorization in a Python Web App](https://www.reddit.com/r/Python/comments/jtwkih/how_to_perform_microsoft_onedrive_oauth_signin/)
 - [MySQL + Python Tut for Beginners](https://www.reddit.com/r/Python/comments/jtsnk3/mysql_python_tut_for_beginners/)
 - [A Worksheet Generator for ESL Teachers](https://www.reddit.com/r/Python/comments/jts3y7/a_worksheet_generator_for_esl_teachers/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jtrnx3/saturday_megathread_share_your_resources/)
