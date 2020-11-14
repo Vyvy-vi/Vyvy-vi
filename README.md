@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I created the easiest way to share and collaborate on links with friends, family, and teammates.](https://www.reddit.com/r/Python/comments/ju0zi8/i_created_the_easiest_way_to_share_and/)
+- [Python Script | Organize Your Office Documents Into Folders - Beginner Friendly Tutorial](https://www.reddit.com/r/Python/comments/ju0y9r/python_script_organize_your_office_documents_into/)
 - [Deconstructing xkcd.com/1987/](https://www.reddit.com/r/Python/comments/jtzk4s/deconstructing_xkcdcom1987/)
 - [The many ways to pass code to Python from the terminal](https://www.reddit.com/r/Python/comments/jtzji1/the_many_ways_to_pass_code_to_python_from_the/)
 - [Python in GitHub Actions](https://www.reddit.com/r/Python/comments/jtzj0a/python_in_github_actions/)
-- [Refactoring to Multiple Exit Points](https://www.reddit.com/r/Python/comments/jtzgyo/refactoring_to_multiple_exit_points/)
-- [Functional strategies in Python](https://www.reddit.com/r/Python/comments/jtzgk0/functional_strategies_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
