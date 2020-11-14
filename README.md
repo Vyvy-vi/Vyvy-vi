@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [DIY Synthesizer in Python DEVLOG #3 - Raspberry Pi & Code Release](https://www.reddit.com/r/Python/comments/ju8vib/diy_synthesizer_in_python_devlog_3_raspberry_pi/)
+- [Tinkerdoodle: Connect MicroPython devices to Jupyter Notebooks with WebUSB](https://www.reddit.com/r/Python/comments/ju8p0y/tinkerdoodle_connect_micropython_devices_to/)
+- [Duck Typing in Python - Renan Moura](https://www.reddit.com/r/Python/comments/ju8ek2/duck_typing_in_python_renan_moura/)
 - [Why's Python so famous?](https://www.reddit.com/r/Python/comments/ju65bp/whys_python_so_famous/)
-- [What is wrong with my code? pls help](https://www.reddit.com/r/Python/comments/ju63ny/what_is_wrong_with_my_code_pls_help/)
 - [Python Udemy course by Prof. Angela Yu](https://www.reddit.com/r/Python/comments/ju5vyd/python_udemy_course_by_prof_angela_yu/)
-- [DomeCode Fusion: An all-in-one code editor with tutorials for Front-end](https://www.reddit.com/r/Python/comments/ju5dxk/domecode_fusion_an_allinone_code_editor_with/)
-- [A Quick Guide on How to Setup a Python Virtual Environment [Windows, Linux & Mac] | thecodingpie](https://www.reddit.com/r/Python/comments/ju3ybo/a_quick_guide_on_how_to_setup_a_python_virtual/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
