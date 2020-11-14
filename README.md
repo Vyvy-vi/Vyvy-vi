@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Briefly explaining Python3 Decoratrs](https://www.reddit.com/r/Python/comments/ju688q/briefly_explaining_python3_decoratrs/)
 - [Why's Python so famous?](https://www.reddit.com/r/Python/comments/ju65bp/whys_python_so_famous/)
 - [What is wrong with my code? pls help](https://www.reddit.com/r/Python/comments/ju63ny/what_is_wrong_with_my_code_pls_help/)
 - [Python Udemy course by Prof. Angela Yu](https://www.reddit.com/r/Python/comments/ju5vyd/python_udemy_course_by_prof_angela_yu/)
-- [Decrypt text using Python](https://www.reddit.com/r/Python/comments/ju5k7w/decrypt_text_using_python/)
+- [DomeCode Fusion: An all-in-one code editor with tutorials for Front-end](https://www.reddit.com/r/Python/comments/ju5dxk/domecode_fusion_an_allinone_code_editor_with/)
+- [A Quick Guide on How to Setup a Python Virtual Environment [Windows, Linux & Mac] | thecodingpie](https://www.reddit.com/r/Python/comments/ju3ybo/a_quick_guide_on_how_to_setup_a_python_virtual/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
