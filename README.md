@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [From Depressed Addict to Happy 25 Year old Making 65k/year - How learning Python helped save my life](https://www.reddit.com/r/Python/comments/jus4vq/from_depressed_addict_to_happy_25_year_old_making/)
+- [Enter Kaggle simulation competition in under 10 minutes!](https://www.reddit.com/r/Python/comments/jus1a7/enter_kaggle_simulation_competition_in_under_10/)
 - [TOP GRADES IN YOUR ONLINE CLASSES WITH YOUR TOP GRADES TUTOR](https://www.reddit.com/r/Python/comments/jurdps/top_grades_in_your_online_classes_with_your_top/)
 - [Going to have to help my in-laws update their garage door opener](https://www.reddit.com/r/Python/comments/jur6z2/going_to_have_to_help_my_inlaws_update_their/)
 - [Forecasting the Spread of Coronavirus (COVID-19) Using Python](https://www.reddit.com/r/Python/comments/juqzqm/forecasting_the_spread_of_coronavirus_covid19/)
-- [Board Game AI](https://www.reddit.com/r/Python/comments/juqkmf/board_game_ai/)
-- [LibreASR – An On-Premises, Streaming Speech Recognition System](https://www.reddit.com/r/Python/comments/juosiw/libreasr_an_onpremises_streaming_speech/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
