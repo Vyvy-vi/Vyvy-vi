@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python behind the scenes #5: how variables are implemented in CPython](https://www.reddit.com/r/Python/comments/jun6tc/python_behind_the_scenes_5_how_variables_are/)
+- [I made a way to get discord webhook notifications from GitHub sponsors](https://www.reddit.com/r/Python/comments/jumz0m/i_made_a_way_to_get_discord_webhook_notifications/)
 - [pyhstr now supports bpython!](https://www.reddit.com/r/Python/comments/jum136/pyhstr_now_supports_bpython/)
 - [Another project for you to critique - crime data reporting (one city, 25 days)](https://www.reddit.com/r/Python/comments/julgp3/another_project_for_you_to_critique_crime_data/)
 - [py27hash: Python 2.7 hashing and iteration in Python 3+](https://www.reddit.com/r/Python/comments/jul5dt/py27hash_python_27_hashing_and_iteration_in/)
-- [nir/jupylet Jupylet is a Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.](https://www.reddit.com/r/Python/comments/jujqv2/nirjupylet_jupylet_is_a_python_library_that_lets/)
-- [Access a YouTube web page with Python](https://www.reddit.com/r/Python/comments/jujb26/access_a_youtube_web_page_with_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
