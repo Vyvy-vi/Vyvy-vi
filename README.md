@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [TOP GRADES IN YOUR ONLINE CLASSES WITH YOUR TOP GRADES TUTOR](https://www.reddit.com/r/Python/comments/jurdps/top_grades_in_your_online_classes_with_your_top/)
+- [Going to have to help my in-laws update their garage door opener](https://www.reddit.com/r/Python/comments/jur6z2/going_to_have_to_help_my_inlaws_update_their/)
+- [Forecasting the Spread of Coronavirus (COVID-19) Using Python](https://www.reddit.com/r/Python/comments/juqzqm/forecasting_the_spread_of_coronavirus_covid19/)
+- [Board Game AI](https://www.reddit.com/r/Python/comments/juqkmf/board_game_ai/)
 - [LibreASR – An On-Premises, Streaming Speech Recognition System](https://www.reddit.com/r/Python/comments/juosiw/libreasr_an_onpremises_streaming_speech/)
-- [Pandas lib need help noob level question](https://www.reddit.com/r/Python/comments/juoihv/pandas_lib_need_help_noob_level_question/)
-- [This week’s open source newsletter just went out! This one had some seriously interesting projects, like a Chrome extension AI to help you remember things, written in Python, and an alternative to Apple’s App Store, written in Swift!](https://www.reddit.com/r/Python/comments/juo78p/this_weeks_open_source_newsletter_just_went_out/)
-- [I built a Python-based CLI that provisions local Presto environments via Docker. My first “real” Python project.](https://www.reddit.com/r/Python/comments/juni43/i_built_a_pythonbased_cli_that_provisions_local/)
-- [Python behind the scenes #5: how variables are implemented in CPython](https://www.reddit.com/r/Python/comments/jun6tc/python_behind_the_scenes_5_how_variables_are/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
