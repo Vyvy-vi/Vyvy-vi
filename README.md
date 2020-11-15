@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [LibreASR – An On-Premises, Streaming Speech Recognition System](https://www.reddit.com/r/Python/comments/juosiw/libreasr_an_onpremises_streaming_speech/)
+- [Pandas lib need help noob level question](https://www.reddit.com/r/Python/comments/juoihv/pandas_lib_need_help_noob_level_question/)
 - [This week’s open source newsletter just went out! This one had some seriously interesting projects, like a Chrome extension AI to help you remember things, written in Python, and an alternative to Apple’s App Store, written in Swift!](https://www.reddit.com/r/Python/comments/juo78p/this_weeks_open_source_newsletter_just_went_out/)
 - [I built a Python-based CLI that provisions local Presto environments via Docker. My first “real” Python project.](https://www.reddit.com/r/Python/comments/juni43/i_built_a_pythonbased_cli_that_provisions_local/)
 - [Python behind the scenes #5: how variables are implemented in CPython](https://www.reddit.com/r/Python/comments/jun6tc/python_behind_the_scenes_5_how_variables_are/)
-- [I made a way to get discord webhook notifications from GitHub sponsors](https://www.reddit.com/r/Python/comments/jumz0m/i_made_a_way_to_get_discord_webhook_notifications/)
-- [pyhstr now supports bpython!](https://www.reddit.com/r/Python/comments/jum136/pyhstr_now_supports_bpython/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
