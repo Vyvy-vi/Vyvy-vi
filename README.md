@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I've spent my weekend learning Github Actions for Python, and here is what I made.](https://www.reddit.com/r/Python/comments/jugasm/ive_spent_my_weekend_learning_github_actions_for/)
+- [Jump Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jug1q7/jump_search_algorithm_in_python_data_structure/)
+- [I have a question that bugs me . How can a Russian or Chinese who doesn't know English can programme in Python , because Python displays on English.](https://www.reddit.com/r/Python/comments/jufupx/i_have_a_question_that_bugs_me_how_can_a_russian/)
 - [Among Us Wires Bot -GitHub](https://www.reddit.com/r/Python/comments/jufafj/among_us_wires_bot_github/)
 - [Use Python Data Science to Detect News Bias in the Media - Upcoming Video Series and Course!](https://www.reddit.com/r/Python/comments/jude3g/use_python_data_science_to_detect_news_bias_in/)
-- [Historical battle simulator made with pygame](https://www.reddit.com/r/Python/comments/jud3m5/historical_battle_simulator_made_with_pygame/)
-- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/juc4df/sunday_megathread_whats_everyone_working_on_this/)
-- [python app to track amazon prices](https://www.reddit.com/r/Python/comments/jua99n/python_app_to_track_amazon_prices/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
