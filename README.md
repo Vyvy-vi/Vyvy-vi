@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [SpotCasts (podcasts player)](https://www.reddit.com/r/Python/comments/juhyeq/spotcasts_podcasts_player/)
+- [Python Inheritance Explained In-Depth with Example](https://www.reddit.com/r/Python/comments/juhqr4/python_inheritance_explained_indepth_with_example/)
+- [Reducing for loop runtime](https://www.reddit.com/r/Python/comments/juhe53/reducing_for_loop_runtime/)
+- [Please Proof Check My Idea](https://www.reddit.com/r/Python/comments/juhe4j/please_proof_check_my_idea/)
 - [New Template Engine pypage: Pythonic syntax, eval-based, and easy to learn](https://www.reddit.com/r/Python/comments/juh1ub/new_template_engine_pypage_pythonic_syntax/)
-- [Speed-up your Python code 10x to 1000x using numba](https://www.reddit.com/r/Python/comments/jugtyh/speedup_your_python_code_10x_to_1000x_using_numba/)
-- [I've spent my weekend learning Github Actions for Python, and here is what I made.](https://www.reddit.com/r/Python/comments/jugasm/ive_spent_my_weekend_learning_github_actions_for/)
-- [Jump Search Algorithm in Python | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jug1q7/jump_search_algorithm_in_python_data_structure/)
-- [I have a question that bugs me . How can a Russian or Chinese who doesn't know English can programme in Python , because Python displays on English.](https://www.reddit.com/r/Python/comments/jufupx/i_have_a_question_that_bugs_me_how_can_a_russian/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
