@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I created a Discord group for studying the NLTK Book](https://www.reddit.com/r/Python/comments/juvjpg/i_created_a_discord_group_for_studying_the_nltk/)
 - [Any automation ideas to apply using MacBooks terminal?](https://www.reddit.com/r/Python/comments/juu7df/any_automation_ideas_to_apply_using_macbooks/)
 - [Where to Start](https://www.reddit.com/r/Python/comments/juu21f/where_to_start/)
 - [Collaborative Code Editing using WebSockets](https://www.reddit.com/r/Python/comments/jut2o4/collaborative_code_editing_using_websockets/)
 - [How to Use datetime.timedelta in Python With Examples](https://www.reddit.com/r/Python/comments/jusyfd/how_to_use_datetimetimedelta_in_python_with/)
-- [From Depressed Addict to Happy 25 Year old Making 65k/year - How learning Python helped save my life](https://www.reddit.com/r/Python/comments/jus4vq/from_depressed_addict_to_happy_25_year_old_making/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
