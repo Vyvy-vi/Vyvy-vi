@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Historical battle simulator made with pygame](https://www.reddit.com/r/Python/comments/jud3m5/historical_battle_simulator_made_with_pygame/)
 - [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/juc4df/sunday_megathread_whats_everyone_working_on_this/)
 - [python app to track amazon prices](https://www.reddit.com/r/Python/comments/jua99n/python_app_to_track_amazon_prices/)
 - [DIY Synthesizer in Python DEVLOG #3 - Raspberry Pi & Code Release](https://www.reddit.com/r/Python/comments/ju8vib/diy_synthesizer_in_python_devlog_3_raspberry_pi/)
 - [Tinkerdoodle: Connect MicroPython devices to Jupyter Notebooks with WebUSB](https://www.reddit.com/r/Python/comments/ju8p0y/tinkerdoodle_connect_micropython_devices_to/)
-- [Duck Typing in Python - Renan Moura](https://www.reddit.com/r/Python/comments/ju8ek2/duck_typing_in_python_renan_moura/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
