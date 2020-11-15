@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [nir/jupylet Jupylet is a Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.](https://www.reddit.com/r/Python/comments/jujqv2/nirjupylet_jupylet_is_a_python_library_that_lets/)
+- [Access a YouTube web page with Python](https://www.reddit.com/r/Python/comments/jujb26/access_a_youtube_web_page_with_python/)
+- [Soundify exit codes](https://www.reddit.com/r/Python/comments/juj69p/soundify_exit_codes/)
 - [PrettyErrors, a module to format exception reports](https://www.reddit.com/r/Python/comments/jui7zw/prettyerrors_a_module_to_format_exception_reports/)
 - [SpotCasts (podcasts player)](https://www.reddit.com/r/Python/comments/juhyeq/spotcasts_podcasts_player/)
-- [Python Inheritance Explained In-Depth with Example](https://www.reddit.com/r/Python/comments/juhqr4/python_inheritance_explained_indepth_with_example/)
-- [Reducing for loop runtime](https://www.reddit.com/r/Python/comments/juhe53/reducing_for_loop_runtime/)
-- [Please Proof Check My Idea](https://www.reddit.com/r/Python/comments/juhe4j/please_proof_check_my_idea/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
