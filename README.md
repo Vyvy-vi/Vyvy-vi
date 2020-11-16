@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Time series forecasting in Python made simple!](https://www.reddit.com/r/Python/comments/jvbzry/time_series_forecasting_in_python_made_simple/)
 - [The youtube-dl repository has been restored on GitHub with help from the Electronic Frontier Foundation](https://www.reddit.com/r/Python/comments/jvbqzc/the_youtubedl_repository_has_been_restored_on/)
 - [Python Source Code Interpretation](https://www.reddit.com/r/Python/comments/jvboiv/python_source_code_interpretation/)
 - [How to control a DC Motor with Python (CircuitPython)](https://www.reddit.com/r/Python/comments/jvb1q8/how_to_control_a_dc_motor_with_python/)
 - [Hexapawn was originally made to create early neural networks, I made hexapawn in python 2 for people that want to try to make the network](https://www.reddit.com/r/Python/comments/jvah4k/hexapawn_was_originally_made_to_create_early/)
-- [A curated list of links to post your side project](https://www.reddit.com/r/Python/comments/jvagve/a_curated_list_of_links_to_post_your_side_project/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
