@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Looking for professional ML connections and study-buddies :)](https://www.reddit.com/r/Python/comments/juzdnj/looking_for_professional_ml_connections_and/)
 - [I wrote a library for Dependency Injection and state management](https://www.reddit.com/r/Python/comments/juxrk9/i_wrote_a_library_for_dependency_injection_and/)
 - [Hi anyone interested in a discord study group?](https://www.reddit.com/r/Python/comments/juxery/hi_anyone_interested_in_a_discord_study_group/)
 - [How to mount a Flask app under a URL prefix (or really, any WSGI app)](https://www.reddit.com/r/Python/comments/juwj3x/how_to_mount_a_flask_app_under_a_url_prefix_or/)
 - [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/juwh09/monday_megathread_project_ideas/)
-- [I created a Discord group for studying the NLTK Book](https://www.reddit.com/r/Python/comments/juvjpg/i_created_a_discord_group_for_studying_the_nltk/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
