@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Amy Rose, A powerful, simple and async authentication and authorization library for Sanic.](https://www.reddit.com/r/Python/comments/jv0x5w/amy_rose_a_powerful_simple_and_async/)
+- [Python IDLE editer not opening (changing from 3.6->3.7)](https://www.reddit.com/r/Python/comments/jv0r08/python_idle_editer_not_opening_changing_from_3637/)
 - [python interact with an actual program](https://www.reddit.com/r/Python/comments/juzxr5/python_interact_with_an_actual_program/)
 - [Best Ways of How to Learn Python For Data Science](https://www.reddit.com/r/Python/comments/juzmzq/best_ways_of_how_to_learn_python_for_data_science/)
 - [Looking for professional ML connections and study-buddies :)](https://www.reddit.com/r/Python/comments/juzdnj/looking_for_professional_ml_connections_and/)
-- [I wrote a library for Dependency Injection and state management](https://www.reddit.com/r/Python/comments/juxrk9/i_wrote_a_library_for_dependency_injection_and/)
-- [Hi anyone interested in a discord study group?](https://www.reddit.com/r/Python/comments/juxery/hi_anyone_interested_in_a_discord_study_group/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
