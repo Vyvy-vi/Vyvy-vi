@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Pitfalls - Expecting The Unexpected](https://www.reddit.com/r/Python/comments/jv7dpm/python_pitfalls_expecting_the_unexpected/)
+- [How to deal with __pycache__ and .idea when pushing code to github ?](https://www.reddit.com/r/Python/comments/jv7ai8/how_to_deal_with_pycache_and_idea_when_pushing/)
 - [I started a video series called Generating Sound with Neural Networks 🎧 🤖](https://www.reddit.com/r/Python/comments/jv58k6/i_started_a_video_series_called_generating_sound/)
 - [Python PDF & CHM format bulk download](https://www.reddit.com/r/Python/comments/jv558r/python_pdf_chm_format_bulk_download/)
 - [Help](https://www.reddit.com/r/Python/comments/jv521g/help/)
-- [Top 9 Feature Engineering Techniques with Python](https://www.reddit.com/r/Python/comments/jv4x8u/top_9_feature_engineering_techniques_with_python/)
-- [Python (NEW) Print?](https://www.reddit.com/r/Python/comments/jv2r33/python_new_print/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
