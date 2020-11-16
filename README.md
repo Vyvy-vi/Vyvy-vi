@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python and PyQt: Creating Menus, Toolbars, and Status Bars – Real Python](https://www.reddit.com/r/Python/comments/jv8b23/python_and_pyqt_creating_menus_toolbars_and/)
+- [NumPy Challenge - Given a 1000x21 array of random employee ids where element (i,j) gives the employee id working shift j for schedule i, identify schedules where no employee works consecutive shifts.](https://www.reddit.com/r/Python/comments/jv89ip/numpy_challenge_given_a_1000x21_array_of_random/)
+- [Datetime rant: datetime.datetime.utcnow() returns a timezone naive datetime. You just have to “know” the result is actually in UTC.](https://www.reddit.com/r/Python/comments/jv7na2/datetime_rant_datetimedatetimeutcnow_returns_a/)
 - [Python Pitfalls - Expecting The Unexpected](https://www.reddit.com/r/Python/comments/jv7dpm/python_pitfalls_expecting_the_unexpected/)
 - [How to deal with __pycache__ and .idea when pushing code to github ?](https://www.reddit.com/r/Python/comments/jv7ai8/how_to_deal_with_pycache_and_idea_when_pushing/)
-- [I started a video series called Generating Sound with Neural Networks 🎧 🤖](https://www.reddit.com/r/Python/comments/jv58k6/i_started_a_video_series_called_generating_sound/)
-- [Python PDF & CHM format bulk download](https://www.reddit.com/r/Python/comments/jv558r/python_pdf_chm_format_bulk_download/)
-- [Help](https://www.reddit.com/r/Python/comments/jv521g/help/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
