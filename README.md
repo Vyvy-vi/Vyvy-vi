@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [why does pycharm keep deleting one of the quotes when I try to write in between them?](https://www.reddit.com/r/Python/comments/juwx6e/why_does_pycharm_keep_deleting_one_of_the_quotes/)
+- [How to mount a Flask app under a URL prefix (or really, any WSGI app)](https://www.reddit.com/r/Python/comments/juwj3x/how_to_mount_a_flask_app_under_a_url_prefix_or/)
+- [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/juwh09/monday_megathread_project_ideas/)
 - [I created a Discord group for studying the NLTK Book](https://www.reddit.com/r/Python/comments/juvjpg/i_created_a_discord_group_for_studying_the_nltk/)
 - [Any automation ideas to apply using MacBooks terminal?](https://www.reddit.com/r/Python/comments/juu7df/any_automation_ideas_to_apply_using_macbooks/)
-- [Where to Start](https://www.reddit.com/r/Python/comments/juu21f/where_to_start/)
-- [Collaborative Code Editing using WebSockets](https://www.reddit.com/r/Python/comments/jut2o4/collaborative_code_editing_using_websockets/)
-- [How to Use datetime.timedelta in Python With Examples](https://www.reddit.com/r/Python/comments/jusyfd/how_to_use_datetimetimedelta_in_python_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
