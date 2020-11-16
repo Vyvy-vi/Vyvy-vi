@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hexapawn was originally made to create early neural networks, I made hexapawn in python 2 for people that want to try to make the network](https://www.reddit.com/r/Python/comments/jvah4k/hexapawn_was_originally_made_to_create_early/)
+- [A curated list of links to post your side project](https://www.reddit.com/r/Python/comments/jvagve/a_curated_list_of_links_to_post_your_side_project/)
+- [What is a PEP and why should I care?](https://www.reddit.com/r/Python/comments/jv9u54/what_is_a_pep_and_why_should_i_care/)
+- [Check out my new video on YouTube! How to Build a Simple Trading Bot Skeleton in Python. Let me know what you think!](https://www.reddit.com/r/Python/comments/jv9sg7/check_out_my_new_video_on_youtube_how_to_build_a/)
 - [Made a text editor to practice German!](https://www.reddit.com/r/Python/comments/jv9hqk/made_a_text_editor_to_practice_german/)
-- [How to scrape Amazon.com with Python, Selenium and BeautifulSoup](https://www.reddit.com/r/Python/comments/jv974s/how_to_scrape_amazoncom_with_python_selenium_and/)
-- [multiprocessing-template](https://www.reddit.com/r/Python/comments/jv91t9/multiprocessingtemplate/)
-- [PostgreSQL ORM Another Approach](https://www.reddit.com/r/Python/comments/jv8r4c/postgresql_orm_another_approach/)
-- [Python and PyQt: Creating Menus, Toolbars, and Status Bars – Real Python](https://www.reddit.com/r/Python/comments/jv8b23/python_and_pyqt_creating_menus_toolbars_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
