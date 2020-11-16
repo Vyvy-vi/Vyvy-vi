@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python (NEW) Print?](https://www.reddit.com/r/Python/comments/jv2r33/python_new_print/)
 - [I'm working on type systems for Python. Here's refinement types for function arguments.](https://www.reddit.com/r/Python/comments/jv22ed/im_working_on_type_systems_for_python_heres/)
 - [How to enable fuzzy finder everywhere with Python](https://www.reddit.com/r/Python/comments/jv1qsi/how_to_enable_fuzzy_finder_everywhere_with_python/)
 - [Amy Rose, A powerful, simple and async authentication and authorization library for Sanic.](https://www.reddit.com/r/Python/comments/jv0x5w/amy_rose_a_powerful_simple_and_async/)
-- [Python IDLE editer not opening (changing from 3.6->3.7)](https://www.reddit.com/r/Python/comments/jv0r08/python_idle_editer_not_opening_changing_from_3637/)
-- [python interact with an actual program](https://www.reddit.com/r/Python/comments/juzxr5/python_interact_with_an_actual_program/)
+- [Best Ways of How to Learn Python For Data Science](https://www.reddit.com/r/Python/comments/juzmzq/best_ways_of_how_to_learn_python_for_data_science/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
