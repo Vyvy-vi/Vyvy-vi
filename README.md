@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Help](https://www.reddit.com/r/Python/comments/jv521g/help/)
+- [Top 9 Feature Engineering Techniques with Python](https://www.reddit.com/r/Python/comments/jv4x8u/top_9_feature_engineering_techniques_with_python/)
 - [Python (NEW) Print?](https://www.reddit.com/r/Python/comments/jv2r33/python_new_print/)
 - [I'm working on type systems for Python. Here's refinement types for function arguments.](https://www.reddit.com/r/Python/comments/jv22ed/im_working_on_type_systems_for_python_heres/)
 - [How to enable fuzzy finder everywhere with Python](https://www.reddit.com/r/Python/comments/jv1qsi/how_to_enable_fuzzy_finder_everywhere_with_python/)
-- [Amy Rose, A powerful, simple and async authentication and authorization library for Sanic.](https://www.reddit.com/r/Python/comments/jv0x5w/amy_rose_a_powerful_simple_and_async/)
-- [Best Ways of How to Learn Python For Data Science](https://www.reddit.com/r/Python/comments/juzmzq/best_ways_of_how_to_learn_python_for_data_science/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
