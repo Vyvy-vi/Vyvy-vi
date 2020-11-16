@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Attend all your Google Meets on autopilot with MeetNinja! Flawlessly handles multiple scheduled Meets, disables your camera & microphone in-Meet, and even works in the background or with the display off — all at the click (double-click) of a button!](https://www.reddit.com/r/Python/comments/jvgq73/attend_all_your_google_meets_on_autopilot_with/)
 - [Build a macOS statusbar app [realtime stock market price] using Python](https://www.reddit.com/r/Python/comments/jve6om/build_a_macos_statusbar_app_realtime_stock_market/)
 - [Free cka voucher](https://www.reddit.com/r/Python/comments/jve0ya/free_cka_voucher/)
 - [onelivesleft/PrettyErrors Prettifies Python exception output to make it legible](https://www.reddit.com/r/Python/comments/jvdj1v/onelivesleftprettyerrors_prettifies_python/)
 - [QQuick/Transcrypt Python in the browser, precompiled for speed](https://www.reddit.com/r/Python/comments/jvdhcl/qquicktranscrypt_python_in_the_browser/)
-- [Dataset: databases for lazy people](https://www.reddit.com/r/Python/comments/jvde6f/dataset_databases_for_lazy_people/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
