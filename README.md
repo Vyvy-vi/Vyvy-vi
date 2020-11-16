@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Time series forecasting in Python made simple!](https://www.reddit.com/r/Python/comments/jvbzry/time_series_forecasting_in_python_made_simple/)
-- [The youtube-dl repository has been restored on GitHub with help from the Electronic Frontier Foundation](https://www.reddit.com/r/Python/comments/jvbqzc/the_youtubedl_repository_has_been_restored_on/)
-- [Python Source Code Interpretation](https://www.reddit.com/r/Python/comments/jvboiv/python_source_code_interpretation/)
-- [How to control a DC Motor with Python (CircuitPython)](https://www.reddit.com/r/Python/comments/jvb1q8/how_to_control_a_dc_motor_with_python/)
-- [Hexapawn was originally made to create early neural networks, I made hexapawn in python 2 for people that want to try to make the network](https://www.reddit.com/r/Python/comments/jvah4k/hexapawn_was_originally_made_to_create_early/)
+- [Free cka voucher](https://www.reddit.com/r/Python/comments/jve0ya/free_cka_voucher/)
+- [onelivesleft/PrettyErrors Prettifies Python exception output to make it legible](https://www.reddit.com/r/Python/comments/jvdj1v/onelivesleftprettyerrors_prettifies_python/)
+- [QQuick/Transcrypt Python in the browser, precompiled for speed](https://www.reddit.com/r/Python/comments/jvdhcl/qquicktranscrypt_python_in_the_browser/)
+- [Dataset: databases for lazy people](https://www.reddit.com/r/Python/comments/jvde6f/dataset_databases_for_lazy_people/)
+- [I wrote a Python program to play Air Drums](https://www.reddit.com/r/Python/comments/jvd8gc/i_wrote_a_python_program_to_play_air_drums/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
