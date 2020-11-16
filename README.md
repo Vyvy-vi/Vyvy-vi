@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Made a text editor to practice German!](https://www.reddit.com/r/Python/comments/jv9hqk/made_a_text_editor_to_practice_german/)
+- [How to scrape Amazon.com with Python, Selenium and BeautifulSoup](https://www.reddit.com/r/Python/comments/jv974s/how_to_scrape_amazoncom_with_python_selenium_and/)
+- [multiprocessing-template](https://www.reddit.com/r/Python/comments/jv91t9/multiprocessingtemplate/)
+- [PostgreSQL ORM Another Approach](https://www.reddit.com/r/Python/comments/jv8r4c/postgresql_orm_another_approach/)
 - [Python and PyQt: Creating Menus, Toolbars, and Status Bars – Real Python](https://www.reddit.com/r/Python/comments/jv8b23/python_and_pyqt_creating_menus_toolbars_and/)
-- [NumPy Challenge - Given a 1000x21 array of random employee ids where element (i,j) gives the employee id working shift j for schedule i, identify schedules where no employee works consecutive shifts.](https://www.reddit.com/r/Python/comments/jv89ip/numpy_challenge_given_a_1000x21_array_of_random/)
-- [Datetime rant: datetime.datetime.utcnow() returns a timezone naive datetime. You just have to “know” the result is actually in UTC.](https://www.reddit.com/r/Python/comments/jv7na2/datetime_rant_datetimedatetimeutcnow_returns_a/)
-- [Python Pitfalls - Expecting The Unexpected](https://www.reddit.com/r/Python/comments/jv7dpm/python_pitfalls_expecting_the_unexpected/)
-- [How to deal with __pycache__ and .idea when pushing code to github ?](https://www.reddit.com/r/Python/comments/jv7ai8/how_to_deal_with_pycache_and_idea_when_pushing/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
