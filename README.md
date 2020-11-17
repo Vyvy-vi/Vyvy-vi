@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Image Processing in Python: Algorithms, Tools, and Methods You Should Know - neptune.ai](https://www.reddit.com/r/Python/comments/jvzxsr/image_processing_in_python_algorithms_tools_and/)
+- [It isn’t amazing, code @ 5:00](https://www.reddit.com/r/Python/comments/jvzquj/it_isnt_amazing_code_500/)
 - [DNScanner](https://www.reddit.com/r/Python/comments/jvyh3a/dnscanner/)
 - [Dear PyGui Version 0.6 Released, New plot types, fixes, and new widgets!](https://www.reddit.com/r/Python/comments/jvycjr/dear_pygui_version_06_released_new_plot_types/)
 - [Created a visual representation of the Monty hall problem](https://www.reddit.com/r/Python/comments/jvxca5/created_a_visual_representation_of_the_monty_hall/)
-- [Python's Argparse Module](https://www.reddit.com/r/Python/comments/jvx9yx/pythons_argparse_module/)
-- [(Thank you for the comments last night) --- Pls let me know if this line can be made shorter, trickier, more ioccc-like, etc. ------ def _(*_):return(lambda o,_:(o+_,o/_)[_>1])(sum(_),len(_))](https://www.reddit.com/r/Python/comments/jvwktq/thank_you_for_the_comments_last_night_pls_let_me/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
