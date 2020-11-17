@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Google Map API in Python](https://www.reddit.com/r/Python/comments/jvsx60/getting_started_with_google_map_api_in_python/)
+- [The Covid Reports in Python 3](https://www.reddit.com/r/Python/comments/jvsx3y/the_covid_reports_in_python_3/)
 - [Python creator Guido van Rossum joins Microsoft's developer team .Does it impede further development of Python ?](https://www.reddit.com/r/Python/comments/jvsnsa/python_creator_guido_van_rossum_joins_microsofts/)
 - [Working adfly python script using tor and selenium](https://www.reddit.com/r/Python/comments/jvr6lm/working_adfly_python_script_using_tor_and_selenium/)
 - [My full 'IDE' build of the One Dark Pro theme for JupyterLab](https://www.reddit.com/r/Python/comments/jvq4t0/my_full_ide_build_of_the_one_dark_pro_theme_for/)
-- [Create animated sequence and box diagrams in Python](https://www.reddit.com/r/Python/comments/jvq460/create_animated_sequence_and_box_diagrams_in/)
-- [What more shall I do with Python (PS: Not interested in Web Development)](https://www.reddit.com/r/Python/comments/jvouap/what_more_shall_i_do_with_python_ps_not/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
