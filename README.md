@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Iterable decorator for classes](https://www.reddit.com/r/Python/comments/jw3wbv/iterable_decorator_for_classes/)
+- [Unlocking incremental Python 3 migrations with Pants](https://www.reddit.com/r/Python/comments/jw3p1q/unlocking_incremental_python_3_migrations_with/)
+- [Logic Bank getting traction - optimized transaction rules engine for Python / SQLAlchemy](https://www.reddit.com/r/Python/comments/jw32st/logic_bank_getting_traction_optimized_transaction/)
 - [officeextractor - extract media files from Microsoft Office & LibreOffice files](https://www.reddit.com/r/Python/comments/jw0ree/officeextractor_extract_media_files_from/)
 - [Python underline string, Python underline text, Underline python print](https://www.reddit.com/r/Python/comments/jw0o05/python_underline_string_python_underline_text/)
-- [Image Processing in Python: Algorithms, Tools, and Methods You Should Know - neptune.ai](https://www.reddit.com/r/Python/comments/jvzxsr/image_processing_in_python_algorithms_tools_and/)
-- [It isn’t amazing, code @ 5:00](https://www.reddit.com/r/Python/comments/jvzquj/it_isnt_amazing_code_500/)
-- [DNScanner](https://www.reddit.com/r/Python/comments/jvyh3a/dnscanner/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
