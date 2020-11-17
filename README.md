@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple Lorem Ipsum generator that outputs a given number of random words or lines](https://www.reddit.com/r/Python/comments/jvn9py/i_made_a_simple_lorem_ipsum_generator_that/)
 - [youtube-dl is available on Github.](https://www.reddit.com/r/Python/comments/jvmzv5/youtubedl_is_available_on_github/)
 - [👨‍💻 Basic operations on Models In Django ( Part 6 ) - Django For Beginners](https://www.reddit.com/r/Python/comments/jvmos7/basic_operations_on_models_in_django_part_6/)
 - [Quick Sort Algorithm | Sorting Algorithm | Partition Procedure](https://www.reddit.com/r/Python/comments/jvm0qm/quick_sort_algorithm_sorting_algorithm_partition/)
 - [Simple and Sweet introduction to tkinter Canvas in python](https://www.reddit.com/r/Python/comments/jvm020/simple_and_sweet_introduction_to_tkinter_canvas/)
-- [Discord DM bot idea](https://www.reddit.com/r/Python/comments/jviv36/discord_dm_bot_idea/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
