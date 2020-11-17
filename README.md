@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Working adfly python script using tor and selenium](https://www.reddit.com/r/Python/comments/jvr6lm/working_adfly_python_script_using_tor_and_selenium/)
 - [My full 'IDE' build of the One Dark Pro theme for JupyterLab](https://www.reddit.com/r/Python/comments/jvq4t0/my_full_ide_build_of_the_one_dark_pro_theme_for/)
 - [Create animated sequence and box diagrams in Python](https://www.reddit.com/r/Python/comments/jvq460/create_animated_sequence_and_box_diagrams_in/)
 - [What more shall I do with Python (PS: Not interested in Web Development)](https://www.reddit.com/r/Python/comments/jvouap/what_more_shall_i_do_with_python_ps_not/)
 - [I made a simple Lorem Ipsum generator that outputs a given number of random words or lines](https://www.reddit.com/r/Python/comments/jvn9py/i_made_a_simple_lorem_ipsum_generator_that/)
-- [youtube-dl is available on Github.](https://www.reddit.com/r/Python/comments/jvmzv5/youtubedl_is_available_on_github/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
