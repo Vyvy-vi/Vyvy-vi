@@ -110,9 +110,9 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Discord DM bot idea](https://www.reddit.com/r/Python/comments/jviv36/discord_dm_bot_idea/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jvid3i/tuesday_megathread_advanced_questions/)
-- [Yay or Nay?](https://www.reddit.com/r/Python/comments/jvi3yj/yay_or_nay/)
 - [Attend all your Google Meets on autopilot with MeetNinja! Flawlessly handles multiple scheduled Meets, disables your camera & microphone in-Meet, and even works in the background or with the display off — all at the click (double-click) of a button!](https://www.reddit.com/r/Python/comments/jvgq73/attend_all_your_google_meets_on_autopilot_with/)
 - [Build a macOS statusbar app [realtime stock market price] using Python](https://www.reddit.com/r/Python/comments/jve6om/build_a_macos_statusbar_app_realtime_stock_market/)
+- [Free cka voucher](https://www.reddit.com/r/Python/comments/jve0ya/free_cka_voucher/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
