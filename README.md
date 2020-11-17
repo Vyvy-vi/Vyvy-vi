@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [(Thank you for the comments last night) --- Pls let me know if this line can be made shorter, trickier, more ioccc-like, etc. ------ def _(*_):return(lambda o,_:(o+_,o/_)[_>1])(sum(_),len(_))](https://www.reddit.com/r/Python/comments/jvwktq/thank_you_for_the_comments_last_night_pls_let_me/)
+- [Dead easy Python for executing many HTTP requests asynchronously](https://www.reddit.com/r/Python/comments/jvvwrn/dead_easy_python_for_executing_many_http_requests/)
 - [[OC] I worked 12 hours on this, so why do I let you copy it? Full Code](https://www.reddit.com/r/Python/comments/jvvbfh/oc_i_worked_12_hours_on_this_so_why_do_i_let_you/)
 - [Laptop Advide: MacBook Pro M1 or Thinkpad X1 Carbon](https://www.reddit.com/r/Python/comments/jvum6o/laptop_advide_macbook_pro_m1_or_thinkpad_x1_carbon/)
 - [[Noob Project] Gamepyd, a package to get controller inputs as a dataFrame](https://www.reddit.com/r/Python/comments/jvu8u6/noob_project_gamepyd_a_package_to_get_controller/)
-- [Google BERT Does My History Homework](https://www.reddit.com/r/Python/comments/jvu8s5/google_bert_does_my_history_homework/)
-- [Getting Started With Google Map API in Python](https://www.reddit.com/r/Python/comments/jvsx60/getting_started_with_google_map_api_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
