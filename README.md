@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [officeextractor - extract media files from Microsoft Office & LibreOffice files](https://www.reddit.com/r/Python/comments/jw0ree/officeextractor_extract_media_files_from/)
+- [Python underline string, Python underline text, Underline python print](https://www.reddit.com/r/Python/comments/jw0o05/python_underline_string_python_underline_text/)
 - [Image Processing in Python: Algorithms, Tools, and Methods You Should Know - neptune.ai](https://www.reddit.com/r/Python/comments/jvzxsr/image_processing_in_python_algorithms_tools_and/)
 - [It isn’t amazing, code @ 5:00](https://www.reddit.com/r/Python/comments/jvzquj/it_isnt_amazing_code_500/)
 - [DNScanner](https://www.reddit.com/r/Python/comments/jvyh3a/dnscanner/)
-- [Dear PyGui Version 0.6 Released, New plot types, fixes, and new widgets!](https://www.reddit.com/r/Python/comments/jvycjr/dear_pygui_version_06_released_new_plot_types/)
-- [Created a visual representation of the Monty hall problem](https://www.reddit.com/r/Python/comments/jvxca5/created_a_visual_representation_of_the_monty_hall/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
