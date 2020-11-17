@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Quick Sort Algorithm | Sorting Algorithm | Partition Procedure](https://www.reddit.com/r/Python/comments/jvm0qm/quick_sort_algorithm_sorting_algorithm_partition/)
+- [Simple and Sweet introduction to tkinter Canvas in python](https://www.reddit.com/r/Python/comments/jvm020/simple_and_sweet_introduction_to_tkinter_canvas/)
 - [Discord DM bot idea](https://www.reddit.com/r/Python/comments/jviv36/discord_dm_bot_idea/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jvid3i/tuesday_megathread_advanced_questions/)
 - [Attend all your Google Meets on autopilot with MeetNinja! Flawlessly handles multiple scheduled Meets, disables your camera & microphone in-Meet, and even works in the background or with the display off — all at the click (double-click) of a button!](https://www.reddit.com/r/Python/comments/jvgq73/attend_all_your_google_meets_on_autopilot_with/)
-- [Build a macOS statusbar app [realtime stock market price] using Python](https://www.reddit.com/r/Python/comments/jve6om/build_a_macos_statusbar_app_realtime_stock_market/)
-- [Free cka voucher](https://www.reddit.com/r/Python/comments/jve0ya/free_cka_voucher/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
