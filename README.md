@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Grid.py - Think Python Ch.3 - Ex. 3.16](https://www.reddit.com/r/Python/comments/jwo79n/gridpy_think_python_ch3_ex_316/)
+- [I am off work and bored, so I made a Text To Video script](https://www.reddit.com/r/Python/comments/jwo61x/i_am_off_work_and_bored_so_i_made_a_text_to_video/)
+- [Reproducible and upgradable Conda environments: dependency management with conda-lock](https://www.reddit.com/r/Python/comments/jwnxmw/reproducible_and_upgradable_conda_environments/)
+- [Flow chart for collatz sequence](https://www.reddit.com/r/Python/comments/jwne8y/flow_chart_for_collatz_sequence/)
 - [The Mutable Default Argument Mess in Python](https://www.reddit.com/r/Python/comments/jwn75o/the_mutable_default_argument_mess_in_python/)
-- [My first project ever is just up on github. Would be cool with some pointers from experienced and inexpereiande people (like myself)](https://www.reddit.com/r/Python/comments/jwmvdn/my_first_project_ever_is_just_up_on_github_would/)
-- [Python Basics: Exception Handling & Iterators | Episode 5 by Third Eye Cyborg Podcast • A podcast on Anchor](https://www.reddit.com/r/Python/comments/jwm2lz/python_basics_exception_handling_iterators/)
-- [Flappy Bird clone in Python](https://www.reddit.com/r/Python/comments/jwm1px/flappy_bird_clone_in_python/)
-- [Custom RGB effects for MSI Z490 motherboards](https://www.reddit.com/r/Python/comments/jwldx8/custom_rgb_effects_for_msi_z490_motherboards/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
