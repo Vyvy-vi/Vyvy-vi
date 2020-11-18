@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a Password Manager with encryption.](https://www.reddit.com/r/Python/comments/jwhdwu/i_made_a_password_manager_with_encryption/)
+- [Python enumerate(): Simplify Looping With Counters – Real Python](https://www.reddit.com/r/Python/comments/jwgymy/python_enumerate_simplify_looping_with_counters/)
+- [My students challenged me to write the smallest graphical user interface that includes actual user interaction. Can it be any smaller than this?](https://www.reddit.com/r/Python/comments/jwgj0v/my_students_challenged_me_to_write_the_smallest/)
 - [Grab Image Text with Python n Tkinter](https://www.reddit.com/r/Python/comments/jwfk9y/grab_image_text_with_python_n_tkinter/)
 - [Among Us Task Automation](https://www.reddit.com/r/Python/comments/jwecyf/among_us_task_automation/)
-- [syasini/AstroPaint python package for generating and visualizing sky maps of a wide range of astrophysical signals originating from dark matter halos or the gas that they hos](https://www.reddit.com/r/Python/comments/jwdd9v/syasiniastropaint_python_package_for_generating/)
-- [Manage Jupyter Notebook and JupyterLab with Systemd](https://www.reddit.com/r/Python/comments/jwd7gx/manage_jupyter_notebook_and_jupyterlab_with/)
-- [Automatic DoS Attacks using Python and Selenium](https://www.reddit.com/r/Python/comments/jwcvl9/automatic_dos_attacks_using_python_and_selenium/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
