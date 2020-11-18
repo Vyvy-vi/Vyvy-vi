@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [So, I'm developing a file P2P file sharing platform.](https://www.reddit.com/r/Python/comments/jwb77y/so_im_developing_a_file_p2p_file_sharing_platform/)
+- [General Purpose Tensorflow Model Trainer For CSV Files](https://www.reddit.com/r/Python/comments/jwb5xb/general_purpose_tensorflow_model_trainer_for_csv/)
+- [FastAPI + Dependency Injector](https://www.reddit.com/r/Python/comments/jwb5b9/fastapi_dependency_injector/)
+- [Making list-like objects in Python, the right way](https://www.reddit.com/r/Python/comments/jwb4mh/making_listlike_objects_in_python_the_right_way/)
 - [Using Computer Vision to Loop Guitar Audio by Tilting the Guitar](https://www.reddit.com/r/Python/comments/jwahd7/using_computer_vision_to_loop_guitar_audio_by/)
-- [Beginner Python Vector Library - Need Input](https://www.reddit.com/r/Python/comments/jwa3oc/beginner_python_vector_library_need_input/)
-- [A weird post but had to get this off my chest](https://www.reddit.com/r/Python/comments/jw8smu/a_weird_post_but_had_to_get_this_off_my_chest/)
-- [Among Us Maze Task in Python](https://www.reddit.com/r/Python/comments/jw8jll/among_us_maze_task_in_python/)
-- [Consuming API using python http request module.](https://www.reddit.com/r/Python/comments/jw81lv/consuming_api_using_python_http_request_module/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
