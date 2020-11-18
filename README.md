@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Performance testing Python code](https://www.reddit.com/r/Python/comments/jwp59o/performance_testing_python_code/)
 - [Grid.py - Think Python Ch.3 - Ex. 3.16](https://www.reddit.com/r/Python/comments/jwo79n/gridpy_think_python_ch3_ex_316/)
 - [I am off work and bored, so I made a Text To Video script](https://www.reddit.com/r/Python/comments/jwo61x/i_am_off_work_and_bored_so_i_made_a_text_to_video/)
 - [Reproducible and upgradable Conda environments: dependency management with conda-lock](https://www.reddit.com/r/Python/comments/jwnxmw/reproducible_and_upgradable_conda_environments/)
 - [Flow chart for collatz sequence](https://www.reddit.com/r/Python/comments/jwne8y/flow_chart_for_collatz_sequence/)
-- [The Mutable Default Argument Mess in Python](https://www.reddit.com/r/Python/comments/jwn75o/the_mutable_default_argument_mess_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
