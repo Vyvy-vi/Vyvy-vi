@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Basics: Exception Handling & Iterators | Episode 5 by Third Eye Cyborg Podcast • A podcast on Anchor](https://www.reddit.com/r/Python/comments/jwm2lz/python_basics_exception_handling_iterators/)
+- [Flappy Bird clone in Python](https://www.reddit.com/r/Python/comments/jwm1px/flappy_bird_clone_in_python/)
+- [Custom RGB effects for MSI Z490 motherboards](https://www.reddit.com/r/Python/comments/jwldx8/custom_rgb_effects_for_msi_z490_motherboards/)
 - [Graph-theory with Python other that just visualising](https://www.reddit.com/r/Python/comments/jwka6a/graphtheory_with_python_other_that_just/)
 - [Microprogramming session with Python - Fun with Math sums](https://www.reddit.com/r/Python/comments/jwk0hy/microprogramming_session_with_python_fun_with/)
-- [Free Tezos Blockchain Developer Course!](https://www.reddit.com/r/Python/comments/jwja0t/free_tezos_blockchain_developer_course/)
-- [Simplify data binning with a custom dict](https://www.reddit.com/r/Python/comments/jwipeq/simplify_data_binning_with_a_custom_dict/)
-- [Web framework for Python Intermediate Developers](https://www.reddit.com/r/Python/comments/jwid7v/web_framework_for_python_intermediate_developers/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
