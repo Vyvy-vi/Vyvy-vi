@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Advice](https://www.reddit.com/r/Python/comments/jwbvk0/advice/)
+- [Maze Creation using Depth-First Search with PyGame](https://www.reddit.com/r/Python/comments/jwbsmi/maze_creation_using_depthfirst_search_with_pygame/)
 - [So, I'm developing a file P2P file sharing platform.](https://www.reddit.com/r/Python/comments/jwb77y/so_im_developing_a_file_p2p_file_sharing_platform/)
 - [General Purpose Tensorflow Model Trainer For CSV Files](https://www.reddit.com/r/Python/comments/jwb5xb/general_purpose_tensorflow_model_trainer_for_csv/)
 - [FastAPI + Dependency Injector](https://www.reddit.com/r/Python/comments/jwb5b9/fastapi_dependency_injector/)
-- [Making list-like objects in Python, the right way](https://www.reddit.com/r/Python/comments/jwb4mh/making_listlike_objects_in_python_the_right_way/)
-- [Using Computer Vision to Loop Guitar Audio by Tilting the Guitar](https://www.reddit.com/r/Python/comments/jwahd7/using_computer_vision_to_loop_guitar_audio_by/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
