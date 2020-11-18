@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Using Computer Vision to Loop Guitar Audio by Tilting the Guitar](https://www.reddit.com/r/Python/comments/jwahd7/using_computer_vision_to_loop_guitar_audio_by/)
+- [Beginner Python Vector Library - Need Input](https://www.reddit.com/r/Python/comments/jwa3oc/beginner_python_vector_library_need_input/)
 - [A weird post but had to get this off my chest](https://www.reddit.com/r/Python/comments/jw8smu/a_weird_post_but_had_to_get_this_off_my_chest/)
 - [Among Us Maze Task in Python](https://www.reddit.com/r/Python/comments/jw8jll/among_us_maze_task_in_python/)
 - [Consuming API using python http request module.](https://www.reddit.com/r/Python/comments/jw81lv/consuming_api_using_python_http_request_module/)
-- [Hack the cryptocurrency market with algorithmic trading! I just released a Youtube video where I teach you how to build a live-trading Cryptocurrency Bot using Python & Binance](https://www.reddit.com/r/Python/comments/jw6ss6/hack_the_cryptocurrency_market_with_algorithmic/)
-- [I made a Numpy Chess UI!](https://www.reddit.com/r/Python/comments/jw6pax/i_made_a_numpy_chess_ui/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
