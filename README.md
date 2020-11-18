@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [A weird post but had to get this off my chest](https://www.reddit.com/r/Python/comments/jw8smu/a_weird_post_but_had_to_get_this_off_my_chest/)
+- [Among Us Maze Task in Python](https://www.reddit.com/r/Python/comments/jw8jll/among_us_maze_task_in_python/)
+- [Consuming API using python http request module.](https://www.reddit.com/r/Python/comments/jw81lv/consuming_api_using_python_http_request_module/)
 - [Hack the cryptocurrency market with algorithmic trading! I just released a Youtube video where I teach you how to build a live-trading Cryptocurrency Bot using Python & Binance](https://www.reddit.com/r/Python/comments/jw6ss6/hack_the_cryptocurrency_market_with_algorithmic/)
 - [I made a Numpy Chess UI!](https://www.reddit.com/r/Python/comments/jw6pax/i_made_a_numpy_chess_ui/)
-- [GTSS: A tool for rendering guitar tracks from MIDI files](https://www.reddit.com/r/Python/comments/jw607q/gtss_a_tool_for_rendering_guitar_tracks_from_midi/)
-- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jw4snw/wednesday_megathread_beginner_questions/)
-- [Unix-related Project Ideas?](https://www.reddit.com/r/Python/comments/jw4hfe/unixrelated_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
