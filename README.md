@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [The Mutable Default Argument Mess in Python](https://www.reddit.com/r/Python/comments/jwn75o/the_mutable_default_argument_mess_in_python/)
+- [My first project ever is just up on github. Would be cool with some pointers from experienced and inexpereiande people (like myself)](https://www.reddit.com/r/Python/comments/jwmvdn/my_first_project_ever_is_just_up_on_github_would/)
 - [Python Basics: Exception Handling & Iterators | Episode 5 by Third Eye Cyborg Podcast • A podcast on Anchor](https://www.reddit.com/r/Python/comments/jwm2lz/python_basics_exception_handling_iterators/)
 - [Flappy Bird clone in Python](https://www.reddit.com/r/Python/comments/jwm1px/flappy_bird_clone_in_python/)
 - [Custom RGB effects for MSI Z490 motherboards](https://www.reddit.com/r/Python/comments/jwldx8/custom_rgb_effects_for_msi_z490_motherboards/)
-- [Graph-theory with Python other that just visualising](https://www.reddit.com/r/Python/comments/jwka6a/graphtheory_with_python_other_that_just/)
-- [Microprogramming session with Python - Fun with Math sums](https://www.reddit.com/r/Python/comments/jwk0hy/microprogramming_session_with_python_fun_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
