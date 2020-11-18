@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simplify data binning with a custom dict](https://www.reddit.com/r/Python/comments/jwipeq/simplify_data_binning_with_a_custom_dict/)
+- [Web framework for Python Intermediate Developers](https://www.reddit.com/r/Python/comments/jwid7v/web_framework_for_python_intermediate_developers/)
+- [[OC] The COVID-19 Reports work on any platform, prove me wrong?](https://www.reddit.com/r/Python/comments/jwhy44/oc_the_covid19_reports_work_on_any_platform_prove/)
+- [I just finished a little terminal game using python. Let me know if you like it and if everything works](https://www.reddit.com/r/Python/comments/jwhjt0/i_just_finished_a_little_terminal_game_using/)
 - [I made a Password Manager with encryption.](https://www.reddit.com/r/Python/comments/jwhdwu/i_made_a_password_manager_with_encryption/)
-- [Python enumerate(): Simplify Looping With Counters – Real Python](https://www.reddit.com/r/Python/comments/jwgymy/python_enumerate_simplify_looping_with_counters/)
-- [My students challenged me to write the smallest graphical user interface that includes actual user interaction. Can it be any smaller than this?](https://www.reddit.com/r/Python/comments/jwgj0v/my_students_challenged_me_to_write_the_smallest/)
-- [Grab Image Text with Python n Tkinter](https://www.reddit.com/r/Python/comments/jwfk9y/grab_image_text_with_python_n_tkinter/)
-- [Among Us Task Automation](https://www.reddit.com/r/Python/comments/jwecyf/among_us_task_automation/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
