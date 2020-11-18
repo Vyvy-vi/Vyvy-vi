@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hack the cryptocurrency market with algorithmic trading! I just released a Youtube video where I teach you how to build a live-trading Cryptocurrency Bot using Python & Binance](https://www.reddit.com/r/Python/comments/jw6ss6/hack_the_cryptocurrency_market_with_algorithmic/)
+- [I made a Numpy Chess UI!](https://www.reddit.com/r/Python/comments/jw6pax/i_made_a_numpy_chess_ui/)
 - [GTSS: A tool for rendering guitar tracks from MIDI files](https://www.reddit.com/r/Python/comments/jw607q/gtss_a_tool_for_rendering_guitar_tracks_from_midi/)
 - [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jw4snw/wednesday_megathread_beginner_questions/)
 - [Unix-related Project Ideas?](https://www.reddit.com/r/Python/comments/jw4hfe/unixrelated_project_ideas/)
-- [Iterable decorator for classes](https://www.reddit.com/r/Python/comments/jw3wbv/iterable_decorator_for_classes/)
-- [Unlocking incremental Python 3 migrations with Pants](https://www.reddit.com/r/Python/comments/jw3p1q/unlocking_incremental_python_3_migrations_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
