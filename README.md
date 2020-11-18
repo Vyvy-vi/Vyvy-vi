@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/jw4snw/wednesday_megathread_beginner_questions/)
+- [Unix-related Project Ideas?](https://www.reddit.com/r/Python/comments/jw4hfe/unixrelated_project_ideas/)
 - [Iterable decorator for classes](https://www.reddit.com/r/Python/comments/jw3wbv/iterable_decorator_for_classes/)
 - [Unlocking incremental Python 3 migrations with Pants](https://www.reddit.com/r/Python/comments/jw3p1q/unlocking_incremental_python_3_migrations_with/)
 - [Logic Bank getting traction - optimized transaction rules engine for Python / SQLAlchemy](https://www.reddit.com/r/Python/comments/jw32st/logic_bank_getting_traction_optimized_transaction/)
-- [officeextractor - extract media files from Microsoft Office & LibreOffice files](https://www.reddit.com/r/Python/comments/jw0ree/officeextractor_extract_media_files_from/)
-- [Python underline string, Python underline text, Underline python print](https://www.reddit.com/r/Python/comments/jw0o05/python_underline_string_python_underline_text/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
