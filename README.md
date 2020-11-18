@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Graph-theory with Python other that just visualising](https://www.reddit.com/r/Python/comments/jwka6a/graphtheory_with_python_other_that_just/)
+- [Microprogramming session with Python - Fun with Math sums](https://www.reddit.com/r/Python/comments/jwk0hy/microprogramming_session_with_python_fun_with/)
 - [Free Tezos Blockchain Developer Course!](https://www.reddit.com/r/Python/comments/jwja0t/free_tezos_blockchain_developer_course/)
 - [Simplify data binning with a custom dict](https://www.reddit.com/r/Python/comments/jwipeq/simplify_data_binning_with_a_custom_dict/)
 - [Web framework for Python Intermediate Developers](https://www.reddit.com/r/Python/comments/jwid7v/web_framework_for_python_intermediate_developers/)
-- [[OC] The COVID-19 Reports work on any platform, prove me wrong?](https://www.reddit.com/r/Python/comments/jwhy44/oc_the_covid19_reports_work_on_any_platform_prove/)
-- [I just finished a little terminal game using python. Let me know if you like it and if everything works](https://www.reddit.com/r/Python/comments/jwhjt0/i_just_finished_a_little_terminal_game_using/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
