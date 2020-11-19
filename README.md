@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Fast and Simple Youtube Downloader](https://www.reddit.com/r/Python/comments/jx9onp/fast_and_simple_youtube_downloader/)
+- [Data Science Interview Prep](https://www.reddit.com/r/Python/comments/jx955x/data_science_interview_prep/)
 - [Finding cycles in a graph. Johnsons method in Python.](https://www.reddit.com/r/Python/comments/jx8so6/finding_cycles_in_a_graph_johnsons_method_in/)
 - [Randomwall - Random Wallpaper Generator with OpenCV Color Detection (Mac/Windows)](https://www.reddit.com/r/Python/comments/jx8o5o/randomwall_random_wallpaper_generator_with_opencv/)
 - [Python and C# for object detection via webcam](https://www.reddit.com/r/Python/comments/jx8j6f/python_and_c_for_object_detection_via_webcam/)
-- [How to use Serializers in the Django Python web framework](https://www.reddit.com/r/Python/comments/jx8glr/how_to_use_serializers_in_the_django_python_web/)
-- [Discord bot made with discord.py](https://www.reddit.com/r/Python/comments/jx84su/discord_bot_made_with_discordpy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
