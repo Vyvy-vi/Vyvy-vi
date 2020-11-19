@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [How to make a bot using python, Credit: Kian Brose on YouTube](https://www.reddit.com/r/Python/comments/jx6fxm/how_to_make_a_bot_using_python_credit_kian_brose/)
-- [Looking for help with Pseudocode](https://www.reddit.com/r/Python/comments/jx61ns/looking_for_help_with_pseudocode/)
-- [Peep into python basics](https://www.reddit.com/r/Python/comments/jx57f9/peep_into_python_basics/)
-- [What Are Genetic Algorithms and How to Implement Them in Python](https://www.reddit.com/r/Python/comments/jx4xmg/what_are_genetic_algorithms_and_how_to_implement/)
-- [Need Python programer who would assist me in building this. (Will pay)](https://www.reddit.com/r/Python/comments/jx4uug/need_python_programer_who_would_assist_me_in/)
+- [Add A New Dimension To Your Photos Using Python](https://www.reddit.com/r/Python/comments/jx7h4h/add_a_new_dimension_to_your_photos_using_python/)
+- [Python Test Automation Framework for Apps & Websites | ArcTouch](https://www.reddit.com/r/Python/comments/jx7dzj/python_test_automation_framework_for_apps/)
+- [Instagramy : Python Package of Instagram](https://www.reddit.com/r/Python/comments/jx78po/instagramy_python_package_of_instagram/)
+- [Let's Build Something to Get Rid of Ugly Coding of JavaScript?](https://www.reddit.com/r/Python/comments/jx78ke/lets_build_something_to_get_rid_of_ugly_coding_of/)
+- [Web Series Quotes with images Generating API](https://www.reddit.com/r/Python/comments/jx6qme/web_series_quotes_with_images_generating_api/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
