@@ -108,8 +108,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My first Open Source program on Python: bash aliases generator from shell history file](https://www.reddit.com/r/Python/comments/jwy0n4/my_first_open_source_program_on_python_bash/)
 - [Audio from Image text - grautesc.py - Python](https://www.reddit.com/r/Python/comments/jwxb66/audio_from_image_text_grautescpy_python/)
-- [100+ Coursera certificate programs free until 31st of December](https://www.reddit.com/r/Python/comments/jwv6rb/100_coursera_certificate_programs_free_until_31st/)
 - [How to extract YouTube video information (title, description, tags, published date, etc) using YouTube API in Python.](https://www.reddit.com/r/Python/comments/jwssj5/how_to_extract_youtube_video_information_title/)
 - [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jwro15/thursday_megathread_python_careers/)
 - [Testing Python code performance with flames 🔥 and potatoes 🥔...](https://www.reddit.com/r/Python/comments/jwr24w/testing_python_code_performance_with_flames_and/)
