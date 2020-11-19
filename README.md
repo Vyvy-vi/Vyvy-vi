@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Fast and Simple Youtube Downloader](https://www.reddit.com/r/Python/comments/jx9onp/fast_and_simple_youtube_downloader/)
-- [Data Science Interview Prep](https://www.reddit.com/r/Python/comments/jx955x/data_science_interview_prep/)
-- [Finding cycles in a graph. Johnsons method in Python.](https://www.reddit.com/r/Python/comments/jx8so6/finding_cycles_in_a_graph_johnsons_method_in/)
-- [Randomwall - Random Wallpaper Generator with OpenCV Color Detection (Mac/Windows)](https://www.reddit.com/r/Python/comments/jx8o5o/randomwall_random_wallpaper_generator_with_opencv/)
-- [Python and C# for object detection via webcam](https://www.reddit.com/r/Python/comments/jx8j6f/python_and_c_for_object_detection_via_webcam/)
+- [The Definitive Guide to WSGI](https://www.reddit.com/r/Python/comments/jxbd5x/the_definitive_guide_to_wsgi/)
+- [Expressive walrus assignment expressions Python 3.8](https://www.reddit.com/r/Python/comments/jxbces/expressive_walrus_assignment_expressions_python_38/)
+- [I created a random chess square generator and guesser in order to improve at visualization!](https://www.reddit.com/r/Python/comments/jxb6wp/i_created_a_random_chess_square_generator_and/)
+- [Do praw bots have the capability to read direct messages on reddit?](https://www.reddit.com/r/Python/comments/jxb378/do_praw_bots_have_the_capability_to_read_direct/)
+- [GTM Stack: IoT Data Analytics at the Edge](https://www.reddit.com/r/Python/comments/jxaz9j/gtm_stack_iot_data_analytics_at_the_edge/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
