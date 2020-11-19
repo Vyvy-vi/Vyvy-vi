@@ -112,7 +112,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 - [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jwro15/thursday_megathread_python_careers/)
 - [Testing Python code performance with flames 🔥 and potatoes 🥔...](https://www.reddit.com/r/Python/comments/jwr24w/testing_python_code_performance_with_flames_and/)
 - [Is Asynchronous the future of Python?](https://www.reddit.com/r/Python/comments/jwqken/is_asynchronous_the_future_of_python/)
-- [Handle Connection pool exception](https://www.reddit.com/r/Python/comments/jwpunm/handle_connection_pool_exception/)
+- [Grid.py - Think Python Ch.3 - Ex. 3.16](https://www.reddit.com/r/Python/comments/jwo79n/gridpy_think_python_ch3_ex_316/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
