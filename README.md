@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to make a bot using python, Credit: Kian Brose on YouTube](https://www.reddit.com/r/Python/comments/jx6fxm/how_to_make_a_bot_using_python_credit_kian_brose/)
+- [Looking for help with Pseudocode](https://www.reddit.com/r/Python/comments/jx61ns/looking_for_help_with_pseudocode/)
 - [Peep into python basics](https://www.reddit.com/r/Python/comments/jx57f9/peep_into_python_basics/)
 - [What Are Genetic Algorithms and How to Implement Them in Python](https://www.reddit.com/r/Python/comments/jx4xmg/what_are_genetic_algorithms_and_how_to_implement/)
 - [Need Python programer who would assist me in building this. (Will pay)](https://www.reddit.com/r/Python/comments/jx4uug/need_python_programer_who_would_assist_me_in/)
-- [Boost your Python visualization skills with Seaborn. Explained on a fresh GPU model dataset gathered by our Datalore team](https://www.reddit.com/r/Python/comments/jx3df6/boost_your_python_visualization_skills_with/)
-- [Getting Started with Google Calendar API in Python](https://www.reddit.com/r/Python/comments/jx24fn/getting_started_with_google_calendar_api_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
