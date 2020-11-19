@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Audio from Image text - grautesc.py - Python](https://www.reddit.com/r/Python/comments/jwxb66/audio_from_image_text_grautescpy_python/)
 - [100+ Coursera certificate programs free until 31st of December](https://www.reddit.com/r/Python/comments/jwv6rb/100_coursera_certificate_programs_free_until_31st/)
 - [How to extract YouTube video information (title, description, tags, published date, etc) using YouTube API in Python.](https://www.reddit.com/r/Python/comments/jwssj5/how_to_extract_youtube_video_information_title/)
 - [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jwro15/thursday_megathread_python_careers/)
 - [Testing Python code performance with flames 🔥 and potatoes 🥔...](https://www.reddit.com/r/Python/comments/jwr24w/testing_python_code_performance_with_flames_and/)
-- [Is Asynchronous the future of Python?](https://www.reddit.com/r/Python/comments/jwqken/is_asynchronous_the_future_of_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
