@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Is it bad for code to continuously run all the time?](https://www.reddit.com/r/Python/comments/jwyfye/is_it_bad_for_code_to_continuously_run_all_the/)
+- [Binary Search Recursive Method in Python | Recursive Function | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jwyfj8/binary_search_recursive_method_in_python/)
 - [My first Open Source program on Python: bash aliases generator from shell history file](https://www.reddit.com/r/Python/comments/jwy0n4/my_first_open_source_program_on_python_bash/)
 - [Audio from Image text - grautesc.py - Python](https://www.reddit.com/r/Python/comments/jwxb66/audio_from_image_text_grautescpy_python/)
 - [How to extract YouTube video information (title, description, tags, published date, etc) using YouTube API in Python.](https://www.reddit.com/r/Python/comments/jwssj5/how_to_extract_youtube_video_information_title/)
-- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jwro15/thursday_megathread_python_careers/)
-- [Testing Python code performance with flames 🔥 and potatoes 🥔...](https://www.reddit.com/r/Python/comments/jwr24w/testing_python_code_performance_with_flames_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
