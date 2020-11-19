@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Add A New Dimension To Your Photos Using Python](https://www.reddit.com/r/Python/comments/jx7h4h/add_a_new_dimension_to_your_photos_using_python/)
-- [Python Test Automation Framework for Apps & Websites | ArcTouch](https://www.reddit.com/r/Python/comments/jx7dzj/python_test_automation_framework_for_apps/)
-- [Instagramy : Python Package of Instagram](https://www.reddit.com/r/Python/comments/jx78po/instagramy_python_package_of_instagram/)
-- [Let's Build Something to Get Rid of Ugly Coding of JavaScript?](https://www.reddit.com/r/Python/comments/jx78ke/lets_build_something_to_get_rid_of_ugly_coding_of/)
-- [Web Series Quotes with images Generating API](https://www.reddit.com/r/Python/comments/jx6qme/web_series_quotes_with_images_generating_api/)
+- [Finding cycles in a graph. Johnsons method in Python.](https://www.reddit.com/r/Python/comments/jx8so6/finding_cycles_in_a_graph_johnsons_method_in/)
+- [Randomwall - Random Wallpaper Generator with OpenCV Color Detection (Mac/Windows)](https://www.reddit.com/r/Python/comments/jx8o5o/randomwall_random_wallpaper_generator_with_opencv/)
+- [Python and C# for object detection via webcam](https://www.reddit.com/r/Python/comments/jx8j6f/python_and_c_for_object_detection_via_webcam/)
+- [How to use Serializers in the Django Python web framework](https://www.reddit.com/r/Python/comments/jx8glr/how_to_use_serializers_in_the_django_python_web/)
+- [Discord bot made with discord.py](https://www.reddit.com/r/Python/comments/jx84su/discord_bot_made_with_discordpy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
