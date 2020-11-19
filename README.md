@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Google Calendar API in Python](https://www.reddit.com/r/Python/comments/jx24fn/getting_started_with_google_calendar_api_in_python/)
+- [We created an app that generates an E-commerce website from your Instagram Account.](https://www.reddit.com/r/Python/comments/jx20nd/we_created_an_app_that_generates_an_ecommerce/)
+- [I want to measure the slope between two data sets, I wrote this code but I have got error message.](https://www.reddit.com/r/Python/comments/jx1rq0/i_want_to_measure_the_slope_between_two_data_sets/)
 - [Build a Flask microservice with OpenFaaS](https://www.reddit.com/r/Python/comments/jx0vat/build_a_flask_microservice_with_openfaas/)
 - [Program i made to convert a picture to text file.](https://www.reddit.com/r/Python/comments/jx0ixy/program_i_made_to_convert_a_picture_to_text_file/)
-- [Python - Creating an amazing tool with pyperclip (Auto-Copy-Paste-clipbo...](https://www.reddit.com/r/Python/comments/jwz9jd/python_creating_an_amazing_tool_with_pyperclip/)
-- [Is it bad for code to continuously run all the time?](https://www.reddit.com/r/Python/comments/jwyfye/is_it_bad_for_code_to_continuously_run_all_the/)
-- [Binary Search Recursive Method in Python | Recursive Function | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jwyfj8/binary_search_recursive_method_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
