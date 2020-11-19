@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/jwro15/thursday_megathread_python_careers/)
+- [Testing Python code performance with flames 🔥 and potatoes 🥔...](https://www.reddit.com/r/Python/comments/jwr24w/testing_python_code_performance_with_flames_and/)
 - [Is Asynchronous the future of Python?](https://www.reddit.com/r/Python/comments/jwqken/is_asynchronous_the_future_of_python/)
 - [Handle Connection pool exception](https://www.reddit.com/r/Python/comments/jwpunm/handle_connection_pool_exception/)
-- [Performance testing Python code](https://www.reddit.com/r/Python/comments/jwp59o/performance_testing_python_code/)
 - [Grid.py - Think Python Ch.3 - Ex. 3.16](https://www.reddit.com/r/Python/comments/jwo79n/gridpy_think_python_ch3_ex_316/)
-- [I am off work and bored, so I made a Text To Video script](https://www.reddit.com/r/Python/comments/jwo61x/i_am_off_work_and_bored_so_i_made_a_text_to_video/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
