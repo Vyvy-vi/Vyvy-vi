@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Build a Flask microservice with OpenFaaS](https://www.reddit.com/r/Python/comments/jx0vat/build_a_flask_microservice_with_openfaas/)
+- [Program i made to convert a picture to text file.](https://www.reddit.com/r/Python/comments/jx0ixy/program_i_made_to_convert_a_picture_to_text_file/)
 - [Python - Creating an amazing tool with pyperclip (Auto-Copy-Paste-clipbo...](https://www.reddit.com/r/Python/comments/jwz9jd/python_creating_an_amazing_tool_with_pyperclip/)
 - [Is it bad for code to continuously run all the time?](https://www.reddit.com/r/Python/comments/jwyfye/is_it_bad_for_code_to_continuously_run_all_the/)
 - [Binary Search Recursive Method in Python | Recursive Function | Data Structure | Searching Algorithm](https://www.reddit.com/r/Python/comments/jwyfj8/binary_search_recursive_method_in_python/)
-- [My first Open Source program on Python: bash aliases generator from shell history file](https://www.reddit.com/r/Python/comments/jwy0n4/my_first_open_source_program_on_python_bash/)
-- [Audio from Image text - grautesc.py - Python](https://www.reddit.com/r/Python/comments/jwxb66/audio_from_image_text_grautescpy_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
