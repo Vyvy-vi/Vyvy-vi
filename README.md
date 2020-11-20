@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Provide different type of input types for a neural network ( eg. image, audio wave )](https://www.reddit.com/r/Python/comments/jxp3xm/provide_different_type_of_input_types_for_a/)
+- [Vistos: download congressional data directly from the US Government Publishing Office](https://www.reddit.com/r/Python/comments/jxp0ds/vistos_download_congressional_data_directly_from/)
+- [Automate Excel Spreadsheets with xlwings in Python](https://www.reddit.com/r/Python/comments/jxoujn/automate_excel_spreadsheets_with_xlwings_in_python/)
 - [The trouble with Django's transaction.atomic](https://www.reddit.com/r/Python/comments/jxoim9/the_trouble_with_djangos_transactionatomic/)
 - [I wrote a Network Packet Sniffer for ethical hacking in Python 3 that exclusively uses built-in libraries.](https://www.reddit.com/r/Python/comments/jxobtr/i_wrote_a_network_packet_sniffer_for_ethical/)
-- [Learn how to engineer, analyze, build, and deploy intelligent Machine Learning models using Python in this "Full Stack Data Science Course" launched by our team.](https://www.reddit.com/r/Python/comments/jxo14l/learn_how_to_engineer_analyze_build_and_deploy/)
-- [TorRecon - CLI tool for searching for hidden services](https://www.reddit.com/r/Python/comments/jxnbup/torrecon_cli_tool_for_searching_for_hidden/)
-- [Python Fuzzing with Atheris : a new coverage-guided fuzzer for Python](https://www.reddit.com/r/Python/comments/jxmral/python_fuzzing_with_atheris_a_new_coverageguided/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
