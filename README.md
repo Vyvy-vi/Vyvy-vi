@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My useful scrape functions :)](https://www.reddit.com/r/Python/comments/jxfi4z/my_useful_scrape_functions/)
 - [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jxee06/friday_megathread_free_chat_friday/)
 - [The Definitive Guide to WSGI](https://www.reddit.com/r/Python/comments/jxbd5x/the_definitive_guide_to_wsgi/)
 - [Expressive walrus assignment expressions Python 3.8](https://www.reddit.com/r/Python/comments/jxbces/expressive_walrus_assignment_expressions_python_38/)
 - [I created a random chess square generator and guesser in order to improve at visualization!](https://www.reddit.com/r/Python/comments/jxb6wp/i_created_a_random_chess_square_generator_and/)
-- [Do praw bots have the capability to read direct messages on reddit?](https://www.reddit.com/r/Python/comments/jxb378/do_praw_bots_have_the_capability_to_read_direct/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
