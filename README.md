@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How To Get A Phone Notification Whenever Scripts or Commands are Done Running using python](https://www.reddit.com/r/Python/comments/jxqf8p/how_to_get_a_phone_notification_whenever_scripts/)
 - [Provide different type of input types for a neural network ( eg. image, audio wave )](https://www.reddit.com/r/Python/comments/jxp3xm/provide_different_type_of_input_types_for_a/)
 - [Vistos: download congressional data directly from the US Government Publishing Office](https://www.reddit.com/r/Python/comments/jxp0ds/vistos_download_congressional_data_directly_from/)
 - [Automate Excel Spreadsheets with xlwings in Python](https://www.reddit.com/r/Python/comments/jxoujn/automate_excel_spreadsheets_with_xlwings_in_python/)
 - [The trouble with Django's transaction.atomic](https://www.reddit.com/r/Python/comments/jxoim9/the_trouble_with_djangos_transactionatomic/)
-- [I wrote a Network Packet Sniffer for ethical hacking in Python 3 that exclusively uses built-in libraries.](https://www.reddit.com/r/Python/comments/jxobtr/i_wrote_a_network_packet_sniffer_for_ethical/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
