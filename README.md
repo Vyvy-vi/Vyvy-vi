@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [The trouble with Django's transaction.atomic](https://www.reddit.com/r/Python/comments/jxoim9/the_trouble_with_djangos_transactionatomic/)
+- [I wrote a Network Packet Sniffer for ethical hacking in Python 3 that exclusively uses built-in libraries.](https://www.reddit.com/r/Python/comments/jxobtr/i_wrote_a_network_packet_sniffer_for_ethical/)
+- [Learn how to engineer, analyze, build, and deploy intelligent Machine Learning models using Python in this "Full Stack Data Science Course" launched by our team.](https://www.reddit.com/r/Python/comments/jxo14l/learn_how_to_engineer_analyze_build_and_deploy/)
 - [TorRecon - CLI tool for searching for hidden services](https://www.reddit.com/r/Python/comments/jxnbup/torrecon_cli_tool_for_searching_for_hidden/)
 - [Python Fuzzing with Atheris : a new coverage-guided fuzzer for Python](https://www.reddit.com/r/Python/comments/jxmral/python_fuzzing_with_atheris_a_new_coverageguided/)
-- [Python Automation File Manager](https://www.reddit.com/r/Python/comments/jxm8nf/python_automation_file_manager/)
-- [Get Python Courses with Udemy Black Friday Sale 2020](https://www.reddit.com/r/Python/comments/jxm7dt/get_python_courses_with_udemy_black_friday_sale/)
-- [My first application design project.](https://www.reddit.com/r/Python/comments/jxlxxk/my_first_application_design_project/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
