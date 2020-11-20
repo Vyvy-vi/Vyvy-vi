@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [My useful scrape functions :)](https://www.reddit.com/r/Python/comments/jxfi4z/my_useful_scrape_functions/)
-- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/jxee06/friday_megathread_free_chat_friday/)
-- [The Definitive Guide to WSGI](https://www.reddit.com/r/Python/comments/jxbd5x/the_definitive_guide_to_wsgi/)
-- [Expressive walrus assignment expressions Python 3.8](https://www.reddit.com/r/Python/comments/jxbces/expressive_walrus_assignment_expressions_python_38/)
-- [I created a random chess square generator and guesser in order to improve at visualization!](https://www.reddit.com/r/Python/comments/jxb6wp/i_created_a_random_chess_square_generator_and/)
+- [Creating Maps with Dash](https://www.reddit.com/r/Python/comments/jxginf/creating_maps_with_dash/)
+- [Emulating Quantum Computing with Python](https://www.reddit.com/r/Python/comments/jxgdsr/emulating_quantum_computing_with_python/)
+- [Quickly Transform Huge CSV Files Using AWS Lambda with Amazon S3](https://www.reddit.com/r/Python/comments/jxgap3/quickly_transform_huge_csv_files_using_aws_lambda/)
+- [Transcrypt: Python 3.7 to JavaScript Compiler](https://www.reddit.com/r/Python/comments/jxg9uo/transcrypt_python_37_to_javascript_compiler/)
+- [Where do you find programmers to do simple projects these days?](https://www.reddit.com/r/Python/comments/jxfxte/where_do_you_find_programmers_to_do_simple/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
