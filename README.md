@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hi, im trying to solve a question but I still can't figure it out](https://www.reddit.com/r/Python/comments/jxklfs/hi_im_trying_to_solve_a_question_but_i_still_cant/)
+- [Create a Command line Weather App with Python and Requests](https://www.reddit.com/r/Python/comments/jxk80s/create_a_command_line_weather_app_with_python_and/)
 - [Let’s scrape website data ethically](https://www.reddit.com/r/Python/comments/jxjqlc/lets_scrape_website_data_ethically/)
 - [sleepyjson](https://www.reddit.com/r/Python/comments/jxigh9/sleepyjson/)
 - [Creating Maps with Dash](https://www.reddit.com/r/Python/comments/jxginf/creating_maps_with_dash/)
-- [Emulating Quantum Computing with Python](https://www.reddit.com/r/Python/comments/jxgdsr/emulating_quantum_computing_with_python/)
-- [Quickly Transform Huge CSV Files Using AWS Lambda with Amazon S3](https://www.reddit.com/r/Python/comments/jxgap3/quickly_transform_huge_csv_files_using_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
