@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Need some input!!](https://www.reddit.com/r/Python/comments/jxtu5k/need_some_input/)
+- [#170 Loading data using pandas](https://www.reddit.com/r/Python/comments/jxti77/170_loading_data_using_pandas/)
 - [Even More Prettierer Tracebacks](https://www.reddit.com/r/Python/comments/jxsiyn/even_more_prettierer_tracebacks/)
 - [PART 2 of how I made an Among Us Bot using PyAutoGUI and Pillow to perform more tasks! [BEGINNER FRIENDLY]](https://www.reddit.com/r/Python/comments/jxrpzw/part_2_of_how_i_made_an_among_us_bot_using/)
 - [I’m having issues converting a program to exe](https://www.reddit.com/r/Python/comments/jxqwxg/im_having_issues_converting_a_program_to_exe/)
-- [How To Get A Phone Notification Whenever Scripts or Commands are Done Running using python](https://www.reddit.com/r/Python/comments/jxqf8p/how_to_get_a_phone_notification_whenever_scripts/)
-- [Vistos: download congressional data directly from the US Government Publishing Office](https://www.reddit.com/r/Python/comments/jxp0ds/vistos_download_congressional_data_directly_from/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
