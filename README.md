@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simulation of a population of students answering randomly a test, also an insight to regression to the mean](https://www.reddit.com/r/Python/comments/jxyqmp/simulation_of_a_population_of_students_answering/)
+- [SSHController: a small package to easily run SSH commands](https://www.reddit.com/r/Python/comments/jxxncp/sshcontroller_a_small_package_to_easily_run_ssh/)
 - [Bifurcation Diagram in Python with Matplotlib](https://www.reddit.com/r/Python/comments/jxxguo/bifurcation_diagram_in_python_with_matplotlib/)
 - [token based authentication within a class various functions](https://www.reddit.com/r/Python/comments/jxvp6a/token_based_authentication_within_a_class_various/)
 - [Need some input!!](https://www.reddit.com/r/Python/comments/jxtu5k/need_some_input/)
-- [#170 Loading data using pandas](https://www.reddit.com/r/Python/comments/jxti77/170_loading_data_using_pandas/)
-- [Even More Prettierer Tracebacks](https://www.reddit.com/r/Python/comments/jxsiyn/even_more_prettierer_tracebacks/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
