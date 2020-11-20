@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Hi, im trying to solve a question but I still can't figure it out](https://www.reddit.com/r/Python/comments/jxklfs/hi_im_trying_to_solve_a_question_but_i_still_cant/)
+- [I made an easy to use framework for terminal applications that features relative positioning, word-wrapping, centering, automatic menu generation and more.](https://www.reddit.com/r/Python/comments/jxl2x9/i_made_an_easy_to_use_framework_for_terminal/)
+- [Pytextaudio 1.0 - Screen to image to text to audio](https://www.reddit.com/r/Python/comments/jxkz8i/pytextaudio_10_screen_to_image_to_text_to_audio/)
 - [Create a Command line Weather App with Python and Requests](https://www.reddit.com/r/Python/comments/jxk80s/create_a_command_line_weather_app_with_python_and/)
 - [Let’s scrape website data ethically](https://www.reddit.com/r/Python/comments/jxjqlc/lets_scrape_website_data_ethically/)
 - [sleepyjson](https://www.reddit.com/r/Python/comments/jxigh9/sleepyjson/)
-- [Creating Maps with Dash](https://www.reddit.com/r/Python/comments/jxginf/creating_maps_with_dash/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
