@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python Fuzzing with Atheris : a new coverage-guided fuzzer for Python](https://www.reddit.com/r/Python/comments/jxmral/python_fuzzing_with_atheris_a_new_coverageguided/)
 - [Python Automation File Manager](https://www.reddit.com/r/Python/comments/jxm8nf/python_automation_file_manager/)
 - [Get Python Courses with Udemy Black Friday Sale 2020](https://www.reddit.com/r/Python/comments/jxm7dt/get_python_courses_with_udemy_black_friday_sale/)
 - [My first application design project.](https://www.reddit.com/r/Python/comments/jxlxxk/my_first_application_design_project/)
 - [QuickPYTHON - A retro futuristic interactive coding environment for Python](https://www.reddit.com/r/Python/comments/jxlvlm/quickpython_a_retro_futuristic_interactive_coding/)
-- [I made an easy to use framework for terminal applications that features relative positioning, word-wrapping, centering, automatic menu generation and more.](https://www.reddit.com/r/Python/comments/jxl2x9/i_made_an_easy_to_use_framework_for_terminal/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
