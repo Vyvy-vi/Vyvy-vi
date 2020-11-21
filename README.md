@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Is Angela Yu's "100 Days of Code - The Complete Python Pro Bootcamp for 2020" worth to buy?](https://www.reddit.com/r/Python/comments/jy2md3/is_angela_yus_100_days_of_code_the_complete/)
+- [Excepciones en Python](https://www.reddit.com/r/Python/comments/jy1zu9/excepciones_en_python/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jy0jyf/saturday_megathread_share_your_resources/)
 - [Hierarchical Human Activity Recognition using Deep Learning](https://www.reddit.com/r/Python/comments/jy0261/hierarchical_human_activity_recognition_using/)
 - [Refraction Animation Made in matplotlib](https://www.reddit.com/r/Python/comments/jxzzpj/refraction_animation_made_in_matplotlib/)
-- [How I made an Among Us Bot using PyAutoGUI and Pillow to perform more tasks! (Part 2)](https://www.reddit.com/r/Python/comments/jxzgy2/how_i_made_an_among_us_bot_using_pyautogui_and/)
-- [Why should I learn python?](https://www.reddit.com/r/Python/comments/jxz4ds/why_should_i_learn_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
