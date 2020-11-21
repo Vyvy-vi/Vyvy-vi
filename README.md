@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [imgin.org -a user based image board](https://www.reddit.com/r/Python/comments/jy837o/imginorg_a_user_based_image_board/)
+- [MADE A BLOG](https://www.reddit.com/r/Python/comments/jy7wbo/made_a_blog/)
 - [If you have been files to save Python program data, here is a better way to do so using the build-in Python module SQLite 3](https://www.reddit.com/r/Python/comments/jy7uoz/if_you_have_been_files_to_save_python_program/)
 - [You may want to see this :)](https://www.reddit.com/r/Python/comments/jy77u6/you_may_want_to_see_this/)
 - [Find the number of Astronauts in Space using Python](https://www.reddit.com/r/Python/comments/jy6omg/find_the_number_of_astronauts_in_space_using/)
-- [Python vs MATLAB Which is More Powerful And Better for Career](https://www.reddit.com/r/Python/comments/jy6b3a/python_vs_matlab_which_is_more_powerful_and/)
-- [The MONTY HALL PROBLEM, using python](https://www.reddit.com/r/Python/comments/jy5219/the_monty_hall_problem_using_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
