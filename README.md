@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python vs MATLAB Which is More Powerful And Better for Career](https://www.reddit.com/r/Python/comments/jy6b3a/python_vs_matlab_which_is_more_powerful_and/)
 - [The MONTY HALL PROBLEM, using python](https://www.reddit.com/r/Python/comments/jy5219/the_monty_hall_problem_using_python/)
 - [Is there a way to post Twitter fleets using python yet?](https://www.reddit.com/r/Python/comments/jy51v9/is_there_a_way_to_post_twitter_fleets_using/)
 - [A strict compile-time Enum matcher like the kind of Rust/Elm/Haskell (with limited power)](https://www.reddit.com/r/Python/comments/jy4uzy/a_strict_compiletime_enum_matcher_like_the_kind/)
 - [#125 Project-3 - Hangman Game - Introduction to this module](https://www.reddit.com/r/Python/comments/jy46ib/125_project3_hangman_game_introduction_to_this/)
-- [Listas, conjuntos definidos por comprensión en Python](https://www.reddit.com/r/Python/comments/jy3www/listas_conjuntos_definidos_por_comprensión_en/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
