@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My Latest Project, Wasmite - Debug and create unit tests for your WebAssembly code easily.](https://www.reddit.com/r/Python/comments/jyiekb/my_latest_project_wasmite_debug_and_create_unit/)
+- [Better Python console apps with Rich](https://www.reddit.com/r/Python/comments/jyi8ku/better_python_console_apps_with_rich/)
+- [I Made My first Software Using Tkinter and Python](https://www.reddit.com/r/Python/comments/jyhycw/i_made_my_first_software_using_tkinter_and_python/)
 - [👨‍💻 Queries in Django ( Part 7 ) - Django For Beginners](https://www.reddit.com/r/Python/comments/jyg7kb/queries_in_django_part_7_django_for_beginners/)
 - [(GREEK) Finding the most VFM products during Black Friday (GREEK)](https://www.reddit.com/r/Python/comments/jyeqqb/greek_finding_the_most_vfm_products_during_black/)
-- [AI-powered text summarizer demo](https://www.reddit.com/r/Python/comments/jyectl/aipowered_text_summarizer_demo/)
-- [a web scraping project](https://www.reddit.com/r/Python/comments/jyecg6/a_web_scraping_project/)
-- [Hey, I made a Python For Beginners Crash Course! I laid out everything I remember finding hard to understand in the beginning, and I tried to organize everything in the best way possible! Do you guys have some feedback?](https://www.reddit.com/r/Python/comments/jye99o/hey_i_made_a_python_for_beginners_crash_course_i/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
