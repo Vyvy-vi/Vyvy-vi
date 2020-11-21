@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [[PyQt5] How to add, copy, remove rows to a QTableWidget](https://www.reddit.com/r/Python/comments/jyaidk/pyqt5_how_to_add_copy_remove_rows_to_a/)
 - [If syntax error](https://www.reddit.com/r/Python/comments/jyaa9s/if_syntax_error/)
 - [Top 10 Python - Fun with numbers](https://www.reddit.com/r/Python/comments/jy9i6b/top_10_python_fun_with_numbers/)
 - [My github link](https://www.reddit.com/r/Python/comments/jy8nfs/my_github_link/)
 - [imgin.org -a user based image board](https://www.reddit.com/r/Python/comments/jy837o/imginorg_a_user_based_image_board/)
-- [MADE A BLOG](https://www.reddit.com/r/Python/comments/jy7wbo/made_a_blog/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
