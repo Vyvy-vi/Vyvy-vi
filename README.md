@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered text summarizer demo](https://www.reddit.com/r/Python/comments/jyectl/aipowered_text_summarizer_demo/)
+- [a web scraping project](https://www.reddit.com/r/Python/comments/jyecg6/a_web_scraping_project/)
+- [Hey, I made a Python For Beginners Crash Course! I laid out everything I remember finding hard to understand in the beginning, and I tried to organize everything in the best way possible! Do you guys have some feedback?](https://www.reddit.com/r/Python/comments/jye99o/hey_i_made_a_python_for_beginners_crash_course_i/)
+- [I think it’s a pretty funny prank](https://www.reddit.com/r/Python/comments/jydref/i_think_its_a_pretty_funny_prank/)
 - [My latest project, DarkWeb-Link (Anonymous messaging system)](https://www.reddit.com/r/Python/comments/jyd66n/my_latest_project_darkweblink_anonymous_messaging/)
-- [Pro Bowl voting script created to vote for Las Vegas Raiders players!](https://www.reddit.com/r/Python/comments/jyc8ol/pro_bowl_voting_script_created_to_vote_for_las/)
-- [IPython for Web Devs](https://www.reddit.com/r/Python/comments/jyc7xr/ipython_for_web_devs/)
-- [MADE A BLOG](https://www.reddit.com/r/Python/comments/jybv80/made_a_blog/)
-- [I recreated Undertale using python for our anniversary, what do you think?](https://www.reddit.com/r/Python/comments/jybo7u/i_recreated_undertale_using_python_for_our/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
