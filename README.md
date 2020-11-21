@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to create visually stunning Cross Platform Google Ranking App in Node Js and Python - Intro](https://www.reddit.com/r/Python/comments/jy3a0d/how_to_create_visually_stunning_cross_platform/)
+- [PyInstaller 4.1 now supports Python 3.8 and 3.9](https://www.reddit.com/r/Python/comments/jy38wx/pyinstaller_41_now_supports_python_38_and_39/)
 - [Is Angela Yu's "100 Days of Code - The Complete Python Pro Bootcamp for 2020" worth to buy?](https://www.reddit.com/r/Python/comments/jy2md3/is_angela_yus_100_days_of_code_the_complete/)
 - [Excepciones en Python](https://www.reddit.com/r/Python/comments/jy1zu9/excepciones_en_python/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jy0jyf/saturday_megathread_share_your_resources/)
-- [Hierarchical Human Activity Recognition using Deep Learning](https://www.reddit.com/r/Python/comments/jy0261/hierarchical_human_activity_recognition_using/)
-- [Refraction Animation Made in matplotlib](https://www.reddit.com/r/Python/comments/jxzzpj/refraction_animation_made_in_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
