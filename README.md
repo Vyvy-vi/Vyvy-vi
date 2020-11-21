@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/jy0jyf/saturday_megathread_share_your_resources/)
+- [Hierarchical Human Activity Recognition using Deep Learning](https://www.reddit.com/r/Python/comments/jy0261/hierarchical_human_activity_recognition_using/)
+- [Refraction Animation Made in matplotlib](https://www.reddit.com/r/Python/comments/jxzzpj/refraction_animation_made_in_matplotlib/)
 - [How I made an Among Us Bot using PyAutoGUI and Pillow to perform more tasks! (Part 2)](https://www.reddit.com/r/Python/comments/jxzgy2/how_i_made_an_among_us_bot_using_pyautogui_and/)
 - [Why should I learn python?](https://www.reddit.com/r/Python/comments/jxz4ds/why_should_i_learn_python/)
-- [Simulation of a population of students answering randomly a test, also an insight to regression to the mean](https://www.reddit.com/r/Python/comments/jxyqmp/simulation_of_a_population_of_students_answering/)
-- [SSHController: a small package to easily run SSH commands](https://www.reddit.com/r/Python/comments/jxxncp/sshcontroller_a_small_package_to_easily_run_ssh/)
-- [Bifurcation Diagram in Python with Matplotlib](https://www.reddit.com/r/Python/comments/jxxguo/bifurcation_diagram_in_python_with_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
