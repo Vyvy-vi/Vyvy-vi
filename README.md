@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [(GREEK) Finding the most VFM products during Black Friday (GREEK)](https://www.reddit.com/r/Python/comments/jyeqqb/greek_finding_the_most_vfm_products_during_black/)
 - [AI-powered text summarizer demo](https://www.reddit.com/r/Python/comments/jyectl/aipowered_text_summarizer_demo/)
 - [a web scraping project](https://www.reddit.com/r/Python/comments/jyecg6/a_web_scraping_project/)
 - [Hey, I made a Python For Beginners Crash Course! I laid out everything I remember finding hard to understand in the beginning, and I tried to organize everything in the best way possible! Do you guys have some feedback?](https://www.reddit.com/r/Python/comments/jye99o/hey_i_made_a_python_for_beginners_crash_course_i/)
 - [I think it’s a pretty funny prank](https://www.reddit.com/r/Python/comments/jydref/i_think_its_a_pretty_funny_prank/)
-- [My latest project, DarkWeb-Link (Anonymous messaging system)](https://www.reddit.com/r/Python/comments/jyd66n/my_latest_project_darkweblink_anonymous_messaging/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
