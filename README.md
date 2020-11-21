@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My latest project, DarkWeb-Link (Anonymous messaging system)](https://www.reddit.com/r/Python/comments/jyd66n/my_latest_project_darkweblink_anonymous_messaging/)
 - [Pro Bowl voting script created to vote for Las Vegas Raiders players!](https://www.reddit.com/r/Python/comments/jyc8ol/pro_bowl_voting_script_created_to_vote_for_las/)
 - [IPython for Web Devs](https://www.reddit.com/r/Python/comments/jyc7xr/ipython_for_web_devs/)
 - [MADE A BLOG](https://www.reddit.com/r/Python/comments/jybv80/made_a_blog/)
 - [I recreated Undertale using python for our anniversary, what do you think?](https://www.reddit.com/r/Python/comments/jybo7u/i_recreated_undertale_using_python_for_our/)
-- [[PyQt5] How to add, copy, remove rows to a QTableWidget](https://www.reddit.com/r/Python/comments/jyaidk/pyqt5_how_to_add_copy_remove_rows_to_a/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
