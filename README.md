@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Why web app development feels different from normal coding?](https://www.reddit.com/r/Python/comments/jyv49z/why_web_app_development_feels_different_from/)
+- [Python For Kids @ GitHub](https://www.reddit.com/r/Python/comments/jyuzyd/python_for_kids_github/)
 - [Notebook demonstrating zero-shot classification](https://www.reddit.com/r/Python/comments/jyujov/notebook_demonstrating_zeroshot_classification/)
 - [Is there any Python++ programming language? (C++ but with Python syntax)](https://www.reddit.com/r/Python/comments/jyt301/is_there_any_python_programming_language_c_but/)
 - [Textwritten : text file to handwritten pdf convertor for school assignments.](https://www.reddit.com/r/Python/comments/jyt11i/textwritten_text_file_to_handwritten_pdf/)
-- [Update on Rich tracebacks](https://www.reddit.com/r/Python/comments/jysy30/update_on_rich_tracebacks/)
-- [Python module for translation from English to 6 major Indian Languages.](https://www.reddit.com/r/Python/comments/jys7ea/python_module_for_translation_from_english_to_6/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
