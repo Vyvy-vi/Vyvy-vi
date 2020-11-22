@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Run Selenium Pytest in an Azure Devops Pipeline](https://www.reddit.com/r/Python/comments/jz07zz/run_selenium_pytest_in_an_azure_devops_pipeline/)
+- [If you're having issues with importing numpy after upgrading to MacOS Big Sur](https://www.reddit.com/r/Python/comments/jz0124/if_youre_having_issues_with_importing_numpy_after/)
 - [Getting first job as python developer [project recommendation]](https://www.reddit.com/r/Python/comments/jyyv2s/getting_first_job_as_python_developer_project/)
 - [Automate the boring stuff but not with Python](https://www.reddit.com/r/Python/comments/jyyuwu/automate_the_boring_stuff_but_not_with_python/)
 - [i made a cli tool to get movie's info such as IMDb rating, description](https://www.reddit.com/r/Python/comments/jyxq4a/i_made_a_cli_tool_to_get_movies_info_such_as_imdb/)
-- [I made a bot for creating playlists from reddit threads](https://www.reddit.com/r/Python/comments/jywop5/i_made_a_bot_for_creating_playlists_from_reddit/)
-- [Categorized Python library index](https://www.reddit.com/r/Python/comments/jyw7bo/categorized_python_library_index/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
