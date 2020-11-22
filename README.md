@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Notebook demonstrating zero-shot classification](https://www.reddit.com/r/Python/comments/jyujov/notebook_demonstrating_zeroshot_classification/)
 - [Is there any Python++ programming language? (C++ but with Python syntax)](https://www.reddit.com/r/Python/comments/jyt301/is_there_any_python_programming_language_c_but/)
 - [Textwritten : text file to handwritten pdf convertor for school assignments.](https://www.reddit.com/r/Python/comments/jyt11i/textwritten_text_file_to_handwritten_pdf/)
 - [Update on Rich tracebacks](https://www.reddit.com/r/Python/comments/jysy30/update_on_rich_tracebacks/)
 - [Python module for translation from English to 6 major Indian Languages.](https://www.reddit.com/r/Python/comments/jys7ea/python_module_for_translation_from_english_to_6/)
-- [Vectorized computations in Python native data structures](https://www.reddit.com/r/Python/comments/jyr2dq/vectorized_computations_in_python_native_data/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
