@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [installing packages](https://www.reddit.com/r/Python/comments/jymz2h/installing_packages/)
+- [You may want to try this everyone.](https://www.reddit.com/r/Python/comments/jymvuz/you_may_want_to_try_this_everyone/)
 - [I am trying to get historical stock data on the 30 minute chart for the S&P 500, I came across this github repo but have never used web sockets. Can someone explain how this works?](https://www.reddit.com/r/Python/comments/jymu1z/i_am_trying_to_get_historical_stock_data_on_the/)
 - [What are some good quality of life packages that I should start using?](https://www.reddit.com/r/Python/comments/jym7i9/what_are_some_good_quality_of_life_packages_that/)
 - [I recreated Undertale using python for our anniversary, what do you think?](https://www.reddit.com/r/Python/comments/jyllyd/i_recreated_undertale_using_python_for_our/)
-- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/jyli1t/sunday_megathread_whats_everyone_working_on_this/)
-- [My Latest Project, Wasmite - Debug and create unit tests for your WebAssembly code easily.](https://www.reddit.com/r/Python/comments/jyiekb/my_latest_project_wasmite_debug_and_create_unit/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
