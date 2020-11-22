@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Best Windows Python editor that supports editing files over SSH and executing on Linux hosts you are editing over SSH?](https://www.reddit.com/r/Python/comments/jz4l6k/best_windows_python_editor_that_supports_editing/)
+- [MongoDB Python motor fuzzy search](https://www.reddit.com/r/Python/comments/jz4iv4/mongodb_python_motor_fuzzy_search/)
+- [Pandas](https://www.reddit.com/r/Python/comments/jz4c1l/pandas/)
 - [How to run Python within a Docker container on Windows 10 [0C]](https://www.reddit.com/r/Python/comments/jz386v/how_to_run_python_within_a_docker_container_on/)
 - [pwk: Python with kurly braces](https://www.reddit.com/r/Python/comments/jz2plp/pwk_python_with_kurly_braces/)
-- [SHA256 in orthodox Python](https://www.reddit.com/r/Python/comments/jz1813/sha256_in_orthodox_python/)
-- [I made a PlayStation 5 Bot](https://www.reddit.com/r/Python/comments/jz0l14/i_made_a_playstation_5_bot/)
-- [Run Selenium Pytest in an Azure Devops Pipeline](https://www.reddit.com/r/Python/comments/jz07zz/run_selenium_pytest_in_an_azure_devops_pipeline/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
