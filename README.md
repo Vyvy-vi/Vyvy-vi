@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [i made a cli tool to get movie's info such as IMDb rating, description](https://www.reddit.com/r/Python/comments/jyxq4a/i_made_a_cli_tool_to_get_movies_info_such_as_imdb/)
 - [I made a bot for creating playlists from reddit threads](https://www.reddit.com/r/Python/comments/jywop5/i_made_a_bot_for_creating_playlists_from_reddit/)
 - [Categorized Python library index](https://www.reddit.com/r/Python/comments/jyw7bo/categorized_python_library_index/)
 - [How to fix No module named scipy.sparse?](https://www.reddit.com/r/Python/comments/jyvwnl/how_to_fix_no_module_named_scipysparse/)
 - [Simple Django 3 tutorial project for beginners](https://www.reddit.com/r/Python/comments/jyvtnj/simple_django_3_tutorial_project_for_beginners/)
-- [I really dont understand why Python doesnt require type when declaring a variable, along with many of its other "quirks".](https://www.reddit.com/r/Python/comments/jyvl81/i_really_dont_understand_why_python_doesnt/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
