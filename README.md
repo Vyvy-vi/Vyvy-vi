@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a bot for creating playlists from reddit threads](https://www.reddit.com/r/Python/comments/jywop5/i_made_a_bot_for_creating_playlists_from_reddit/)
 - [Categorized Python library index](https://www.reddit.com/r/Python/comments/jyw7bo/categorized_python_library_index/)
 - [How to fix No module named scipy.sparse?](https://www.reddit.com/r/Python/comments/jyvwnl/how_to_fix_no_module_named_scipysparse/)
 - [Simple Django 3 tutorial project for beginners](https://www.reddit.com/r/Python/comments/jyvtnj/simple_django_3_tutorial_project_for_beginners/)
 - [I really dont understand why Python doesnt require type when declaring a variable, along with many of its other "quirks".](https://www.reddit.com/r/Python/comments/jyvl81/i_really_dont_understand_why_python_doesnt/)
-- [Why web app development feels different from normal coding?](https://www.reddit.com/r/Python/comments/jyv49z/why_web_app_development_feels_different_from/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
