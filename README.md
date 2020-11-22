@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Vectorized computations in Python native data structures](https://www.reddit.com/r/Python/comments/jyr2dq/vectorized_computations_in_python_native_data/)
 - [How to build a Zapier alternative using Python and AWS](https://www.reddit.com/r/Python/comments/jyp8xc/how_to_build_a_zapier_alternative_using_python/)
 - [I just started putting together a series of W3C-style Python tutorials](https://www.reddit.com/r/Python/comments/jyp1td/i_just_started_putting_together_a_series_of/)
 - [You may want to try this everyone.](https://www.reddit.com/r/Python/comments/jymvuz/you_may_want_to_try_this_everyone/)
 - [What are some good quality of life packages that I should start using?](https://www.reddit.com/r/Python/comments/jym7i9/what_are_some_good_quality_of_life_packages_that/)
-- [I recreated Undertale using python for our anniversary, what do you think?](https://www.reddit.com/r/Python/comments/jyllyd/i_recreated_undertale_using_python_for_our/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
