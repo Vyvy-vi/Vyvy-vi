@@ -108,11 +108,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone.](https://www.reddit.com/r/Python/comments/jyshvm/hi_everyone/)
+- [Is there any Python++ programming language? (C++ but with Python syntax)](https://www.reddit.com/r/Python/comments/jyt301/is_there_any_python_programming_language_c_but/)
+- [Textwritten : text file to handwritten pdf convertor for school assignments.](https://www.reddit.com/r/Python/comments/jyt11i/textwritten_text_file_to_handwritten_pdf/)
+- [Update on Rich tracebacks](https://www.reddit.com/r/Python/comments/jysy30/update_on_rich_tracebacks/)
 - [Python module for translation from English to 6 major Indian Languages.](https://www.reddit.com/r/Python/comments/jys7ea/python_module_for_translation_from_english_to_6/)
 - [Vectorized computations in Python native data structures](https://www.reddit.com/r/Python/comments/jyr2dq/vectorized_computations_in_python_native_data/)
-- [How to build a Zapier alternative using Python and AWS](https://www.reddit.com/r/Python/comments/jyp8xc/how_to_build_a_zapier_alternative_using_python/)
-- [I just started putting together a series of W3C-style Python tutorials](https://www.reddit.com/r/Python/comments/jyp1td/i_just_started_putting_together_a_series_of/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
