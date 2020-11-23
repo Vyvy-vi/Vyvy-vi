@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Really simple calculator](https://www.reddit.com/r/Python/comments/jz8ild/really_simple_calculator/)
+- [Simple Neural Network Car Game with Python](https://www.reddit.com/r/Python/comments/jz8eod/simple_neural_network_car_game_with_python/)
 - [Learn Python Data Science for Media Bias Detection - Upcoming Course and Video Series](https://www.reddit.com/r/Python/comments/jz7yvq/learn_python_data_science_for_media_bias/)
 - [Flyable - Speeding your Python code up to 80-fold !](https://www.reddit.com/r/Python/comments/jz7cox/flyable_speeding_your_python_code_up_to_80fold/)
 - [little thing I put together after hearing about the Linus video](https://www.reddit.com/r/Python/comments/jz6r6x/little_thing_i_put_together_after_hearing_about/)
-- [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/jz6li2/monday_megathread_project_ideas/)
-- [Python Extensions with Rust and Go](https://www.reddit.com/r/Python/comments/jz6a0z/python_extensions_with_rust_and_go/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
