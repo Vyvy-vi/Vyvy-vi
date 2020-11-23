@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Running FastAPI applications in production with systemd, gunicorn, uvicorn and nginx](https://www.reddit.com/r/Python/comments/jznuqr/running_fastapi_applications_in_production_with/)
+- [I need help pls.](https://www.reddit.com/r/Python/comments/jznli2/i_need_help_pls/)
+- [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/jznh1a/the_complete_python_pro_bootcamp_for_2021_by_dr/)
 - [AI Learns To Play GridWorld Using Raw Pixels On Screen](https://www.reddit.com/r/Python/comments/jzmc2j/ai_learns_to_play_gridworld_using_raw_pixels_on/)
 - [Can anyone please tell me? Why my apk is weighed around 50.3mb?](https://www.reddit.com/r/Python/comments/jzm8kh/can_anyone_please_tell_me_why_my_apk_is_weighed/)
-- [Use Python to hand out candy on Halloween](https://www.reddit.com/r/Python/comments/jzlljd/use_python_to_hand_out_candy_on_halloween/)
-- [I made a video for my students explaining our recent end-to-end ML project (from data source to live website). Thought you folks might find it useful. Please let me know if anything’s confusing, incorrect, or could be done better!](https://www.reddit.com/r/Python/comments/jzlb1w/i_made_a_video_for_my_students_explaining_our/)
-- [I have created a bot implementation to SmarterQueue to tweet quotes from famous books and people.](https://www.reddit.com/r/Python/comments/jzl55q/i_have_created_a_bot_implementation_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
