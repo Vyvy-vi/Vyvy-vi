@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Basic BeautifulSoup example for Slashdot.org](https://www.reddit.com/r/Python/comments/jzet0y/basic_beautifulsoup_example_for_slashdotorg/)
+- [Logging plays a crucial role in any production application. Here's an attempt to deconstruct the Python logging module and understand it inside out.](https://www.reddit.com/r/Python/comments/jzei1v/logging_plays_a_crucial_role_in_any_production/)
 - [Deploying Machine Learning Models with FastAPI and Angular](https://www.reddit.com/r/Python/comments/jze4yg/deploying_machine_learning_models_with_fastapi/)
 - [Syntax sugar or a sugar trap?](https://www.reddit.com/r/Python/comments/jzdsiv/syntax_sugar_or_a_sugar_trap/)
 - [Prim's Algorithm Maze Creation](https://www.reddit.com/r/Python/comments/jzcrcs/prims_algorithm_maze_creation/)
-- [what is the best way to integrate client side with flask](https://www.reddit.com/r/Python/comments/jzcpqw/what_is_the_best_way_to_integrate_client_side/)
-- [20 Python Tips And Trick For New Python Developers!](https://www.reddit.com/r/Python/comments/jzcpk0/20_python_tips_and_trick_for_new_python_developers/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
