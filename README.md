@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Board Game AI](https://www.reddit.com/r/Python/comments/jzst1h/board_game_ai/)
+- [Just posted a new podcast episode. Python Basics: Classes, Methods, Inheritance, & References | Episode 6.](https://www.reddit.com/r/Python/comments/jzs4jw/just_posted_a_new_podcast_episode_python_basics/)
 - [can someone please explain. I am new to Python](https://www.reddit.com/r/Python/comments/jzrd0o/can_someone_please_explain_i_am_new_to_python/)
 - [What is the best course for learning everything, especially intermediate stuff](https://www.reddit.com/r/Python/comments/jzr8o1/what_is_the_best_course_for_learning_everything/)
 - [How to create a small and secure container for your Python applications](https://www.reddit.com/r/Python/comments/jzqu2g/how_to_create_a_small_and_secure_container_for/)
-- [single-version - Maintain a single `__version__` location for Poetry-built packages.](https://www.reddit.com/r/Python/comments/jzpe5e/singleversion_maintain_a_single_version_location/)
-- [Use devdocs.io instead of python docs if you think the python docs aren't a good reference manual](https://www.reddit.com/r/Python/comments/jzozu9/use_devdocsio_instead_of_python_docs_if_you_think/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
