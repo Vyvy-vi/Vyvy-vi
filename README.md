@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Google Drive API in Python](https://www.reddit.com/r/Python/comments/jzh7rr/getting_started_with_google_drive_api_in_python/)
-- [fun little easter egg](https://www.reddit.com/r/Python/comments/jzh2pq/fun_little_easter_egg/)
-- [Blackjack in Python](https://www.reddit.com/r/Python/comments/jzgoet/blackjack_in_python/)
-- [eBook: Advanced Python Tips Easily Explained by Rahul Aggarwal](https://www.reddit.com/r/Python/comments/jzglym/ebook_advanced_python_tips_easily_explained_by/)
-- [Programming Editor for Windows Python Developers](https://www.reddit.com/r/Python/comments/jzg5ga/programming_editor_for_windows_python_developers/)
+- [Python Crypto Tool based on AES CBC mode](https://www.reddit.com/r/Python/comments/jzi6hn/python_crypto_tool_based_on_aes_cbc_mode/)
+- [I figured out how to embed my Flask application within Streamlit! Here's how...](https://www.reddit.com/r/Python/comments/jzi2y5/i_figured_out_how_to_embed_my_flask_application/)
+- [YouTube Video Downloader](https://www.reddit.com/r/Python/comments/jzhpo4/youtube_video_downloader/)
+- [Let's Build a Web Scraper with Python & BeautifulSoup4 | thecodingpie](https://www.reddit.com/r/Python/comments/jzhobd/lets_build_a_web_scraper_with_python/)
+- [Interested in learning Python](https://www.reddit.com/r/Python/comments/jzhjji/interested_in_learning_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
