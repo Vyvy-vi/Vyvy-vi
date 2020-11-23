@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Data Science for Media Bias Detection - Upcoming Course and Video Series](https://www.reddit.com/r/Python/comments/jz7yvq/learn_python_data_science_for_media_bias/)
+- [Flyable - Speeding your Python code up to 80-fold !](https://www.reddit.com/r/Python/comments/jz7cox/flyable_speeding_your_python_code_up_to_80fold/)
 - [little thing I put together after hearing about the Linus video](https://www.reddit.com/r/Python/comments/jz6r6x/little_thing_i_put_together_after_hearing_about/)
 - [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/jz6li2/monday_megathread_project_ideas/)
 - [Python Extensions with Rust and Go](https://www.reddit.com/r/Python/comments/jz6a0z/python_extensions_with_rust_and_go/)
-- [Instagram Private API for Developers](https://www.reddit.com/r/Python/comments/jz5zio/instagram_private_api_for_developers/)
-- [MQTT Set up with Python Subscriber Script as a Service - end goal is to set up Google Assistant via IFTTT without exposing my home network](https://www.reddit.com/r/Python/comments/jz5ymm/mqtt_set_up_with_python_subscriber_script_as_a/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
