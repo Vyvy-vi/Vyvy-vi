@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Running FastAPI applications in production with systemd, gunicorn, uvicorn and nginx](https://www.reddit.com/r/Python/comments/jznuqr/running_fastapi_applications_in_production_with/)
-- [I need help pls.](https://www.reddit.com/r/Python/comments/jznli2/i_need_help_pls/)
-- [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/jznh1a/the_complete_python_pro_bootcamp_for_2021_by_dr/)
-- [AI Learns To Play GridWorld Using Raw Pixels On Screen](https://www.reddit.com/r/Python/comments/jzmc2j/ai_learns_to_play_gridworld_using_raw_pixels_on/)
-- [Can anyone please tell me? Why my apk is weighed around 50.3mb?](https://www.reddit.com/r/Python/comments/jzm8kh/can_anyone_please_tell_me_why_my_apk_is_weighed/)
+- [single-version - Maintain a single `__version__` location for Poetry-built packages.](https://www.reddit.com/r/Python/comments/jzpe5e/singleversion_maintain_a_single_version_location/)
+- [Use devdocs.io instead of python docs if you think the python docs aren't a good reference manual](https://www.reddit.com/r/Python/comments/jzozu9/use_devdocsio_instead_of_python_docs_if_you_think/)
+- [Folks who started with Automate the Boring Stuff (or other beginner book equivalent), where did you go afterwards?](https://www.reddit.com/r/Python/comments/jzov4w/folks_who_started_with_automate_the_boring_stuff/)
+- [Using OOPS in Python](https://www.reddit.com/r/Python/comments/jzonnn/using_oops_in_python/)
+- [Building a Telegram bot in Python to track your portfolio](https://www.reddit.com/r/Python/comments/jzokdr/building_a_telegram_bot_in_python_to_track_your/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
