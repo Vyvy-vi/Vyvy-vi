@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Use Python to hand out candy on Halloween](https://www.reddit.com/r/Python/comments/jzlljd/use_python_to_hand_out_candy_on_halloween/)
+- [I made a video for my students explaining our recent end-to-end ML project (from data source to live website). Thought you folks might find it useful. Please let me know if anything’s confusing, incorrect, or could be done better!](https://www.reddit.com/r/Python/comments/jzlb1w/i_made_a_video_for_my_students_explaining_our/)
+- [I have created a bot implementation to SmarterQueue to tweet quotes from famous books and people.](https://www.reddit.com/r/Python/comments/jzl55q/i_have_created_a_bot_implementation_to/)
 - [Tkinter: Toplevels in separate file](https://www.reddit.com/r/Python/comments/jzkm8m/tkinter_toplevels_in_separate_file/)
 - [App for college application](https://www.reddit.com/r/Python/comments/jzkf57/app_for_college_application/)
-- [21 Best Python Libraries for Machine Learning and Some for Data Analysis](https://www.reddit.com/r/Python/comments/jzk5qx/21_best_python_libraries_for_machine_learning_and/)
-- [How an attacker might use PYTHONPATH to load vulnerable modules](https://www.reddit.com/r/Python/comments/jzk5fy/how_an_attacker_might_use_pythonpath_to_load/)
-- [Split Your Dataset With scikit-learn's train_test_split() – Real Python](https://www.reddit.com/r/Python/comments/jzjtgk/split_your_dataset_with_scikitlearns_train_test/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
