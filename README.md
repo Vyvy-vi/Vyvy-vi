@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [cc checker [Cvv & Exp]](https://www.reddit.com/r/Python/comments/jzbzk1/cc_checker_cvv_exp/)
+- [face_blur, detect and blur all faces in any given image or video.](https://www.reddit.com/r/Python/comments/jzbxg1/face_blur_detect_and_blur_all_faces_in_any_given/)
+- [What would you say is either missing or can be added on to this?](https://www.reddit.com/r/Python/comments/jzbmjp/what_would_you_say_is_either_missing_or_can_be/)
 - [Best learning Python Youtube video playlist/series?](https://www.reddit.com/r/Python/comments/jzbe51/best_learning_python_youtube_video_playlistseries/)
 - [Python program to Automatically add all songs from youtube playlist to spotify playlist. (Version 2)](https://www.reddit.com/r/Python/comments/jzb7qj/python_program_to_automatically_add_all_songs/)
-- [Access lot of free resources from ai basics server](https://www.reddit.com/r/Python/comments/jzazc3/access_lot_of_free_resources_from_ai_basics_server/)
-- [Jan 2016: The date Python became more important than Bacon](https://www.reddit.com/r/Python/comments/jza40k/jan_2016_the_date_python_became_more_important/)
-- [Really simple calculator](https://www.reddit.com/r/Python/comments/jz8ild/really_simple_calculator/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
