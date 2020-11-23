@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Can't make it work](https://www.reddit.com/r/Python/comments/jzitl8/cant_make_it_work/)
-- [Automate your Jira Excel reporting with Python](https://www.reddit.com/r/Python/comments/jzid77/automate_your_jira_excel_reporting_with_python/)
-- [Python Crypto Tool based on AES CBC mode](https://www.reddit.com/r/Python/comments/jzi6hn/python_crypto_tool_based_on_aes_cbc_mode/)
-- [I figured out how to embed my Flask application within Streamlit! Here's how...](https://www.reddit.com/r/Python/comments/jzi2y5/i_figured_out_how_to_embed_my_flask_application/)
-- [YouTube Video Downloader](https://www.reddit.com/r/Python/comments/jzhpo4/youtube_video_downloader/)
+- [Tkinter: Toplevels in separate file](https://www.reddit.com/r/Python/comments/jzkm8m/tkinter_toplevels_in_separate_file/)
+- [App for college application](https://www.reddit.com/r/Python/comments/jzkf57/app_for_college_application/)
+- [21 Best Python Libraries for Machine Learning and Some for Data Analysis](https://www.reddit.com/r/Python/comments/jzk5qx/21_best_python_libraries_for_machine_learning_and/)
+- [How an attacker might use PYTHONPATH to load vulnerable modules](https://www.reddit.com/r/Python/comments/jzk5fy/how_an_attacker_might_use_pythonpath_to_load/)
+- [Split Your Dataset With scikit-learn's train_test_split() – Real Python](https://www.reddit.com/r/Python/comments/jzjtgk/split_your_dataset_with_scikitlearns_train_test/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
