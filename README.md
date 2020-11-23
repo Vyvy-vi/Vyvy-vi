@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Programming Editor for Windows Python Developers](https://www.reddit.com/r/Python/comments/jzg5ga/programming_editor_for_windows_python_developers/)
+- [Random Boolean Networks: (Using Python)](https://www.reddit.com/r/Python/comments/jzfxb5/random_boolean_networks_using_python/)
 - [Python interview questions and answers- Here are some sample interview questions on Python, with detailed answers, explained well.](https://www.reddit.com/r/Python/comments/jzfhsc/python_interview_questions_and_answers_here_are/)
 - [New testing module for python-bq-test-kit.](https://www.reddit.com/r/Python/comments/jzffwq/new_testing_module_for_pythonbqtestkit/)
 - [Basic BeautifulSoup example for Slashdot.org](https://www.reddit.com/r/Python/comments/jzet0y/basic_beautifulsoup_example_for_slashdotorg/)
-- [Logging plays a crucial role in any production application. Here's an attempt to deconstruct the Python logging module and understand it inside out.](https://www.reddit.com/r/Python/comments/jzei1v/logging_plays_a_crucial_role_in_any_production/)
-- [Deploying Machine Learning Models with FastAPI and Angular](https://www.reddit.com/r/Python/comments/jze4yg/deploying_machine_learning_models_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
