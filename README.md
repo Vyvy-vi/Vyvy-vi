@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Best learning Python Youtube video playlist/series?](https://www.reddit.com/r/Python/comments/jzbe51/best_learning_python_youtube_video_playlistseries/)
+- [Python program to Automatically add all songs from youtube playlist to spotify playlist. (Version 2)](https://www.reddit.com/r/Python/comments/jzb7qj/python_program_to_automatically_add_all_songs/)
+- [Access lot of free resources from ai basics server](https://www.reddit.com/r/Python/comments/jzazc3/access_lot_of_free_resources_from_ai_basics_server/)
 - [Jan 2016: The date Python became more important than Bacon](https://www.reddit.com/r/Python/comments/jza40k/jan_2016_the_date_python_became_more_important/)
 - [Really simple calculator](https://www.reddit.com/r/Python/comments/jz8ild/really_simple_calculator/)
-- [Simple Neural Network Car Game with Python](https://www.reddit.com/r/Python/comments/jz8eod/simple_neural_network_car_game_with_python/)
-- [Learn Python Data Science for Media Bias Detection - Upcoming Course and Video Series](https://www.reddit.com/r/Python/comments/jz7yvq/learn_python_data_science_for_media_bias/)
-- [Flyable - Speeding your Python code up to 80-fold !](https://www.reddit.com/r/Python/comments/jz7cox/flyable_speeding_your_python_code_up_to_80fold/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
