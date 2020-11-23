@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [cc checker [Cvv & Exp]](https://www.reddit.com/r/Python/comments/jzbzk1/cc_checker_cvv_exp/)
+- [Prim's Algorithm Maze Creation](https://www.reddit.com/r/Python/comments/jzcrcs/prims_algorithm_maze_creation/)
+- [what is the best way to integrate client side with flask](https://www.reddit.com/r/Python/comments/jzcpqw/what_is_the_best_way_to_integrate_client_side/)
+- [20 Python Tips And Trick For New Python Developers!](https://www.reddit.com/r/Python/comments/jzcpk0/20_python_tips_and_trick_for_new_python_developers/)
 - [face_blur, detect and blur all faces in any given image or video.](https://www.reddit.com/r/Python/comments/jzbxg1/face_blur_detect_and_blur_all_faces_in_any_given/)
 - [What would you say is either missing or can be added on to this?](https://www.reddit.com/r/Python/comments/jzbmjp/what_would_you_say_is_either_missing_or_can_be/)
-- [Best learning Python Youtube video playlist/series?](https://www.reddit.com/r/Python/comments/jzbe51/best_learning_python_youtube_video_playlistseries/)
-- [Python program to Automatically add all songs from youtube playlist to spotify playlist. (Version 2)](https://www.reddit.com/r/Python/comments/jzb7qj/python_program_to_automatically_add_all_songs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
