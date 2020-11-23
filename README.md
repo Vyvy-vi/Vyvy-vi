@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Building a statusbar/menubar app for macOS within 10 minutes: Realtime stock quotes](https://www.reddit.com/r/Python/comments/jz5ruj/building_a_statusbarmenubar_app_for_macos_within/)
-- [OpenCV to enable facial recognition on drone!](https://www.reddit.com/r/Python/comments/jz4tlb/opencv_to_enable_facial_recognition_on_drone/)
-- [Best Windows Python editor that supports editing files over SSH and executing on Linux hosts you are editing over SSH?](https://www.reddit.com/r/Python/comments/jz4l6k/best_windows_python_editor_that_supports_editing/)
-- [MongoDB Python motor fuzzy search](https://www.reddit.com/r/Python/comments/jz4iv4/mongodb_python_motor_fuzzy_search/)
-- [How to run Python within a Docker container on Windows 10 [0C]](https://www.reddit.com/r/Python/comments/jz386v/how_to_run_python_within_a_docker_container_on/)
+- [little thing I put together after hearing about the Linus video](https://www.reddit.com/r/Python/comments/jz6r6x/little_thing_i_put_together_after_hearing_about/)
+- [Monday megathread: Project ideas!](https://www.reddit.com/r/Python/comments/jz6li2/monday_megathread_project_ideas/)
+- [Python Extensions with Rust and Go](https://www.reddit.com/r/Python/comments/jz6a0z/python_extensions_with_rust_and_go/)
+- [Instagram Private API for Developers](https://www.reddit.com/r/Python/comments/jz5zio/instagram_private_api_for_developers/)
+- [MQTT Set up with Python Subscriber Script as a Service - end goal is to set up Google Assistant via IFTTT without exposing my home network](https://www.reddit.com/r/Python/comments/jz5ymm/mqtt_set_up_with_python_subscriber_script_as_a/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
