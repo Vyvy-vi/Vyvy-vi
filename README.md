@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Can't make it work](https://www.reddit.com/r/Python/comments/jzitl8/cant_make_it_work/)
+- [Automate your Jira Excel reporting with Python](https://www.reddit.com/r/Python/comments/jzid77/automate_your_jira_excel_reporting_with_python/)
 - [Python Crypto Tool based on AES CBC mode](https://www.reddit.com/r/Python/comments/jzi6hn/python_crypto_tool_based_on_aes_cbc_mode/)
 - [I figured out how to embed my Flask application within Streamlit! Here's how...](https://www.reddit.com/r/Python/comments/jzi2y5/i_figured_out_how_to_embed_my_flask_application/)
 - [YouTube Video Downloader](https://www.reddit.com/r/Python/comments/jzhpo4/youtube_video_downloader/)
-- [Let's Build a Web Scraper with Python & BeautifulSoup4 | thecodingpie](https://www.reddit.com/r/Python/comments/jzhobd/lets_build_a_web_scraper_with_python/)
-- [Interested in learning Python](https://www.reddit.com/r/Python/comments/jzhjji/interested_in_learning_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
