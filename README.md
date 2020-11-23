@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Google Drive API in Python](https://www.reddit.com/r/Python/comments/jzh7rr/getting_started_with_google_drive_api_in_python/)
+- [fun little easter egg](https://www.reddit.com/r/Python/comments/jzh2pq/fun_little_easter_egg/)
+- [Blackjack in Python](https://www.reddit.com/r/Python/comments/jzgoet/blackjack_in_python/)
+- [eBook: Advanced Python Tips Easily Explained by Rahul Aggarwal](https://www.reddit.com/r/Python/comments/jzglym/ebook_advanced_python_tips_easily_explained_by/)
 - [Programming Editor for Windows Python Developers](https://www.reddit.com/r/Python/comments/jzg5ga/programming_editor_for_windows_python_developers/)
-- [Random Boolean Networks: (Using Python)](https://www.reddit.com/r/Python/comments/jzfxb5/random_boolean_networks_using_python/)
-- [Python interview questions and answers- Here are some sample interview questions on Python, with detailed answers, explained well.](https://www.reddit.com/r/Python/comments/jzfhsc/python_interview_questions_and_answers_here_are/)
-- [New testing module for python-bq-test-kit.](https://www.reddit.com/r/Python/comments/jzffwq/new_testing_module_for_pythonbqtestkit/)
-- [Basic BeautifulSoup example for Slashdot.org](https://www.reddit.com/r/Python/comments/jzet0y/basic_beautifulsoup_example_for_slashdotorg/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
