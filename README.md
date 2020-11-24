@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Libraries for Data Science](https://www.reddit.com/r/Python/comments/k04h09/best_python_libraries_for_data_science/)
+- [New major version release of ActivityWatch, the (probably best) open-source automated time tracker](https://www.reddit.com/r/Python/comments/k0405d/new_major_version_release_of_activitywatch_the/)
 - [cookietemple - a Python package providing programming project templates for several languages (Python, Java, C++, [...]) with extensive Github support, bump-version, a custom linter and much more](https://www.reddit.com/r/Python/comments/k03tid/cookietemple_a_python_package_providing/)
 - [Decode image in javascript encoded from python base64 encoder](https://www.reddit.com/r/Python/comments/k02z9g/decode_image_in_javascript_encoded_from_python/)
 - [Python Webscraping (convert index page Images to html webpage)](https://www.reddit.com/r/Python/comments/k01v7y/python_webscraping_convert_index_page_images_to/)
-- [sumerc/yappi Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.](https://www.reddit.com/r/Python/comments/k01e81/sumercyappi_yet_another_python_profiler_but_this/)
-- [Visualized 8 sorting algo's (Code Below)](https://www.reddit.com/r/Python/comments/k00hf9/visualized_8_sorting_algos_code_below/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
