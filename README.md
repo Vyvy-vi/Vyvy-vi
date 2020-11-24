@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [what i should BETTER learn for back-end is it Python Or C# ?](https://www.reddit.com/r/Python/comments/k06897/what_i_should_better_learn_for_backend_is_it/)
+- [Pyinfer - A tool to benchmark and report inference statistics for any ML Model(s)](https://www.reddit.com/r/Python/comments/k05y7p/pyinfer_a_tool_to_benchmark_and_report_inference/)
+- [Selenium 4 With Python: All You Need To Know](https://www.reddit.com/r/Python/comments/k05qxo/selenium_4_with_python_all_you_need_to_know/)
 - [Learn And Master Python In A Month!](https://www.reddit.com/r/Python/comments/k05oz5/learn_and_master_python_in_a_month/)
 - [Python](https://www.reddit.com/r/Python/comments/k05lrs/python/)
-- [Python Type Checking](https://www.reddit.com/r/Python/comments/k04zha/python_type_checking/)
-- [Getting Started With Google Sheets API in Python.](https://www.reddit.com/r/Python/comments/k04wxv/getting_started_with_google_sheets_api_in_python/)
-- [Best Python Libraries for Data Science](https://www.reddit.com/r/Python/comments/k04h09/best_python_libraries_for_data_science/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
