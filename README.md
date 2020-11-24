@@ -108,7 +108,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Traceroute Program, Finally Statement broken.](https://www.reddit.com/r/Python/comments/k0a7yr/traceroute_program_finally_statement_broken/)
+- [pee: the Linux free command but for MacOS and built in Python](https://www.reddit.com/r/Python/comments/k0cpvi/pee_the_linux_free_command_but_for_macos_and/)
 - [New Hacking Tool is released](https://www.reddit.com/r/Python/comments/k09b58/new_hacking_tool_is_released/)
 - [Selenium vs Splinter](https://www.reddit.com/r/Python/comments/k08yft/selenium_vs_splinter/)
 - [Code Cavern Micro Bootcamp](https://www.reddit.com/r/Python/comments/k08f0r/code_cavern_micro_bootcamp/)
