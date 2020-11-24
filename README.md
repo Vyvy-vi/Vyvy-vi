@@ -108,8 +108,8 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Blackjack v Python](https://www.reddit.com/r/Python/comments/jzylzn/blackjack_v_python/)
 - [Xbox 360 Python control](https://www.reddit.com/r/Python/comments/jzxuee/xbox_360_python_control/)
-- [Wanted - live online python training](https://www.reddit.com/r/Python/comments/jzx3xf/wanted_live_online_python_training/)
 - [PyDelinter](https://www.reddit.com/r/Python/comments/jzve7k/pydelinter/)
 - [How to upload files to a Google Drive account with Google Drive API in Python](https://www.reddit.com/r/Python/comments/jzv7rk/how_to_upload_files_to_a_google_drive_account/)
 - [Create single-page applications without JavaScript](https://www.reddit.com/r/Python/comments/jzukg7/create_singlepage_applications_without_javascript/)
