@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Create single-page applications without JavaScript](https://www.reddit.com/r/Python/comments/jzukg7/create_singlepage_applications_without_javascript/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jztsd1/tuesday_megathread_advanced_questions/)
 - [Avoid Touchy Topics with Transfer Learning and Twilio SMS in Python](https://www.reddit.com/r/Python/comments/jztqvc/avoid_touchy_topics_with_transfer_learning_and/)
 - [I created a GUI Tool that Autofills a template pdf using data from a table using pandas, pypdf2, and eel](https://www.reddit.com/r/Python/comments/jztna9/i_created_a_gui_tool_that_autofills_a_template/)
 - [Rounding in Python. Working with fractions](https://www.reddit.com/r/Python/comments/jztisq/rounding_in_python_working_with_fractions/)
-- [Board Game AI](https://www.reddit.com/r/Python/comments/jzst1h/board_game_ai/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
