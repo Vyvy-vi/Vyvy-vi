@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Decode image in javascript encoded from python base64 encoder](https://www.reddit.com/r/Python/comments/k02z9g/decode_image_in_javascript_encoded_from_python/)
 - [Python Webscraping (convert index page Images to html webpage)](https://www.reddit.com/r/Python/comments/k01v7y/python_webscraping_convert_index_page_images_to/)
 - [creating array inside an array](https://www.reddit.com/r/Python/comments/k01pyc/creating_array_inside_an_array/)
 - [sumerc/yappi Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.](https://www.reddit.com/r/Python/comments/k01e81/sumercyappi_yet_another_python_profiler_but_this/)
 - [Visualized 8 sorting algo's (Code Below)](https://www.reddit.com/r/Python/comments/k00hf9/visualized_8_sorting_algos_code_below/)
-- [Hi, I made an HTML/JS python library - QuykHtml](https://www.reddit.com/r/Python/comments/k00ao3/hi_i_made_an_htmljs_python_library_quykhtml/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
