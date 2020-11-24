@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Hi, I made an HTML/JS python library - QuykHtml](https://www.reddit.com/r/Python/comments/k00ao3/hi_i_made_an_htmljs_python_library_quykhtml/)
+- [Web page for my own game](https://www.reddit.com/r/Python/comments/k006hy/web_page_for_my_own_game/)
+- [A complete web app to convert YouTube videos to MP3 files (with source for learning purpose)](https://www.reddit.com/r/Python/comments/k003t6/a_complete_web_app_to_convert_youtube_videos_to/)
 - [Google Images Download with simple-images-download](https://www.reddit.com/r/Python/comments/jzytvr/google_images_download_with_simpleimagesdownload/)
 - [Blackjack v Python](https://www.reddit.com/r/Python/comments/jzylzn/blackjack_v_python/)
-- [Xbox 360 Python control](https://www.reddit.com/r/Python/comments/jzxuee/xbox_360_python_control/)
-- [PyDelinter](https://www.reddit.com/r/Python/comments/jzve7k/pydelinter/)
-- [How to upload files to a Google Drive account with Google Drive API in Python](https://www.reddit.com/r/Python/comments/jzv7rk/how_to_upload_files_to_a_google_drive_account/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
