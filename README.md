@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jztsd1/tuesday_megathread_advanced_questions/)
+- [Avoid Touchy Topics with Transfer Learning and Twilio SMS in Python](https://www.reddit.com/r/Python/comments/jztqvc/avoid_touchy_topics_with_transfer_learning_and/)
+- [I created a GUI Tool that Autofills a template pdf using data from a table using pandas, pypdf2, and eel](https://www.reddit.com/r/Python/comments/jztna9/i_created_a_gui_tool_that_autofills_a_template/)
+- [Rounding in Python. Working with fractions](https://www.reddit.com/r/Python/comments/jztisq/rounding_in_python_working_with_fractions/)
 - [Board Game AI](https://www.reddit.com/r/Python/comments/jzst1h/board_game_ai/)
-- [Just posted a new podcast episode. Python Basics: Classes, Methods, Inheritance, & References | Episode 6.](https://www.reddit.com/r/Python/comments/jzs4jw/just_posted_a_new_podcast_episode_python_basics/)
-- [can someone please explain. I am new to Python](https://www.reddit.com/r/Python/comments/jzrd0o/can_someone_please_explain_i_am_new_to_python/)
-- [What is the best course for learning everything, especially intermediate stuff](https://www.reddit.com/r/Python/comments/jzr8o1/what_is_the_best_course_for_learning_everything/)
-- [How to create a small and secure container for your Python applications](https://www.reddit.com/r/Python/comments/jzqu2g/how_to_create_a_small_and_secure_container_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
