@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [creating array inside an array](https://www.reddit.com/r/Python/comments/k01pyc/creating_array_inside_an_array/)
+- [sumerc/yappi Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.](https://www.reddit.com/r/Python/comments/k01e81/sumercyappi_yet_another_python_profiler_but_this/)
 - [Visualized 8 sorting algo's (Code Below)](https://www.reddit.com/r/Python/comments/k00hf9/visualized_8_sorting_algos_code_below/)
 - [Hi, I made an HTML/JS python library - QuykHtml](https://www.reddit.com/r/Python/comments/k00ao3/hi_i_made_an_htmljs_python_library_quykhtml/)
 - [Web page for my own game](https://www.reddit.com/r/Python/comments/k006hy/web_page_for_my_own_game/)
-- [A complete web app to convert YouTube videos to MP3 files (with source for learning purpose)](https://www.reddit.com/r/Python/comments/k003t6/a_complete_web_app_to_convert_youtube_videos_to/)
-- [Google Images Download with simple-images-download](https://www.reddit.com/r/Python/comments/jzytvr/google_images_download_with_simpleimagesdownload/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
