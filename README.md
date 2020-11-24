@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Are you interested in a coding discord? Yeah I know you are, join below.](https://www.reddit.com/r/Python/comments/k0ezt8/are_you_interested_in_a_coding_discord_yeah_i/)
+- [Web App to compute the radial distance between two points on a map](https://www.reddit.com/r/Python/comments/k0g03n/web_app_to_compute_the_radial_distance_between/)
+- [Python for Beginners — Booleans - With Deepfake of George Boole](https://www.reddit.com/r/Python/comments/k0g02d/python_for_beginners_booleans_with_deepfake_of/)
 - [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k0dzw9/an_instagram_bot_built_with_youtubes_data_api_and/)
 - [Optimized service performance using Python Quart ASGI framework](https://www.reddit.com/r/Python/comments/k0dyff/optimized_service_performance_using_python_quart/)
 - [Just chill](https://www.reddit.com/r/Python/comments/k0d99y/just_chill/)
-- [Another small GUI challenge](https://www.reddit.com/r/Python/comments/k0d6n2/another_small_gui_challenge/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
