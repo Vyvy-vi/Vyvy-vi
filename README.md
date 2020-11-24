@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Selenium vs Splinter](https://www.reddit.com/r/Python/comments/k08yft/selenium_vs_splinter/)
+- [Code Cavern Micro Bootcamp](https://www.reddit.com/r/Python/comments/k08f0r/code_cavern_micro_bootcamp/)
+- [Python and fast HTTP clients](https://www.reddit.com/r/Python/comments/k085z1/python_and_fast_http_clients/)
 - [I made a virtual stock exchange website](https://www.reddit.com/r/Python/comments/k08077/i_made_a_virtual_stock_exchange_website/)
 - [I Created a YouTube Subscriber Tracker for Instagram Descriptions](https://www.reddit.com/r/Python/comments/k077q9/i_created_a_youtube_subscriber_tracker_for/)
-- [what i should BETTER learn for back-end is it Python Or C# ?](https://www.reddit.com/r/Python/comments/k06897/what_i_should_better_learn_for_backend_is_it/)
-- [Pyinfer - A tool to benchmark and report inference statistics for any ML Model(s)](https://www.reddit.com/r/Python/comments/k05y7p/pyinfer_a_tool_to_benchmark_and_report_inference/)
-- [Selenium 4 With Python: All You Need To Know](https://www.reddit.com/r/Python/comments/k05qxo/selenium_4_with_python_all_you_need_to_know/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
