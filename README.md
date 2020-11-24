@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Traceroute Program, Finally Statement broken.](https://www.reddit.com/r/Python/comments/k0a7yr/traceroute_program_finally_statement_broken/)
+- [New Hacking Tool is released](https://www.reddit.com/r/Python/comments/k09b58/new_hacking_tool_is_released/)
 - [Selenium vs Splinter](https://www.reddit.com/r/Python/comments/k08yft/selenium_vs_splinter/)
 - [Code Cavern Micro Bootcamp](https://www.reddit.com/r/Python/comments/k08f0r/code_cavern_micro_bootcamp/)
 - [Python and fast HTTP clients](https://www.reddit.com/r/Python/comments/k085z1/python_and_fast_http_clients/)
-- [I made a virtual stock exchange website](https://www.reddit.com/r/Python/comments/k08077/i_made_a_virtual_stock_exchange_website/)
-- [I Created a YouTube Subscriber Tracker for Instagram Descriptions](https://www.reddit.com/r/Python/comments/k077q9/i_created_a_youtube_subscriber_tracker_for/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
