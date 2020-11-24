@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn And Master Python In A Month!](https://www.reddit.com/r/Python/comments/k05oz5/learn_and_master_python_in_a_month/)
+- [Python](https://www.reddit.com/r/Python/comments/k05lrs/python/)
+- [Python Type Checking](https://www.reddit.com/r/Python/comments/k04zha/python_type_checking/)
+- [Getting Started With Google Sheets API in Python.](https://www.reddit.com/r/Python/comments/k04wxv/getting_started_with_google_sheets_api_in_python/)
 - [Best Python Libraries for Data Science](https://www.reddit.com/r/Python/comments/k04h09/best_python_libraries_for_data_science/)
-- [New major version release of ActivityWatch, the (probably best) open-source automated time tracker](https://www.reddit.com/r/Python/comments/k0405d/new_major_version_release_of_activitywatch_the/)
-- [cookietemple - a Python package providing programming project templates for several languages (Python, Java, C++, [...]) with extensive Github support, bump-version, a custom linter and much more](https://www.reddit.com/r/Python/comments/k03tid/cookietemple_a_python_package_providing/)
-- [Decode image in javascript encoded from python base64 encoder](https://www.reddit.com/r/Python/comments/k02z9g/decode_image_in_javascript_encoded_from_python/)
-- [Python Webscraping (convert index page Images to html webpage)](https://www.reddit.com/r/Python/comments/k01v7y/python_webscraping_convert_index_page_images_to/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
