@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Just chill](https://www.reddit.com/r/Python/comments/k0d99y/just_chill/)
+- [Another small GUI challenge](https://www.reddit.com/r/Python/comments/k0d6n2/another_small_gui_challenge/)
+- [What "non written" conventions do you know?](https://www.reddit.com/r/Python/comments/k0cu49/what_non_written_conventions_do_you_know/)
 - [pee: the Linux free command but for MacOS and built in Python](https://www.reddit.com/r/Python/comments/k0cpvi/pee_the_linux_free_command_but_for_macos_and/)
 - [New Hacking Tool is released](https://www.reddit.com/r/Python/comments/k09b58/new_hacking_tool_is_released/)
-- [Selenium vs Splinter](https://www.reddit.com/r/Python/comments/k08yft/selenium_vs_splinter/)
-- [Code Cavern Micro Bootcamp](https://www.reddit.com/r/Python/comments/k08f0r/code_cavern_micro_bootcamp/)
-- [Python and fast HTTP clients](https://www.reddit.com/r/Python/comments/k085z1/python_and_fast_http_clients/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
