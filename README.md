@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Are you interested in a coding discord? Yeah I know you are, join below.](https://www.reddit.com/r/Python/comments/k0ezt8/are_you_interested_in_a_coding_discord_yeah_i/)
+- [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k0dzw9/an_instagram_bot_built_with_youtubes_data_api_and/)
+- [Optimized service performance using Python Quart ASGI framework](https://www.reddit.com/r/Python/comments/k0dyff/optimized_service_performance_using_python_quart/)
 - [Just chill](https://www.reddit.com/r/Python/comments/k0d99y/just_chill/)
 - [Another small GUI challenge](https://www.reddit.com/r/Python/comments/k0d6n2/another_small_gui_challenge/)
-- [What "non written" conventions do you know?](https://www.reddit.com/r/Python/comments/k0cu49/what_non_written_conventions_do_you_know/)
-- [pee: the Linux free command but for MacOS and built in Python](https://www.reddit.com/r/Python/comments/k0cpvi/pee_the_linux_free_command_but_for_macos_and/)
-- [New Hacking Tool is released](https://www.reddit.com/r/Python/comments/k09b58/new_hacking_tool_is_released/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
