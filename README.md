@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [PyDelinter](https://www.reddit.com/r/Python/comments/jzve7k/pydelinter/)
+- [How to upload files to a Google Drive account with Google Drive API in Python](https://www.reddit.com/r/Python/comments/jzv7rk/how_to_upload_files_to_a_google_drive_account/)
 - [Create single-page applications without JavaScript](https://www.reddit.com/r/Python/comments/jzukg7/create_singlepage_applications_without_javascript/)
 - [Tuesday megathread: Advanced questions](https://www.reddit.com/r/Python/comments/jztsd1/tuesday_megathread_advanced_questions/)
 - [Avoid Touchy Topics with Transfer Learning and Twilio SMS in Python](https://www.reddit.com/r/Python/comments/jztqvc/avoid_touchy_topics_with_transfer_learning_and/)
-- [I created a GUI Tool that Autofills a template pdf using data from a table using pandas, pypdf2, and eel](https://www.reddit.com/r/Python/comments/jztna9/i_created_a_gui_tool_that_autofills_a_template/)
-- [Rounding in Python. Working with fractions](https://www.reddit.com/r/Python/comments/jztisq/rounding_in_python_working_with_fractions/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
