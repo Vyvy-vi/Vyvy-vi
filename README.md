@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [12 Function Related Exercise Every Python Developer Should Learn!](https://www.reddit.com/r/Python/comments/k0qmbb/12_function_related_exercise_every_python/)
+- [Hey guys! can you help?](https://www.reddit.com/r/Python/comments/k0qcry/hey_guys_can_you_help/)
 - [Comparison of new Python web frameworks](https://www.reddit.com/r/Python/comments/k0q3i1/comparison_of_new_python_web_frameworks/)
 - [Data Structures and Algorithms in Python](https://www.reddit.com/r/Python/comments/k0o8x5/data_structures_and_algorithms_in_python/)
 - [Hi, this video explains how to alternate row colors in tkinter Treeview table.](https://www.reddit.com/r/Python/comments/k0noxj/hi_this_video_explains_how_to_alternate_row/)
-- [Project list](https://www.reddit.com/r/Python/comments/k0n0pd/project_list/)
-- [Battleships in Python](https://www.reddit.com/r/Python/comments/k0m6m9/battleships_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
