@@ -108,9 +108,9 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Project list](https://www.reddit.com/r/Python/comments/k0n0pd/project_list/)
 - [Battleships in Python](https://www.reddit.com/r/Python/comments/k0m6m9/battleships_in_python/)
 - [Send SMS with Python and Vonage](https://www.reddit.com/r/Python/comments/k0lybo/send_sms_with_python_and_vonage/)
-- [Conference 2020](https://www.reddit.com/r/Python/comments/k0lxo2/conference_2020/)
 - [Logic puzzles as programming challenges](https://www.reddit.com/r/Python/comments/k0kd1a/logic_puzzles_as_programming_challenges/)
 - [What are your thoughts on Angela Yu's Python Bootcamp?](https://www.reddit.com/r/Python/comments/k0k7tn/what_are_your_thoughts_on_angela_yus_python/)
 <!-- BLOG-POST-LIST:END -->
