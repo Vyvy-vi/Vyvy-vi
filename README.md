@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Wiki Bot: A Wikipedia scrapping Bot](https://www.reddit.com/r/Python/comments/k0w1nl/wiki_bot_a_wikipedia_scrapping_bot/)
+- [Saving the last session in a text file and Continue (Reading and writing file)](https://www.reddit.com/r/Python/comments/k0vxk9/saving_the_last_session_in_a_text_file_and/)
+- [Functions in Python with Examples](https://www.reddit.com/r/Python/comments/k0v7cz/functions_in_python_with_examples/)
 - [Uses For Python](https://www.reddit.com/r/Python/comments/k0uafc/uses_for_python/)
 - [Uses For Python](https://www.reddit.com/r/Python/comments/k0u7we/uses_for_python/)
-- [Flask tutorial and project for beginners](https://www.reddit.com/r/Python/comments/k0u4lv/flask_tutorial_and_project_for_beginners/)
-- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u2fm/uses_for_python/)
-- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u05p/uses_for_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
