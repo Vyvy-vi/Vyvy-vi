@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Flask or Django - Discussion on why?](https://www.reddit.com/r/Python/comments/k0xvay/flask_or_django_discussion_on_why/)
+- [Project : Wikipedia Bot](https://www.reddit.com/r/Python/comments/k0xgl5/project_wikipedia_bot/)
 - [Flask web app to predict and classify handwritten digits](https://www.reddit.com/r/Python/comments/k0xfjh/flask_web_app_to_predict_and_classify_handwritten/)
 - [Join our coding discord that has a dedicated python channel with helpful members!! Keep in mind we are looking for some mods!! So if that interests you feel free to join!](https://www.reddit.com/r/Python/comments/k0xdjm/join_our_coding_discord_that_has_a_dedicated/)
 - [tempera - Convertible temperature objects - My first package](https://www.reddit.com/r/Python/comments/k0x1av/tempera_convertible_temperature_objects_my_first/)
-- [Flask vs django?](https://www.reddit.com/r/Python/comments/k0wqyv/flask_vs_django/)
-- [PythonStacks added BitCoinLib and CCXT- python libraries for handling crypto currencies.](https://www.reddit.com/r/Python/comments/k0wj0h/pythonstacks_added_bitcoinlib_and_ccxt_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
