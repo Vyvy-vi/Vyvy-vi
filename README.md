@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Using Python To Visualize Internet Affordability Worldwide](https://www.reddit.com/r/Python/comments/k12wvx/using_python_to_visualize_internet_affordability/)
+- [MySeea | A MySQL Database Viewer Project (Needing Community Support)](https://www.reddit.com/r/Python/comments/k12o9s/myseea_a_mysql_database_viewer_project_needing/)
 - [Few Things To Avoid In Python!](https://www.reddit.com/r/Python/comments/k113ae/few_things_to_avoid_in_python/)
 - [Karen on Python mocks: threading.Timer](https://www.reddit.com/r/Python/comments/k10ajk/karen_on_python_mocks_threadingtimer/)
 - [Pythonic Collaborative Web App: https://github.com/druzgeorge/python-teams](https://www.reddit.com/r/Python/comments/k0zo07/pythonic_collaborative_web_app/)
-- [Pythonic Git Implementation](https://www.reddit.com/r/Python/comments/k0zd0g/pythonic_git_implementation/)
-- [Confused](https://www.reddit.com/r/Python/comments/k0ysfa/confused/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
