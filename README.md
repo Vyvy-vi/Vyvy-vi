@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [PyQt Layouts: Create Professional-Looking GUI Applications – Real Python](https://www.reddit.com/r/Python/comments/k0thko/pyqt_layouts_create_professionallooking_gui/)
 - [Tried learning how to make a game over the weekend and here is the result! GROW is based on a project I did in my undergraduate modelling fractal structure and crystal growth using diffusion limited aggregation (DLA)](https://www.reddit.com/r/Python/comments/k0sulp/tried_learning_how_to_make_a_game_over_the/)
 - [My latest app - Locator](https://www.reddit.com/r/Python/comments/k0srtp/my_latest_app_locator/)
 - [SaaS Development Company - Build Great SaaS Product](https://www.reddit.com/r/Python/comments/k0rzcj/saas_development_company_build_great_saas_product/)
 - [Discord.py tut](https://www.reddit.com/r/Python/comments/k0rho8/discordpy_tut/)
-- [12 Function Related Exercise Every Python Developer Should Learn!](https://www.reddit.com/r/Python/comments/k0qmbb/12_function_related_exercise_every_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
