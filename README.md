@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [PyQt Layouts: Create Professional-Looking GUI Applications – Real Python](https://www.reddit.com/r/Python/comments/k0thko/pyqt_layouts_create_professionallooking_gui/)
-- [Tried learning how to make a game over the weekend and here is the result! GROW is based on a project I did in my undergraduate modelling fractal structure and crystal growth using diffusion limited aggregation (DLA)](https://www.reddit.com/r/Python/comments/k0sulp/tried_learning_how_to_make_a_game_over_the/)
-- [My latest app - Locator](https://www.reddit.com/r/Python/comments/k0srtp/my_latest_app_locator/)
-- [SaaS Development Company - Build Great SaaS Product](https://www.reddit.com/r/Python/comments/k0rzcj/saas_development_company_build_great_saas_product/)
-- [Discord.py tut](https://www.reddit.com/r/Python/comments/k0rho8/discordpy_tut/)
+- [Uses For Python](https://www.reddit.com/r/Python/comments/k0uafc/uses_for_python/)
+- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u7we/uses_for_python/)
+- [Flask tutorial and project for beginners](https://www.reddit.com/r/Python/comments/k0u4lv/flask_tutorial_and_project_for_beginners/)
+- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u2fm/uses_for_python/)
+- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u05p/uses_for_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
