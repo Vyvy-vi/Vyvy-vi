@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Wiki Bot: A Wikipedia scrapping Bot](https://www.reddit.com/r/Python/comments/k0w1nl/wiki_bot_a_wikipedia_scrapping_bot/)
-- [Saving the last session in a text file and Continue (Reading and writing file)](https://www.reddit.com/r/Python/comments/k0vxk9/saving_the_last_session_in_a_text_file_and/)
-- [Functions in Python with Examples](https://www.reddit.com/r/Python/comments/k0v7cz/functions_in_python_with_examples/)
-- [Uses For Python](https://www.reddit.com/r/Python/comments/k0uafc/uses_for_python/)
-- [Uses For Python](https://www.reddit.com/r/Python/comments/k0u7we/uses_for_python/)
+- [Flask web app to predict and classify handwritten digits](https://www.reddit.com/r/Python/comments/k0xfjh/flask_web_app_to_predict_and_classify_handwritten/)
+- [Join our coding discord that has a dedicated python channel with helpful members!! Keep in mind we are looking for some mods!! So if that interests you feel free to join!](https://www.reddit.com/r/Python/comments/k0xdjm/join_our_coding_discord_that_has_a_dedicated/)
+- [tempera - Convertible temperature objects - My first package](https://www.reddit.com/r/Python/comments/k0x1av/tempera_convertible_temperature_objects_my_first/)
+- [Flask vs django?](https://www.reddit.com/r/Python/comments/k0wqyv/flask_vs_django/)
+- [PythonStacks added BitCoinLib and CCXT- python libraries for handling crypto currencies.](https://www.reddit.com/r/Python/comments/k0wj0h/pythonstacks_added_bitcoinlib_and_ccxt_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
