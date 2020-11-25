@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Logic puzzles as programming challenges](https://www.reddit.com/r/Python/comments/k0kd1a/logic_puzzles_as_programming_challenges/)
+- [What are your thoughts on Angela Yu's Python Bootcamp?](https://www.reddit.com/r/Python/comments/k0k7tn/what_are_your_thoughts_on_angela_yus_python/)
 - [Wednesday megathread: Beginner questions](https://www.reddit.com/r/Python/comments/k0gwyc/wednesday_megathread_beginner_questions/)
 - [Boolean and if-then statements in for loops](https://www.reddit.com/r/Python/comments/k0ggy8/boolean_and_ifthen_statements_in_for_loops/)
 - [Web App to compute the radial distance between two points on a map](https://www.reddit.com/r/Python/comments/k0g03n/web_app_to_compute_the_radial_distance_between/)
-- [Python for Beginners — Booleans - With Deepfake of George Boole](https://www.reddit.com/r/Python/comments/k0g02d/python_for_beginners_booleans_with_deepfake_of/)
-- [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k0dzw9/an_instagram_bot_built_with_youtubes_data_api_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
