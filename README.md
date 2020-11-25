@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures and Algorithms in Python](https://www.reddit.com/r/Python/comments/k0o8x5/data_structures_and_algorithms_in_python/)
 - [Hi, this video explains how to alternate row colors in tkinter Treeview table.](https://www.reddit.com/r/Python/comments/k0noxj/hi_this_video_explains_how_to_alternate_row/)
 - [Project list](https://www.reddit.com/r/Python/comments/k0n0pd/project_list/)
 - [Battleships in Python](https://www.reddit.com/r/Python/comments/k0m6m9/battleships_in_python/)
 - [Send SMS with Python and Vonage](https://www.reddit.com/r/Python/comments/k0lybo/send_sms_with_python_and_vonage/)
-- [Logic puzzles as programming challenges](https://www.reddit.com/r/Python/comments/k0kd1a/logic_puzzles_as_programming_challenges/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
