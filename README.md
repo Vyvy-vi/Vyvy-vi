@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simple Python project to help in attempt to adopt a dog!](https://www.reddit.com/r/Python/comments/k1nt99/simple_python_project_to_help_in_attempt_to_adopt/)
+- [WPA2Gen Wifi Password Generator](https://www.reddit.com/r/Python/comments/k1nr1q/wpa2gen_wifi_password_generator/)
 - [ModernGl and pyopengltk demo video](https://www.reddit.com/r/Python/comments/k1mvkw/moderngl_and_pyopengltk_demo_video/)
 - [Halfords Stock Checker Email Notification](https://www.reddit.com/r/Python/comments/k1mv67/halfords_stock_checker_email_notification/)
 - [Proof of Benford's Law](https://www.reddit.com/r/Python/comments/k1m9er/proof_of_benfords_law/)
-- [I made a (basic) GUI weather app!](https://www.reddit.com/r/Python/comments/k1m418/i_made_a_basic_gui_weather_app/)
-- [Made a Wikipedia scraper and some basic interactive visualizations using soccer data](https://www.reddit.com/r/Python/comments/k1m0mg/made_a_wikipedia_scraper_and_some_basic/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
