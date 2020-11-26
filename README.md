@@ -108,10 +108,10 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My first Python application (Yahtzee)](https://www.reddit.com/r/Python/comments/k1jcem/my_first_python_application_yahtzee/)
 - [Simple File-Sorting Program](https://www.reddit.com/r/Python/comments/k1iifo/simple_filesorting_program/)
 - [The Hidden Features Of Python!](https://www.reddit.com/r/Python/comments/k1i6jr/the_hidden_features_of_python/)
 - [I scraped Best Buy for the best Black Friday TV Deals!](https://www.reddit.com/r/Python/comments/k1i0qx/i_scraped_best_buy_for_the_best_black_friday_tv/)
-- [Finally I can sleep](https://www.reddit.com/r/Python/comments/k1hzl6/finally_i_can_sleep/)
 - [Do Python developers recreate model classes in each module?](https://www.reddit.com/r/Python/comments/k1hp8r/do_python_developers_recreate_model_classes_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
