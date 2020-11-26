@@ -108,9 +108,9 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [BSDF Lorenz attractor in Blender Using Python](https://www.reddit.com/r/Python/comments/k1aifi/bsdf_lorenz_attractor_in_blender_using_python/)
 - [Project I did (pretty quick on my part anyway)](https://www.reddit.com/r/Python/comments/k15hht/project_i_did_pretty_quick_on_my_part_anyway/)
 - [Python community > Java community](https://www.reddit.com/r/Python/comments/k15apv/python_community_java_community/)
-- [Why is all the machine learning neural network stuff written in Python](https://www.reddit.com/r/Python/comments/k154vb/why_is_all_the_machine_learning_neural_network/)
 - [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/k146r8/thursday_megathread_python_careers/)
 - [Zoom meeting to show building a web server in python from scratch](https://www.reddit.com/r/Python/comments/k1453x/zoom_meeting_to_show_building_a_web_server_in/)
 <!-- BLOG-POST-LIST:END -->
