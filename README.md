@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Project I did (pretty quick on my part anyway)](https://www.reddit.com/r/Python/comments/k15hht/project_i_did_pretty_quick_on_my_part_anyway/)
+- [Python community > Java community](https://www.reddit.com/r/Python/comments/k15apv/python_community_java_community/)
+- [Why is all the machine learning neural network stuff written in Python](https://www.reddit.com/r/Python/comments/k154vb/why_is_all_the_machine_learning_neural_network/)
 - [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/k146r8/thursday_megathread_python_careers/)
 - [Zoom meeting to show building a web server in python from scratch](https://www.reddit.com/r/Python/comments/k1453x/zoom_meeting_to_show_building_a_web_server_in/)
-- [Beginner tips](https://www.reddit.com/r/Python/comments/k142fu/beginner_tips/)
-- [Using Python To Visualize Internet Affordability Worldwide](https://www.reddit.com/r/Python/comments/k12wvx/using_python_to_visualize_internet_affordability/)
-- [MySeea | A MySQL Database Viewer Project (Needing Community Support)](https://www.reddit.com/r/Python/comments/k12o9s/myseea_a_mysql_database_viewer_project_needing/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
