@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Transferring your variables to LaTeX](https://www.reddit.com/r/Python/comments/k1b5a0/transferring_your_variables_to_latex/)
+- [Macbook m1 and Python libraries](https://www.reddit.com/r/Python/comments/k1aqbh/macbook_m1_and_python_libraries/)
 - [BSDF Lorenz attractor in Blender Using Python](https://www.reddit.com/r/Python/comments/k1aifi/bsdf_lorenz_attractor_in_blender_using_python/)
 - [Project I did (pretty quick on my part anyway)](https://www.reddit.com/r/Python/comments/k15hht/project_i_did_pretty_quick_on_my_part_anyway/)
 - [Python community > Java community](https://www.reddit.com/r/Python/comments/k15apv/python_community_java_community/)
-- [Thursday megathread: Python careers!](https://www.reddit.com/r/Python/comments/k146r8/thursday_megathread_python_careers/)
-- [Zoom meeting to show building a web server in python from scratch](https://www.reddit.com/r/Python/comments/k1453x/zoom_meeting_to_show_building_a_web_server_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
