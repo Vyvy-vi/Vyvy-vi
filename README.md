@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [WikiBot: A Wikipedia Bot made on Python](https://www.reddit.com/r/Python/comments/k1fosj/wikibot_a_wikipedia_bot_made_on_python/)
+- [I made a Mastermind like game](https://www.reddit.com/r/Python/comments/k1fmq5/i_made_a_mastermind_like_game/)
+- [Branch and Bound - Anyone is familiar with this algo?](https://www.reddit.com/r/Python/comments/k1fm9n/branch_and_bound_anyone_is_familiar_with_this_algo/)
+- [Simple Python Games Compilation](https://www.reddit.com/r/Python/comments/k1fcae/simple_python_games_compilation/)
 - [simple pprint with nicer consistent indentation](https://www.reddit.com/r/Python/comments/k1ejbw/simple_pprint_with_nicer_consistent_indentation/)
-- [Scraping Movie Details with BeautifulSoup](https://www.reddit.com/r/Python/comments/k1efmy/scraping_movie_details_with_beautifulsoup/)
-- [A Unique Approach to Data Visualization through the use of Algorithms, with examples in Python](https://www.reddit.com/r/Python/comments/k1dg1k/a_unique_approach_to_data_visualization_through/)
-- [Why Python Web Development is better than PHP Web Development? - Aalpha](https://www.reddit.com/r/Python/comments/k1dbk7/why_python_web_development_is_better_than_php_web/)
-- [Python Slicing Reference, a perfect implementation of how the builtin list deals with slices](https://www.reddit.com/r/Python/comments/k1d6iz/python_slicing_reference_a_perfect_implementation/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
