@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [i have to create base64 from this code below, i dont know how, i need help, im new in python](https://www.reddit.com/r/Python/comments/k1gn2v/i_have_to_create_base64_from_this_code_below_i/)
-- [Bitcoin Cryptocurrency API tutorial for beginners](https://www.reddit.com/r/Python/comments/k1gh0f/bitcoin_cryptocurrency_api_tutorial_for_beginners/)
-- [WikiBot: A Wikipedia Bot made on Python](https://www.reddit.com/r/Python/comments/k1fosj/wikibot_a_wikipedia_bot_made_on_python/)
-- [I made a Mastermind like game](https://www.reddit.com/r/Python/comments/k1fmq5/i_made_a_mastermind_like_game/)
-- [Branch and Bound - Anyone is familiar with this algo?](https://www.reddit.com/r/Python/comments/k1fm9n/branch_and_bound_anyone_is_familiar_with_this_algo/)
+- [I scraped Best Buy for the best Black Friday TV Deals!](https://www.reddit.com/r/Python/comments/k1i0qx/i_scraped_best_buy_for_the_best_black_friday_tv/)
+- [Finally I can sleep](https://www.reddit.com/r/Python/comments/k1hzl6/finally_i_can_sleep/)
+- [Do Python developers recreate model classes in each module?](https://www.reddit.com/r/Python/comments/k1hp8r/do_python_developers_recreate_model_classes_in/)
+- [lvgl cross platform graphics library using micropython. Demo works online. Not affiliated with lvgl in any way](https://www.reddit.com/r/Python/comments/k1hfob/lvgl_cross_platform_graphics_library_using/)
+- [I wrote a Python package that lets you generate images from HTML/CSS strings or files and URLs](https://www.reddit.com/r/Python/comments/k1gw4z/i_wrote_a_python_package_that_lets_you_generate/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
