@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Dask users might find this webinar useful. Hosted by the creator, Matt Rocklin. Travis Oliphant will be joining too (creator of NumPy & SciPy).](https://www.reddit.com/r/Python/comments/k1l24i/dask_users_might_find_this_webinar_useful_hosted/)
 - [My first Python application (Yahtzee)](https://www.reddit.com/r/Python/comments/k1jcem/my_first_python_application_yahtzee/)
 - [Simple File-Sorting Program](https://www.reddit.com/r/Python/comments/k1iifo/simple_filesorting_program/)
 - [The Hidden Features Of Python!](https://www.reddit.com/r/Python/comments/k1i6jr/the_hidden_features_of_python/)
 - [I scraped Best Buy for the best Black Friday TV Deals!](https://www.reddit.com/r/Python/comments/k1i0qx/i_scraped_best_buy_for_the_best_black_friday_tv/)
-- [Do Python developers recreate model classes in each module?](https://www.reddit.com/r/Python/comments/k1hp8r/do_python_developers_recreate_model_classes_in/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
