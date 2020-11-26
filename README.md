@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [i have to create base64 from this code below, i dont know how, i need help, im new in python](https://www.reddit.com/r/Python/comments/k1gn2v/i_have_to_create_base64_from_this_code_below_i/)
+- [Bitcoin Cryptocurrency API tutorial for beginners](https://www.reddit.com/r/Python/comments/k1gh0f/bitcoin_cryptocurrency_api_tutorial_for_beginners/)
 - [WikiBot: A Wikipedia Bot made on Python](https://www.reddit.com/r/Python/comments/k1fosj/wikibot_a_wikipedia_bot_made_on_python/)
 - [I made a Mastermind like game](https://www.reddit.com/r/Python/comments/k1fmq5/i_made_a_mastermind_like_game/)
 - [Branch and Bound - Anyone is familiar with this algo?](https://www.reddit.com/r/Python/comments/k1fm9n/branch_and_bound_anyone_is_familiar_with_this_algo/)
-- [Simple Python Games Compilation](https://www.reddit.com/r/Python/comments/k1fcae/simple_python_games_compilation/)
-- [simple pprint with nicer consistent indentation](https://www.reddit.com/r/Python/comments/k1ejbw/simple_pprint_with_nicer_consistent_indentation/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
