@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Simple File-Sorting Program](https://www.reddit.com/r/Python/comments/k1iifo/simple_filesorting_program/)
+- [The Hidden Features Of Python!](https://www.reddit.com/r/Python/comments/k1i6jr/the_hidden_features_of_python/)
 - [I scraped Best Buy for the best Black Friday TV Deals!](https://www.reddit.com/r/Python/comments/k1i0qx/i_scraped_best_buy_for_the_best_black_friday_tv/)
 - [Finally I can sleep](https://www.reddit.com/r/Python/comments/k1hzl6/finally_i_can_sleep/)
 - [Do Python developers recreate model classes in each module?](https://www.reddit.com/r/Python/comments/k1hp8r/do_python_developers_recreate_model_classes_in/)
-- [lvgl cross platform graphics library using micropython. Demo works online. Not affiliated with lvgl in any way](https://www.reddit.com/r/Python/comments/k1hfob/lvgl_cross_platform_graphics_library_using/)
-- [I wrote a Python package that lets you generate images from HTML/CSS strings or files and URLs](https://www.reddit.com/r/Python/comments/k1gw4z/i_wrote_a_python_package_that_lets_you_generate/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
