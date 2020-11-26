@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Visualization of Fractal tree](https://www.reddit.com/r/Python/comments/k1cnbi/visualization_of_fractal_tree/)
+- [Local Python meetup streaming globally - Pykonik](https://www.reddit.com/r/Python/comments/k1c82r/local_python_meetup_streaming_globally_pykonik/)
+- [Automating Your Data Science Tasks In Python (importing CSV files to dat...](https://www.reddit.com/r/Python/comments/k1c6xh/automating_your_data_science_tasks_in_python/)
+- [Kane SubOS update!](https://www.reddit.com/r/Python/comments/k1c6uv/kane_subos_update/)
 - [What to learn next?](https://www.reddit.com/r/Python/comments/k1c1aj/what_to_learn_next/)
-- [Machine Learning Optimization - Advanced Optimizers from scratch with Python](https://www.reddit.com/r/Python/comments/k1btxy/machine_learning_optimization_advanced_optimizers/)
-- [How to go off platform?](https://www.reddit.com/r/Python/comments/k1bovp/how_to_go_off_platform/)
-- [Mad HTML templating right in python files!](https://www.reddit.com/r/Python/comments/k1bkf1/mad_html_templating_right_in_python_files/)
-- [Transferring your variables to LaTeX](https://www.reddit.com/r/Python/comments/k1b5a0/transferring_your_variables_to_latex/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
