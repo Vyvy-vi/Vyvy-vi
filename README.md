@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Dask users might find this webinar useful. Hosted by the creator, Matt Rocklin. Travis Oliphant will be joining too (creator of NumPy & SciPy).](https://www.reddit.com/r/Python/comments/k1l24i/dask_users_might_find_this_webinar_useful_hosted/)
-- [My first Python application (Yahtzee)](https://www.reddit.com/r/Python/comments/k1jcem/my_first_python_application_yahtzee/)
-- [Simple File-Sorting Program](https://www.reddit.com/r/Python/comments/k1iifo/simple_filesorting_program/)
-- [The Hidden Features Of Python!](https://www.reddit.com/r/Python/comments/k1i6jr/the_hidden_features_of_python/)
-- [I scraped Best Buy for the best Black Friday TV Deals!](https://www.reddit.com/r/Python/comments/k1i0qx/i_scraped_best_buy_for_the_best_black_friday_tv/)
+- [Proof of Benford's Law](https://www.reddit.com/r/Python/comments/k1m9er/proof_of_benfords_law/)
+- [I made a (basic) GUI weather app!](https://www.reddit.com/r/Python/comments/k1m418/i_made_a_basic_gui_weather_app/)
+- [Made a Wikipedia scraper and some basic interactive visualizations using soccer data](https://www.reddit.com/r/Python/comments/k1m0mg/made_a_wikipedia_scraper_and_some_basic/)
+- [Join us](https://www.reddit.com/r/Python/comments/k1lmou/join_us/)
+- [Is Robot Framework used in the industry?](https://www.reddit.com/r/Python/comments/k1lfyt/is_robot_framework_used_in_the_industry/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
