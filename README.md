@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [A Unique Approach to Data Visualization through the use of Algorithms, with examples in Python](https://www.reddit.com/r/Python/comments/k1dg1k/a_unique_approach_to_data_visualization_through/)
+- [Why Python Web Development is better than PHP Web Development? - Aalpha](https://www.reddit.com/r/Python/comments/k1dbk7/why_python_web_development_is_better_than_php_web/)
+- [Python Slicing Reference, a perfect implementation of how the builtin list deals with slices](https://www.reddit.com/r/Python/comments/k1d6iz/python_slicing_reference_a_perfect_implementation/)
 - [Visualization of Fractal tree](https://www.reddit.com/r/Python/comments/k1cnbi/visualization_of_fractal_tree/)
 - [Local Python meetup streaming globally - Pykonik](https://www.reddit.com/r/Python/comments/k1c82r/local_python_meetup_streaming_globally_pykonik/)
-- [Automating Your Data Science Tasks In Python (importing CSV files to dat...](https://www.reddit.com/r/Python/comments/k1c6xh/automating_your_data_science_tasks_in_python/)
-- [Kane SubOS update!](https://www.reddit.com/r/Python/comments/k1c6uv/kane_subos_update/)
-- [What to learn next?](https://www.reddit.com/r/Python/comments/k1c1aj/what_to_learn_next/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
