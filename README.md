@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to define a Cube using Blender Python API vertex by vertex](https://www.reddit.com/r/Python/comments/k2267f/how_to_define_a_cube_using_blender_python_api/)
+- [How to save Gmail emails attachments to your Google Drive in Pyhton (Google Drive API + Gmail API)](https://www.reddit.com/r/Python/comments/k222il/how_to_save_gmail_emails_attachments_to_your/)
+- [Don’t abuse this please](https://www.reddit.com/r/Python/comments/k221ua/dont_abuse_this_please/)
 - [Learn Python in 10 minutes for beginners](https://www.reddit.com/r/Python/comments/k21sg0/learn_python_in_10_minutes_for_beginners/)
 - [Twitter Sentiment Analysis - Classical Approach VS Deep Learning: A Beginner Friendly Notebook](https://www.reddit.com/r/Python/comments/k21ikj/twitter_sentiment_analysis_classical_approach_vs/)
-- [How to create visually stunning Cross Platform Google Ranking App in Node Js and Python - 2](https://www.reddit.com/r/Python/comments/k20yrb/how_to_create_visually_stunning_cross_platform/)
-- [List of Python Books](https://www.reddit.com/r/Python/comments/k20itb/list_of_python_books/)
-- [Get all our bestselling Data Science with Python courses for just $9.99 today. Hope this helps every Data Science aspirant who is working on realizing their dream during this pandemic.](https://www.reddit.com/r/Python/comments/k20fp1/get_all_our_bestselling_data_science_with_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
