@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [List of Python Books](https://www.reddit.com/r/Python/comments/k20itb/list_of_python_books/)
+- [Get all our bestselling Data Science with Python courses for just $9.99 today. Hope this helps every Data Science aspirant who is working on realizing their dream during this pandemic.](https://www.reddit.com/r/Python/comments/k20fp1/get_all_our_bestselling_data_science_with_python/)
+- [How To Drag And Drop In Selenium With Python?](https://www.reddit.com/r/Python/comments/k20cnw/how_to_drag_and_drop_in_selenium_with_python/)
+- [gamepyd v1.0: Pandas can play games now](https://www.reddit.com/r/Python/comments/k20b24/gamepyd_v10_pandas_can_play_games_now/)
 - [GUI Toolkit on Windows](https://www.reddit.com/r/Python/comments/k1zmdc/gui_toolkit_on_windows/)
-- [Python script that helps you export all photos into one big chronological folder via TheLastGimbus](https://www.reddit.com/r/Python/comments/k1zivy/python_script_that_helps_you_export_all_photos/)
-- [Is there an Instagram API that lets you search all content with #hashtag between timestamp1 and timestamp2? (without scraping)](https://www.reddit.com/r/Python/comments/k1z399/is_there_an_instagram_api_that_lets_you_search/)
-- [Learn Python Object Oriented Programming [ Python OOP ]](https://www.reddit.com/r/Python/comments/k1ypa1/learn_python_object_oriented_programming_python/)
-- [Why Do You Need A Scrum Master? A Report from the Battlefield.](https://www.reddit.com/r/Python/comments/k1yo50/why_do_you_need_a_scrum_master_a_report_from_the/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
