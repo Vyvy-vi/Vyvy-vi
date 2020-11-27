@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [@RandomPlacesBot: A Twitter Bot which posts Wiki Information about random places](https://www.reddit.com/r/Python/comments/k29cdj/randomplacesbot_a_twitter_bot_which_posts_wiki/)
+- [What is considered practical in terms of applictions?](https://www.reddit.com/r/Python/comments/k2816l/what_is_considered_practical_in_terms_of/)
 - [Text to speech using Python](https://www.reddit.com/r/Python/comments/k27ua9/text_to_speech_using_python/)
 - [I made a list of the top 5 Python Learning Black Friday Deals. (I spend too much time on writing this tbh haha) What do you think?](https://www.reddit.com/r/Python/comments/k27i72/i_made_a_list_of_the_top_5_python_learning_black/)
 - [Do you like my factorial implementation?](https://www.reddit.com/r/Python/comments/k272og/do_you_like_my_factorial_implementation/)
-- [Code Review](https://www.reddit.com/r/Python/comments/k26rko/code_review/)
-- [Python Cheat Sheet](https://www.reddit.com/r/Python/comments/k26013/python_cheat_sheet/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
