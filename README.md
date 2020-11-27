@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [A little pygame visualizer project I've been working on - finally in a shareable state](https://www.reddit.com/r/Python/comments/k1rg9u/a_little_pygame_visualizer_project_ive_been/)
+- [Does anyone know faster hash tables than the built-in python dict?](https://www.reddit.com/r/Python/comments/k1r311/does_anyone_know_faster_hash_tables_than_the/)
 - [How can I practice Python without being able to download it to my computer?](https://www.reddit.com/r/Python/comments/k1qkvo/how_can_i_practice_python_without_being_able_to/)
 - [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/k1qd1p/friday_megathread_free_chat_friday/)
 - [Simple Python project to help in attempt to adopt a dog!](https://www.reddit.com/r/Python/comments/k1nt99/simple_python_project_to_help_in_attempt_to_adopt/)
-- [WPA2Gen Wifi Password Generator](https://www.reddit.com/r/Python/comments/k1nr1q/wpa2gen_wifi_password_generator/)
-- [ModernGl and pyopengltk demo video](https://www.reddit.com/r/Python/comments/k1mvkw/moderngl_and_pyopengltk_demo_video/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
