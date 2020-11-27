@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [GUI Toolkit on Windows](https://www.reddit.com/r/Python/comments/k1zmdc/gui_toolkit_on_windows/)
+- [Python script that helps you export all photos into one big chronological folder via TheLastGimbus](https://www.reddit.com/r/Python/comments/k1zivy/python_script_that_helps_you_export_all_photos/)
 - [Is there an Instagram API that lets you search all content with #hashtag between timestamp1 and timestamp2? (without scraping)](https://www.reddit.com/r/Python/comments/k1z399/is_there_an_instagram_api_that_lets_you_search/)
 - [Learn Python Object Oriented Programming [ Python OOP ]](https://www.reddit.com/r/Python/comments/k1ypa1/learn_python_object_oriented_programming_python/)
 - [Why Do You Need A Scrum Master? A Report from the Battlefield.](https://www.reddit.com/r/Python/comments/k1yo50/why_do_you_need_a_scrum_master_a_report_from_the/)
-- [ipycanvas: Draw anything you want in a Jupyter Notebook](https://www.reddit.com/r/Python/comments/k1ym4c/ipycanvas_draw_anything_you_want_in_a_jupyter/)
-- [Unravelling `not` in Python](https://www.reddit.com/r/Python/comments/k1yciu/unravelling_not_in_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
