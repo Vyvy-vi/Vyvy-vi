@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I made a list of the top 5 Python Learning Black Friday Deals. (I spend too much time on writing this tbh haha) What do you think?](https://www.reddit.com/r/Python/comments/k27i72/i_made_a_list_of_the_top_5_python_learning_black/)
+- [Do you like my factorial implementation?](https://www.reddit.com/r/Python/comments/k272og/do_you_like_my_factorial_implementation/)
+- [Code Review](https://www.reddit.com/r/Python/comments/k26rko/code_review/)
 - [Python Cheat Sheet](https://www.reddit.com/r/Python/comments/k26013/python_cheat_sheet/)
 - [I'm a noob and I need help](https://www.reddit.com/r/Python/comments/k25unj/im_a_noob_and_i_need_help/)
-- [This bot got me banned off twitter](https://www.reddit.com/r/Python/comments/k244ow/this_bot_got_me_banned_off_twitter/)
-- [A ebook about building evolutionary algorithms in Python](https://www.reddit.com/r/Python/comments/k23gs9/a_ebook_about_building_evolutionary_algorithms_in/)
-- [How to define a Cube using Blender Python API vertex by vertex](https://www.reddit.com/r/Python/comments/k2267f/how_to_define_a_cube_using_blender_python_api/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
