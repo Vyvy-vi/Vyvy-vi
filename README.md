@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How can I practice Python without being able to download it to my computer?](https://www.reddit.com/r/Python/comments/k1qkvo/how_can_i_practice_python_without_being_able_to/)
+- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/k1qd1p/friday_megathread_free_chat_friday/)
 - [Simple Python project to help in attempt to adopt a dog!](https://www.reddit.com/r/Python/comments/k1nt99/simple_python_project_to_help_in_attempt_to_adopt/)
 - [WPA2Gen Wifi Password Generator](https://www.reddit.com/r/Python/comments/k1nr1q/wpa2gen_wifi_password_generator/)
 - [ModernGl and pyopengltk demo video](https://www.reddit.com/r/Python/comments/k1mvkw/moderngl_and_pyopengltk_demo_video/)
-- [Halfords Stock Checker Email Notification](https://www.reddit.com/r/Python/comments/k1mv67/halfords_stock_checker_email_notification/)
-- [Proof of Benford's Law](https://www.reddit.com/r/Python/comments/k1m9er/proof_of_benfords_law/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
