@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I'm working on a secure decentralised p2p framework...](https://www.reddit.com/r/Python/comments/k1sikz/im_working_on_a_secure_decentralised_p2p_framework/)
 - [Twitchy, another Python Twitch API Wrapper that needs critique](https://www.reddit.com/r/Python/comments/k1rw28/twitchy_another_python_twitch_api_wrapper_that/)
 - [A little pygame visualizer project I've been working on - finally in a shareable state](https://www.reddit.com/r/Python/comments/k1rg9u/a_little_pygame_visualizer_project_ive_been/)
 - [Does anyone know faster hash tables than the built-in python dict?](https://www.reddit.com/r/Python/comments/k1r311/does_anyone_know_faster_hash_tables_than_the/)
 - [How can I practice Python without being able to download it to my computer?](https://www.reddit.com/r/Python/comments/k1qkvo/how_can_i_practice_python_without_being_able_to/)
-- [Friday megathread: Free chat Friday!](https://www.reddit.com/r/Python/comments/k1qd1p/friday_megathread_free_chat_friday/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
