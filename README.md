@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python in 10 minutes for beginners](https://www.reddit.com/r/Python/comments/k21sg0/learn_python_in_10_minutes_for_beginners/)
+- [Twitter Sentiment Analysis - Classical Approach VS Deep Learning: A Beginner Friendly Notebook](https://www.reddit.com/r/Python/comments/k21ikj/twitter_sentiment_analysis_classical_approach_vs/)
+- [How to create visually stunning Cross Platform Google Ranking App in Node Js and Python - 2](https://www.reddit.com/r/Python/comments/k20yrb/how_to_create_visually_stunning_cross_platform/)
 - [List of Python Books](https://www.reddit.com/r/Python/comments/k20itb/list_of_python_books/)
 - [Get all our bestselling Data Science with Python courses for just $9.99 today. Hope this helps every Data Science aspirant who is working on realizing their dream during this pandemic.](https://www.reddit.com/r/Python/comments/k20fp1/get_all_our_bestselling_data_science_with_python/)
-- [How To Drag And Drop In Selenium With Python?](https://www.reddit.com/r/Python/comments/k20cnw/how_to_drag_and_drop_in_selenium_with_python/)
-- [gamepyd v1.0: Pandas can play games now](https://www.reddit.com/r/Python/comments/k20b24/gamepyd_v10_pandas_can_play_games_now/)
-- [GUI Toolkit on Windows](https://www.reddit.com/r/Python/comments/k1zmdc/gui_toolkit_on_windows/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
