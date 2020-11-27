@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [This bot got me banned off twitter](https://www.reddit.com/r/Python/comments/k244ow/this_bot_got_me_banned_off_twitter/)
+- [A ebook about building evolutionary algorithms in Python](https://www.reddit.com/r/Python/comments/k23gs9/a_ebook_about_building_evolutionary_algorithms_in/)
 - [How to define a Cube using Blender Python API vertex by vertex](https://www.reddit.com/r/Python/comments/k2267f/how_to_define_a_cube_using_blender_python_api/)
 - [How to save Gmail emails attachments to your Google Drive in Pyhton (Google Drive API + Gmail API)](https://www.reddit.com/r/Python/comments/k222il/how_to_save_gmail_emails_attachments_to_your/)
 - [Don’t abuse this please](https://www.reddit.com/r/Python/comments/k221ua/dont_abuse_this_please/)
-- [Learn Python in 10 minutes for beginners](https://www.reddit.com/r/Python/comments/k21sg0/learn_python_in_10_minutes_for_beginners/)
-- [Twitter Sentiment Analysis - Classical Approach VS Deep Learning: A Beginner Friendly Notebook](https://www.reddit.com/r/Python/comments/k21ikj/twitter_sentiment_analysis_classical_approach_vs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
