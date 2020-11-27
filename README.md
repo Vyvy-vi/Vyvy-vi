@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [What are some ways and places to make money from writing python scripts?](https://www.reddit.com/r/Python/comments/k2auat/what_are_some_ways_and_places_to_make_money_from/)
+- [Music Player version 2](https://www.reddit.com/r/Python/comments/k2ahy4/music_player_version_2/)
+- [Swap case of specified letters in a string](https://www.reddit.com/r/Python/comments/k2afi2/swap_case_of_specified_letters_in_a_string/)
+- [Wrote this simple indentation rules tutorial but what else can be added? (other than fighting over space vs tabs)](https://www.reddit.com/r/Python/comments/k2abld/wrote_this_simple_indentation_rules_tutorial_but/)
 - [@RandomPlacesBot: A Twitter Bot which posts Wiki Information about random places](https://www.reddit.com/r/Python/comments/k29cdj/randomplacesbot_a_twitter_bot_which_posts_wiki/)
-- [What is considered practical in terms of applictions?](https://www.reddit.com/r/Python/comments/k2816l/what_is_considered_practical_in_terms_of/)
-- [Text to speech using Python](https://www.reddit.com/r/Python/comments/k27ua9/text_to_speech_using_python/)
-- [I made a list of the top 5 Python Learning Black Friday Deals. (I spend too much time on writing this tbh haha) What do you think?](https://www.reddit.com/r/Python/comments/k27i72/i_made_a_list_of_the_top_5_python_learning_black/)
-- [Do you like my factorial implementation?](https://www.reddit.com/r/Python/comments/k272og/do_you_like_my_factorial_implementation/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
