@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [👨‍💻 Basics of Views and Routing in Django ( Part 8 ) - Django For Beginners](https://www.reddit.com/r/Python/comments/k2kf0h/basics_of_views_and_routing_in_django_part_8/)
+- [My first Django app - Weight Training Tracker](https://www.reddit.com/r/Python/comments/k2kcm8/my_first_django_app_weight_training_tracker/)
+- ["Sillynium" - Auto generate working Python Selenium scripts by drawing coloured rectangles around web elements on a page that you want to automate](https://www.reddit.com/r/Python/comments/k2kbs4/sillynium_auto_generate_working_python_selenium/)
 - [Open source projects sustaining stable climate, energy supply and vital natural resources](https://www.reddit.com/r/Python/comments/k2jtjj/open_source_projects_sustaining_stable_climate/)
 - [Another Simple Piano Tiles Auto Clicker with Python](https://www.reddit.com/r/Python/comments/k2jn5s/another_simple_piano_tiles_auto_clicker_with/)
-- [Caer: Modern Computer Vision on the Fly](https://www.reddit.com/r/Python/comments/k2je9r/caer_modern_computer_vision_on_the_fly/)
-- [Please have a look at this.](https://www.reddit.com/r/Python/comments/k2i88z/please_have_a_look_at_this/)
-- [my first python project, with the help of google](https://www.reddit.com/r/Python/comments/k2hj65/my_first_python_project_with_the_help_of_google/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
