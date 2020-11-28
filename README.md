@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [PackPub Downloader](https://www.reddit.com/r/Python/comments/k2l4v6/packpub_downloader/)
+- [Python algorythm - Maze](https://www.reddit.com/r/Python/comments/k2l25k/python_algorythm_maze/)
+- [Python game - Galaxians](https://www.reddit.com/r/Python/comments/k2kypb/python_game_galaxians/)
+- [in Bengali](https://www.reddit.com/r/Python/comments/k2kyoq/in_bengali/)
 - [👨‍💻 Basics of Views and Routing in Django ( Part 8 ) - Django For Beginners](https://www.reddit.com/r/Python/comments/k2kf0h/basics_of_views_and_routing_in_django_part_8/)
-- [My first Django app - Weight Training Tracker](https://www.reddit.com/r/Python/comments/k2kcm8/my_first_django_app_weight_training_tracker/)
-- ["Sillynium" - Auto generate working Python Selenium scripts by drawing coloured rectangles around web elements on a page that you want to automate](https://www.reddit.com/r/Python/comments/k2kbs4/sillynium_auto_generate_working_python_selenium/)
-- [Open source projects sustaining stable climate, energy supply and vital natural resources](https://www.reddit.com/r/Python/comments/k2jtjj/open_source_projects_sustaining_stable_climate/)
-- [Another Simple Piano Tiles Auto Clicker with Python](https://www.reddit.com/r/Python/comments/k2jn5s/another_simple_piano_tiles_auto_clicker_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
