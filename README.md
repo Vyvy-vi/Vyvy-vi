@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/k2ft3x/the_complete_python_pro_bootcamp_for_2021_by_dr/)
+- [Fishhook: a way to patch static methods at runtime in Python](https://www.reddit.com/r/Python/comments/k2fgjy/fishhook_a_way_to_patch_static_methods_at_runtime/)
 - [IP detection with basic password authentication front end for any URL.](https://www.reddit.com/r/Python/comments/k2e12w/ip_detection_with_basic_password_authentication/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/k2cpd9/saturday_megathread_share_your_resources/)
 - [QuickPYTHON: The retro fun of QBasic meets the power of Python](https://www.reddit.com/r/Python/comments/k2azco/quickpython_the_retro_fun_of_qbasic_meets_the/)
-- [What are some ways and places to make money from writing python scripts?](https://www.reddit.com/r/Python/comments/k2auat/what_are_some_ways_and_places_to_make_money_from/)
-- [Music Player version 2](https://www.reddit.com/r/Python/comments/k2ahy4/music_player_version_2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
