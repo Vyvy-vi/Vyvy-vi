@@ -108,7 +108,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Hi, im 17 and im new to youtubing. Im gonna be teaching how to code. That vid the quality was doodoo but im uploading later and you will enjoy it. Hi the bell, trust me u would laugh😂😂😂](https://www.reddit.com/r/Python/comments/k2v874/hi_im_17_and_im_new_to_youtubing_im_gonna_be/)
+- [Auto Clicker Using Python](https://www.reddit.com/r/Python/comments/k2wb0f/auto_clicker_using_python/)
 - [Escape the Wangan(Text based adventure)](https://www.reddit.com/r/Python/comments/k2v638/escape_the_wangantext_based_adventure/)
 - [Any good python “puzzle” websites?](https://www.reddit.com/r/Python/comments/k2v51h/any_good_python_puzzle_websites/)
 - [How does Python influence your other hobbies that aren't directly related to programming?](https://www.reddit.com/r/Python/comments/k2tr8v/how_does_python_influence_your_other_hobbies_that/)
