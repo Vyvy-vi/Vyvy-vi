@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Generating Realtime Weather data in Python](https://www.reddit.com/r/Python/comments/k2tkl1/generating_realtime_weather_data_in_python/)
+- [How to Pass Multiple Arguments to a map Function in Python - (Beginner Tutorial)](https://www.reddit.com/r/Python/comments/k2thmj/how_to_pass_multiple_arguments_to_a_map_function/)
+- [Has anyone tried this new tensorflow_macos?](https://www.reddit.com/r/Python/comments/k2tbdh/has_anyone_tried_this_new_tensorflow_macos/)
 - [Caer - Image and Video Processing on the Fly](https://www.reddit.com/r/Python/comments/k2sddo/caer_image_and_video_processing_on_the_fly/)
 - [Maradona Time (Seconds since D10S)](https://www.reddit.com/r/Python/comments/k2sa34/maradona_time_seconds_since_d10s/)
-- [8 Best Python Libraries for Algorithmic Trading](https://www.reddit.com/r/Python/comments/k2rb62/8_best_python_libraries_for_algorithmic_trading/)
-- [I made a Telegram Reminder Bot!](https://www.reddit.com/r/Python/comments/k2ra9b/i_made_a_telegram_reminder_bot/)
-- [Recording terminal sessions with Python](https://www.reddit.com/r/Python/comments/k2pyeb/recording_terminal_sessions_with_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
