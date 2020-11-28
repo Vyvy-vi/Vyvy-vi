@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [IP detection with basic password authentication front end for any URL.](https://www.reddit.com/r/Python/comments/k2e12w/ip_detection_with_basic_password_authentication/)
 - [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/k2cpd9/saturday_megathread_share_your_resources/)
 - [QuickPYTHON: The retro fun of QBasic meets the power of Python](https://www.reddit.com/r/Python/comments/k2azco/quickpython_the_retro_fun_of_qbasic_meets_the/)
 - [What are some ways and places to make money from writing python scripts?](https://www.reddit.com/r/Python/comments/k2auat/what_are_some_ways_and_places_to_make_money_from/)
 - [Music Player version 2](https://www.reddit.com/r/Python/comments/k2ahy4/music_player_version_2/)
-- [Wrote this simple indentation rules tutorial but what else can be added? (other than fighting over space vs tabs)](https://www.reddit.com/r/Python/comments/k2abld/wrote_this_simple_indentation_rules_tutorial_but/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
