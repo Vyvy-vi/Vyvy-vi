@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass Multiple Arguments to a map Function in Python](https://www.reddit.com/r/Python/comments/k2lft7/how_to_pass_multiple_arguments_to_a_map_function/)
-- [PackPub Downloader](https://www.reddit.com/r/Python/comments/k2l4v6/packpub_downloader/)
-- [Python algorythm - Maze](https://www.reddit.com/r/Python/comments/k2l25k/python_algorythm_maze/)
-- [Python game - Galaxians](https://www.reddit.com/r/Python/comments/k2kypb/python_game_galaxians/)
-- [in Bengali](https://www.reddit.com/r/Python/comments/k2kyoq/in_bengali/)
+- [Cython vs Python vs CPython](https://www.reddit.com/r/Python/comments/k2morp/cython_vs_python_vs_cpython/)
+- [yt-channels-archive, CLI tool to backup many YouTube channels in the highest available quality](https://www.reddit.com/r/Python/comments/k2mnun/ytchannelsarchive_cli_tool_to_backup_many_youtube/)
+- [Letting a PROGRAM decide what I EAT!](https://www.reddit.com/r/Python/comments/k2mebj/letting_a_program_decide_what_i_eat/)
+- [chilaxan/fishhook This module allows for swapping out the slot pointers contained in static classes with the generic slot pointers used by python for heap classes.](https://www.reddit.com/r/Python/comments/k2m2cu/chilaxanfishhook_this_module_allows_for_swapping/)
+- [Currying: Partial Argument Application with Functions in Python - Renan Moura](https://www.reddit.com/r/Python/comments/k2m1xg/currying_partial_argument_application_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
