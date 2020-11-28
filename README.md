@@ -108,11 +108,11 @@ Swift                    1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Please have a look at this.](https://www.reddit.com/r/Python/comments/k2i88z/please_have_a_look_at_this/)
 - [my first python project, with the help of google](https://www.reddit.com/r/Python/comments/k2hj65/my_first_python_project_with_the_help_of_google/)
 - [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/k2ft3x/the_complete_python_pro_bootcamp_for_2021_by_dr/)
 - [Fishhook: a way to patch static methods at runtime in Python](https://www.reddit.com/r/Python/comments/k2fgjy/fishhook_a_way_to_patch_static_methods_at_runtime/)
 - [IP detection with basic password authentication front end for any URL.](https://www.reddit.com/r/Python/comments/k2e12w/ip_detection_with_basic_password_authentication/)
-- [Saturday megathread: Share your resources!](https://www.reddit.com/r/Python/comments/k2cpd9/saturday_megathread_share_your_resources/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
