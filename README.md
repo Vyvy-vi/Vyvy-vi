@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Caer: Modern Computer Vision on the Fly](https://www.reddit.com/r/Python/comments/k2je9r/caer_modern_computer_vision_on_the_fly/)
+- [R/learnpython hey y’all I have this python project that I have to find a hidden message in a wave file. I have the spectrogram and everything. My main issue is how to read it can someone please help me.](https://www.reddit.com/r/Python/comments/k2j7xb/rlearnpython_hey_yall_i_have_this_python_project/)
 - [Please have a look at this.](https://www.reddit.com/r/Python/comments/k2i88z/please_have_a_look_at_this/)
 - [my first python project, with the help of google](https://www.reddit.com/r/Python/comments/k2hj65/my_first_python_project_with_the_help_of_google/)
 - [The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu](https://www.reddit.com/r/Python/comments/k2ft3x/the_complete_python_pro_bootcamp_for_2021_by_dr/)
-- [Fishhook: a way to patch static methods at runtime in Python](https://www.reddit.com/r/Python/comments/k2fgjy/fishhook_a_way_to_patch_static_methods_at_runtime/)
-- [IP detection with basic password authentication front end for any URL.](https://www.reddit.com/r/Python/comments/k2e12w/ip_detection_with_basic_password_authentication/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
