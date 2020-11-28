@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Caer - Image and Video Processing on the Fly](https://www.reddit.com/r/Python/comments/k2sddo/caer_image_and_video_processing_on_the_fly/)
+- [Maradona Time (Seconds since D10S)](https://www.reddit.com/r/Python/comments/k2sa34/maradona_time_seconds_since_d10s/)
 - [8 Best Python Libraries for Algorithmic Trading](https://www.reddit.com/r/Python/comments/k2rb62/8_best_python_libraries_for_algorithmic_trading/)
 - [I made a Telegram Reminder Bot!](https://www.reddit.com/r/Python/comments/k2ra9b/i_made_a_telegram_reminder_bot/)
 - [Recording terminal sessions with Python](https://www.reddit.com/r/Python/comments/k2pyeb/recording_terminal_sessions_with_python/)
-- [PSA: If you've installed Anaconda but your command prompt no longer opens, read this:](https://www.reddit.com/r/Python/comments/k2pstj/psa_if_youve_installed_anaconda_but_your_command/)
-- [FIFA 2021 Dataset Scraper](https://www.reddit.com/r/Python/comments/k2pbh8/fifa_2021_dataset_scraper/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
