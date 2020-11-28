@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Livestreaming development: Video sharing platform in Python](https://www.reddit.com/r/Python/comments/k2n9co/livestreaming_development_video_sharing_platform/)
+- [Voice Assistant in Python using TTS and Google Speech Recognition](https://www.reddit.com/r/Python/comments/k2n40j/voice_assistant_in_python_using_tts_and_google/)
 - [Cython vs Python vs CPython](https://www.reddit.com/r/Python/comments/k2morp/cython_vs_python_vs_cpython/)
 - [yt-channels-archive, CLI tool to backup many YouTube channels in the highest available quality](https://www.reddit.com/r/Python/comments/k2mnun/ytchannelsarchive_cli_tool_to_backup_many_youtube/)
 - [Letting a PROGRAM decide what I EAT!](https://www.reddit.com/r/Python/comments/k2mebj/letting_a_program_decide_what_i_eat/)
-- [chilaxan/fishhook This module allows for swapping out the slot pointers contained in static classes with the generic slot pointers used by python for heap classes.](https://www.reddit.com/r/Python/comments/k2m2cu/chilaxanfishhook_this_module_allows_for_swapping/)
-- [Currying: Partial Argument Application with Functions in Python - Renan Moura](https://www.reddit.com/r/Python/comments/k2m1xg/currying_partial_argument_application_with/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
