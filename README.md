@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Python Libraries for Algorithmic Trading](https://www.reddit.com/r/Python/comments/k2rb62/8_best_python_libraries_for_algorithmic_trading/)
+- [I made a Telegram Reminder Bot!](https://www.reddit.com/r/Python/comments/k2ra9b/i_made_a_telegram_reminder_bot/)
 - [Recording terminal sessions with Python](https://www.reddit.com/r/Python/comments/k2pyeb/recording_terminal_sessions_with_python/)
 - [PSA: If you've installed Anaconda but your command prompt no longer opens, read this:](https://www.reddit.com/r/Python/comments/k2pstj/psa_if_youve_installed_anaconda_but_your_command/)
 - [FIFA 2021 Dataset Scraper](https://www.reddit.com/r/Python/comments/k2pbh8/fifa_2021_dataset_scraper/)
-- [I got a lightning to USB adaptor and found out how easily you can code Python on an iPhone, so I made a video doing it!](https://www.reddit.com/r/Python/comments/k2paw9/i_got_a_lightning_to_usb_adaptor_and_found_out/)
-- [Python freelancers: how do you handle a client who doesn't know how to setup environments?](https://www.reddit.com/r/Python/comments/k2p4in/python_freelancers_how_do_you_handle_a_client_who/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
