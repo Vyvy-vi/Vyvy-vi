@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to Pass Multiple Arguments to a map Function in Python](https://www.reddit.com/r/Python/comments/k2lft7/how_to_pass_multiple_arguments_to_a_map_function/)
 - [PackPub Downloader](https://www.reddit.com/r/Python/comments/k2l4v6/packpub_downloader/)
 - [Python algorythm - Maze](https://www.reddit.com/r/Python/comments/k2l25k/python_algorythm_maze/)
 - [Python game - Galaxians](https://www.reddit.com/r/Python/comments/k2kypb/python_game_galaxians/)
 - [in Bengali](https://www.reddit.com/r/Python/comments/k2kyoq/in_bengali/)
-- [👨‍💻 Basics of Views and Routing in Django ( Part 8 ) - Django For Beginners](https://www.reddit.com/r/Python/comments/k2kf0h/basics_of_views_and_routing_in_django_part_8/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
