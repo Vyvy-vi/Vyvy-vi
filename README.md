@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Python freelancers: how do you handle a client who doesn't know how to setup environments?](https://www.reddit.com/r/Python/comments/k2p4in/python_freelancers_how_do_you_handle_a_client_who/)
+- [Book review: Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Al Sweigart](https://www.reddit.com/r/Python/comments/k2p3dt/book_review_beyond_the_basic_stuff_with_python/)
+- [Populate dialog box in python from dodo](https://www.reddit.com/r/Python/comments/k2ole2/populate_dialog_box_in_python_from_dodo/)
+- [How can i correct the syntax error? It's not accepting the negative -2 in the list.](https://www.reddit.com/r/Python/comments/k2okc4/how_can_i_correct_the_syntax_error_its_not/)
 - [Understanding Backtracking by solving the N-Queens Problem And Knight's tour](https://www.reddit.com/r/Python/comments/k2o6r1/understanding_backtracking_by_solving_the_nqueens/)
-- [Livestreaming development: Video sharing platform in Python](https://www.reddit.com/r/Python/comments/k2n9co/livestreaming_development_video_sharing_platform/)
-- [Voice Assistant in Python using TTS and Google Speech Recognition](https://www.reddit.com/r/Python/comments/k2n40j/voice_assistant_in_python_using_tts_and_google/)
-- [Cython vs Python vs CPython](https://www.reddit.com/r/Python/comments/k2morp/cython_vs_python_vs_cpython/)
-- [yt-channels-archive, CLI tool to backup many YouTube channels in the highest available quality](https://www.reddit.com/r/Python/comments/k2mnun/ytchannelsarchive_cli_tool_to_backup_many_youtube/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
