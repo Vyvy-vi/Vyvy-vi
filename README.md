@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Recording terminal sessions with Python](https://www.reddit.com/r/Python/comments/k2pyeb/recording_terminal_sessions_with_python/)
+- [PSA: If you've installed Anaconda but your command prompt no longer opens, read this:](https://www.reddit.com/r/Python/comments/k2pstj/psa_if_youve_installed_anaconda_but_your_command/)
+- [FIFA 2021 Dataset Scraper](https://www.reddit.com/r/Python/comments/k2pbh8/fifa_2021_dataset_scraper/)
+- [I got a lightning to USB adaptor and found out how easily you can code Python on an iPhone, so I made a video doing it!](https://www.reddit.com/r/Python/comments/k2paw9/i_got_a_lightning_to_usb_adaptor_and_found_out/)
 - [Python freelancers: how do you handle a client who doesn't know how to setup environments?](https://www.reddit.com/r/Python/comments/k2p4in/python_freelancers_how_do_you_handle_a_client_who/)
-- [Book review: Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Al Sweigart](https://www.reddit.com/r/Python/comments/k2p3dt/book_review_beyond_the_basic_stuff_with_python/)
-- [Populate dialog box in python from dodo](https://www.reddit.com/r/Python/comments/k2ole2/populate_dialog_box_in_python_from_dodo/)
-- [How can i correct the syntax error? It's not accepting the negative -2 in the list.](https://www.reddit.com/r/Python/comments/k2okc4/how_can_i_correct_the_syntax_error_its_not/)
-- [Understanding Backtracking by solving the N-Queens Problem And Knight's tour](https://www.reddit.com/r/Python/comments/k2o6r1/understanding_backtracking_by_solving_the_nqueens/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
