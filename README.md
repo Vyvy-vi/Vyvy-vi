@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/k2ypqa/sunday_megathread_whats_everyone_working_on_this/)
+- [Looking for constructive criticism on my (mostly Python) videos](https://www.reddit.com/r/Python/comments/k2yjo6/looking_for_constructive_criticism_on_my_mostly/)
 - [I created a Python script which plays Minecraft music at a random time.](https://www.reddit.com/r/Python/comments/k2xag8/i_created_a_python_script_which_plays_minecraft/)
 - [Auto Clicker Using Python](https://www.reddit.com/r/Python/comments/k2wb0f/auto_clicker_using_python/)
 - [Escape the Wangan(Text based adventure)](https://www.reddit.com/r/Python/comments/k2v638/escape_the_wangantext_based_adventure/)
-- [Any good python “puzzle” websites?](https://www.reddit.com/r/Python/comments/k2v51h/any_good_python_puzzle_websites/)
-- [How does Python influence your other hobbies that aren't directly related to programming?](https://www.reddit.com/r/Python/comments/k2tr8v/how_does_python_influence_your_other_hobbies_that/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
