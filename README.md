@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Bot-Be-Gone/AvailCheck Version 2.0 is a program I just released that checks most online retailers for products that are hard to get because of scalpers. All of the scraping data can be easily changed in two json files. Check out this Github repository for more info.](https://www.reddit.com/r/Python/comments/k35gq1/botbegoneavailcheck_version_20_is_a_program_i/)
 - [Realpython tutorial site any reviews?](https://www.reddit.com/r/Python/comments/k3419b/realpython_tutorial_site_any_reviews/)
 - [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k33m68/an_instagram_bot_built_with_youtubes_data_api_and/)
 - [Python Ditionaries](https://www.reddit.com/r/Python/comments/k33jpv/python_ditionaries/)
 - [Cyberbrain: Python debugging, redefined](https://www.reddit.com/r/Python/comments/k32p48/cyberbrain_python_debugging_redefined/)
-- [Word search generator - a fun and challenging Python project](https://www.reddit.com/r/Python/comments/k32moz/word_search_generator_a_fun_and_challenging/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
