@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I created a YouTube sub count tracker for instagram descriptions in Python with YouTube's Data API](https://www.reddit.com/r/Python/comments/k31cst/i_created_a_youtube_sub_count_tracker_for/)
 - [Colour Science for Python – 0.3.16](https://www.reddit.com/r/Python/comments/k30anf/colour_science_for_python_0316/)
 - [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/k2ypqa/sunday_megathread_whats_everyone_working_on_this/)
 - [Looking for constructive criticism on my (mostly Python) videos](https://www.reddit.com/r/Python/comments/k2yjo6/looking_for_constructive_criticism_on_my_mostly/)
 - [I created a Python script which plays Minecraft music at a random time.](https://www.reddit.com/r/Python/comments/k2xag8/i_created_a_python_script_which_plays_minecraft/)
-- [Auto Clicker Using Python](https://www.reddit.com/r/Python/comments/k2wb0f/auto_clicker_using_python/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
