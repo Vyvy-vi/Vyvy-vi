@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k33m68/an_instagram_bot_built_with_youtubes_data_api_and/)
+- [Python Ditionaries](https://www.reddit.com/r/Python/comments/k33jpv/python_ditionaries/)
 - [Cyberbrain: Python debugging, redefined](https://www.reddit.com/r/Python/comments/k32p48/cyberbrain_python_debugging_redefined/)
 - [Word search generator - a fun and challenging Python project](https://www.reddit.com/r/Python/comments/k32moz/word_search_generator_a_fun_and_challenging/)
-- [I created a YouTube sub count tracker for instagram descriptions in Python with YouTube's Data API](https://www.reddit.com/r/Python/comments/k31cst/i_created_a_youtube_sub_count_tracker_for/)
 - [Colour Science for Python – 0.3.16](https://www.reddit.com/r/Python/comments/k30anf/colour_science_for_python_0316/)
-- [Sunday megathread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/k2ypqa/sunday_megathread_whats_everyone_working_on_this/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
