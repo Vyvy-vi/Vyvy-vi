@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Track the Price of Gold and Silver with Python and Requests](https://www.reddit.com/r/Python/comments/k38yuf/track_the_price_of_gold_and_silver_with_python/)
+- [Which is better, IntelliJ idea unlimited with python plugin or VScode with all the needed extensions.](https://www.reddit.com/r/Python/comments/k38xzo/which_is_better_intellij_idea_unlimited_with/)
+- ["Classroom manager" - An app made managing classrooms](https://www.reddit.com/r/Python/comments/k38qta/classroom_manager_an_app_made_managing_classrooms/)
 - [I created an intruder tool as part of my project in a course [Feedback appreciated]](https://www.reddit.com/r/Python/comments/k36xjj/i_created_an_intruder_tool_as_part_of_my_project/)
 - [I built a Twitter followers overlap analyzer - would appreciate feedback](https://www.reddit.com/r/Python/comments/k36rxs/i_built_a_twitter_followers_overlap_analyzer/)
-- [Bot-Be-Gone/AvailCheck Version 2.0 is a program I just released that checks most online retailers for products that are hard to get because of scalpers. All of the scraping data can be easily changed in two json files. Check out this Github repository for more info.](https://www.reddit.com/r/Python/comments/k35gq1/botbegoneavailcheck_version_20_is_a_program_i/)
-- [Realpython tutorial site any reviews?](https://www.reddit.com/r/Python/comments/k3419b/realpython_tutorial_site_any_reviews/)
-- [An instagram bot built with YouTube's Data API and Heroku](https://www.reddit.com/r/Python/comments/k33m68/an_instagram_bot_built_with_youtubes_data_api_and/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
