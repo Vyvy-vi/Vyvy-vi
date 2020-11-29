@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I have created a new Python package for web scraping and analysis of stock market data.](https://www.reddit.com/r/Python/comments/k3awea/i_have_created_a_new_python_package_for_web/)
+- [Función Open de Python](https://www.reddit.com/r/Python/comments/k3ar3l/función_open_de_python/)
+- [I made a python visualization library for math/science](https://www.reddit.com/r/Python/comments/k3a8ft/i_made_a_python_visualization_library_for/)
+- [Python qualification](https://www.reddit.com/r/Python/comments/k3a3k1/python_qualification/)
 - [Metaballs in pyhton, numpy and cupy](https://www.reddit.com/r/Python/comments/k3a0jt/metaballs_in_pyhton_numpy_and_cupy/)
-- [How Can I Make Learning Python Fun?](https://www.reddit.com/r/Python/comments/k39fwq/how_can_i_make_learning_python_fun/)
-- [Track the Price of Gold and Silver with Python and Requests](https://www.reddit.com/r/Python/comments/k38yuf/track_the_price_of_gold_and_silver_with_python/)
-- [Which is better, IntelliJ idea unlimited with python plugin or VScode with all the needed extensions.](https://www.reddit.com/r/Python/comments/k38xzo/which_is_better_intellij_idea_unlimited_with/)
-- ["Classroom manager" - An app made managing classrooms](https://www.reddit.com/r/Python/comments/k38qta/classroom_manager_an_app_made_managing_classrooms/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
