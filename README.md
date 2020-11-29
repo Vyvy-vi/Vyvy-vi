@@ -108,11 +108,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
   <summary>:zap: PYTHON UPDATES:</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [My it professor left us an inhumane amount of homework, so i made a python program to make them automatically. Source code in description](https://www.reddit.com/r/Python/comments/k3cyyx/my_it_professor_left_us_an_inhumane_amount_of/)
+- [I recently created a project to create APT repositories easily and host them locally or on GitHub](https://www.reddit.com/r/Python/comments/k3cnbd/i_recently_created_a_project_to_create_apt/)
 - [I have created a new Python package for web scraping and analysis of stock market data.](https://www.reddit.com/r/Python/comments/k3awea/i_have_created_a_new_python_package_for_web/)
 - [Función Open de Python](https://www.reddit.com/r/Python/comments/k3ar3l/función_open_de_python/)
 - [I made a python visualization library for math/science](https://www.reddit.com/r/Python/comments/k3a8ft/i_made_a_python_visualization_library_for/)
-- [Python qualification](https://www.reddit.com/r/Python/comments/k3a3k1/python_qualification/)
-- [Metaballs in pyhton, numpy and cupy](https://www.reddit.com/r/Python/comments/k3a0jt/metaballs_in_pyhton_numpy_and_cupy/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
