@@ -43,7 +43,7 @@ RightAwesomeRightAwesome
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
 
 **I'm an Early 🐤** 
 
