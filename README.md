@@ -1,11 +1,11 @@
 ### Hello World!
-<!---
-  ##### random joe-username:
-    <!-DON'T REMOVE->
-    <!-username:START->
+
+##### random joe-username:
+<!--DON'T REMOVE-->
+<!--username:START-->
     RightAwesomeRightAwesome
-    <!-username:END->
--->
+<!--username:END-->
+
 
 ##### about:
 - Currently I am a student.
