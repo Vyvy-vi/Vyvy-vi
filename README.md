@@ -28,10 +28,13 @@
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphics-Blender-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+
 <a href="https://github.com/Vyvy-vi/Vyvy-vi">
-  <img align="center" src="https://profile-readme-git-master.vyvy-vi.vercel.app/api?username=Vyvy-vi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vyom's GitHub Stats" />
+  <img align="left" src="https://profile-readme-git-master.vyvy-vi.vercel.app/api?username=Vyvy-vi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vyom's GitHub Stats" />
 </a>
-[![GitHub Streak](https://readme-stats.herokuapp.com/?user=Vyvy-vi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="right" src="https://readme-stats.herokuapp.com/?user=Vyvy-vi&theme=dark" alt="Vyom's GitHub Streak Stats" />
+</a>
 
 ---
 <details>
