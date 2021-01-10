@@ -9,6 +9,9 @@
 - 🌱 I’m learning how to automate my github flow.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
+<a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
+
+
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
