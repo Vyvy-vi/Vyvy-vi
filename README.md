@@ -104,12 +104,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
----
-<details>
-  <summary>:zap: PROBLEM OF THE DAY:</summary>
-    #TODO
-<!--QOTD:START-->
-<!--QOTD:END-->
-</details>
+
 
 
