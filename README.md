@@ -8,8 +8,10 @@
 - 😭 I'm working on [TearDrops](https://github.com/Vyvy-vi/TearDrops)(Discord Bot)
 - 🌱 I’m learning how to automate my github flow.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
+<br>
 
-<a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
+<a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<br>
 
 
 
