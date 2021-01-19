@@ -13,7 +13,7 @@
 <a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <a href="https://github.com/Vyvy-vi/Vyvy-vi">
