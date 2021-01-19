@@ -13,15 +13,12 @@
 <a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vyom's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <a href="https://github.com/Vyvy-vi/Vyvy-vi">
   <img src="https://profile-readme-git-master.vyvy-vi.vercel.app/api?username=Vyvy-vi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vyom's GitHub Stats" />
 </a></div>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://readme-stats.herokuapp.com/?user=Vyvy-vi&theme=dark" alt="Vyom's GitHub Streak Stats" />
-</a>
 </p>
 
 
@@ -30,7 +27,6 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,8 +80,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 Processing               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
 </details>
