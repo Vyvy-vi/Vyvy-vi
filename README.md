@@ -27,6 +27,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,6 +81,8 @@ JavaScript               2 repos             █░░░░░░░░░░�
 Processing               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 </details>
