@@ -70,6 +70,3 @@ assistant-bee            1 hr 3 mins         █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-
-
-[![TEST](https://res.cloudinary.com/marcomontalbano/image/upload/v1611206161/video_to_markdown/images/google-drive--1aEN-tbS1ks_D6IQG3P-6McKjW6uZ0n87-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1aEN-tbS1ks_D6IQG3P-6McKjW6uZ0n87/view?usp=sharing "TEST")
