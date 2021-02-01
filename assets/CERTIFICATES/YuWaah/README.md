@@ -1,0 +1,2 @@
+Awarded 'Long Lasting Idea' and special mention in 30 most inspiring shortlisted project stories at UNICEF - YuWaah - DFC #ImaginationUnlimited Youth Challenge.
+The project titled 'Sanitizing Fake News' focused on exploring different solutions to tackle fake news in the current booming, highly polarisable world of social media and to implement and suggest which solution might be considerable, moving along in the future.
