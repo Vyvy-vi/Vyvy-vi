@@ -3,7 +3,7 @@
 ![](test.svg)
 
 
-![fcc](https://freecodecamp.org)
+![fcc](https://freecodecamp.org/learn)
 
 ##### about:
 - Currently I am a student.
