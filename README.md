@@ -1,7 +1,5 @@
 ### Hello World!
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
 ##### about:
 - Currently I am a student.
 - 🔭 I’m currently working on my github actions and my profile-readme. 
