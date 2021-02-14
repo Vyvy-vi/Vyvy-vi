@@ -1,6 +1,6 @@
 ### Hello World!
 
-<a href="github.com" target="blank">New Tab</a>
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 
 ##### about:
 - Currently I am a student.
