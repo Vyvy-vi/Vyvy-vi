@@ -1,6 +1,6 @@
 ### Hello World!
 
-[open](test.svg)
+![](test.svg)
 
 ##### about:
 - Currently I am a student.
