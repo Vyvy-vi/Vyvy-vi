@@ -1,6 +1,6 @@
 ### Hello World!
 
-[Testing](https://github.com/Vyvy-vi/){:target="_blank"}
+<a href="github.com" target="blank">New Tab</a>
 
 ##### about:
 - Currently I am a student.
