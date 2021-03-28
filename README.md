@@ -2,11 +2,9 @@
 
 ##### about:
 - Currently I am a student.
-- 🔭 I’m currently working on my github actions and my profile-readme. 
 - 🌱 I’m currently learning C, intermediate Python.
 - 🌱 I’m learning how to make better documentation.
 - 😭 I'm working on [TearDrops](https://github.com/Vyvy-vi/TearDrops)(Discord Bot)
-- 🌱 I’m learning how to automate my github flow.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 Checkout my new [portfolio site](https://vyvy-vi.github.io/portfolio) 🙃
