@@ -58,6 +58,6 @@ hacktoberfest-practice   24 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
 </details>
