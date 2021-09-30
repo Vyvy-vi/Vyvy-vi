@@ -4,7 +4,8 @@
 - Currently I am a student.
 - 🌱 I’m currently learning C, intermediate Python.
 - 🌱 I’m learning how to make better documentation.
-- 😭 I'm working on [TearDrops](https://github.com/Vyvy-vi/TearDrops)(Discord Bot)
+- 😭 I'm working on [Heptagram API](https://github.com/Heptagram-Bot/api)
+
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 <p align="center">
