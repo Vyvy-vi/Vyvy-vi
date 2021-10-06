@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-  <a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
+  <a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
 </p>
 
 [![Vyom's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
