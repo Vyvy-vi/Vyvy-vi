@@ -4,7 +4,7 @@
 - Currently I am a student.
 - 🌱 I’m currently learning C, intermediate Python.
 - 🌱 I’m learning how to make better documentation.
-- 😭 I'm working on [Heptagram API](https://github.com/Heptagram-Bot/api)
+- 🌱 I'm working on [Heptagram API](https://github.com/Heptagram-Bot/api)
 
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
