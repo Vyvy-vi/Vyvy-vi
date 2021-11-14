@@ -4,7 +4,7 @@
 - Currently I am a student.
 - 🌱 I’m currently learning C, intermediate Python.
 - 🌱 I’m learning how to make better documentation.
-- 👨‍💻 I'm working on [Bottish API](https://github.com/Vyvy-vi/api)
+- 👨‍💻 I'm working on [Botish API](https://github.com/Vyvy-vi/api)
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 <p align="center">
