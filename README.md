@@ -60,6 +60,6 @@ puzzle-2---elf-coffee-sho19 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 </details>
