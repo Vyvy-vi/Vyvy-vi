@@ -19,7 +19,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2037%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -61,6 +61,6 @@ challenge-0-simple-nft   6 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 </details>
