@@ -19,8 +19,6 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%205%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -61,6 +59,6 @@ jquery.terminal          2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/02/2022 18:11:23 UTC
+ Last Updated on 05/02/2022 19:09:50 UTC
 <!--END_SECTION:waka-->
 </details>
