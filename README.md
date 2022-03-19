@@ -19,7 +19,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2034%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -61,6 +61,6 @@ discord-bot              28 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/03/2022 22:05:11 UTC
+ Last Updated on 19/03/2022 23:04:43 UTC
 <!--END_SECTION:waka-->
 </details>
