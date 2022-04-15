@@ -7,11 +7,6 @@
 - 👨‍💻 I'm working on [Botish API](https://github.com/Vyvy-vi/api)
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
-<p align="center">
-  <a href="https://twitter.com/Vyvy_viM"><img target="_blank" src="https://img.shields.io/badge/twitter%20@Vyvy_viM-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-  <a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
-</p>
-
 [![Vyom's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
