@@ -2,9 +2,8 @@
 
 ##### About:
 - Currently I am a student.
-- 🌱 I’m currently learning C, intermediate Python.
+- 🌱 I’m currently learning about Markov Chains.
 - 🌱 I’m learning how to make better documentation.
-- 👨‍💻 I'm working on [Botish API](https://github.com/Vyvy-vi/api)
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 [![Vyom's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
