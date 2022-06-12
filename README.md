@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%203%20mins-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
@@ -24,7 +24,7 @@
 🌙 Night      269 commits    ████████░░░░░░░░░░░░░░░░░   32.8%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
@@ -38,7 +38,7 @@ Sunday       174 commits    █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
@@ -53,6 +53,6 @@ discord-bot              12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2022 08:04:00 UTC
+ Last Updated on 12/06/2022 09:04:34 UTC
 <!--END_SECTION:waka-->
 </details>
