@@ -13,7 +13,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,6 +50,6 @@ palantir                 44 mins             ███████████�
 ```
 
 
- Last Updated on 17/07/2022 18:04:09 UTC
+ Last Updated on 17/07/2022 19:03:57 UTC
 <!--END_SECTION:waka-->
 </details>
