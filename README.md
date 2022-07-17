@@ -2,7 +2,6 @@
 
 ##### About:
 - Currently I am a student.
-- 🌱 I’m currently learning about Markov Chains.
 - 🌱 I’m learning how to make better documentation.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
