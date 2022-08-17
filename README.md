@@ -12,7 +12,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,6 +50,6 @@ praise                   1 hr 23 mins        █████░░░░░░�
 ```
 
 
- Last Updated on 17/08/2022 10:04:16 UTC
+ Last Updated on 17/08/2022 11:04:16 UTC
 <!--END_SECTION:waka-->
 </details>
