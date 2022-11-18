@@ -12,7 +12,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,6 +53,6 @@ itosp-hackathon          59 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/11/2022 20:04:13 UTC
+ Last Updated on 18/11/2022 21:04:28 UTC
 <!--END_SECTION:waka-->
 </details>
