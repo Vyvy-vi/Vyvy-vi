@@ -5,8 +5,6 @@
 - 🌱 I’m learning how to make better documentation.
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
-[![Vyom's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vyvy-vi)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 <details>
   <summary>:zap: My Activity:</summary>
