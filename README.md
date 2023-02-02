@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2014%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,6 +51,6 @@ advent-of-code-2022      49 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 02/02/2023 18:04:55 UTC
+ Last Updated on 02/02/2023 19:04:05 UTC
 <!--END_SECTION:waka-->
 </details>
