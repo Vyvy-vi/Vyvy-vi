@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -37,14 +37,14 @@ Sunday                   2739 commits        ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-giveth-dapps-v2          3 hrs 18 mins       ██████████████░░░░░░░░░░░   57.16 % 
-praise                   2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+giveth-dapps-v2          3 hrs 44 mins       ███████████████░░░░░░░░░░   60.11 % 
+praise                   2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
 ```
 
 
- Last Updated on 13/07/2023 19:09:38 UTC
+ Last Updated on 13/07/2023 20:09:57 UTC
 <!--END_SECTION:waka-->
 </details>
