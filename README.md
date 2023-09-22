@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,6 +49,6 @@ CSE224-Fundamentals-of-An0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/09/2023 18:11:01 UTC
+ Last Updated on 22/09/2023 19:11:17 UTC
 <!--END_SECTION:waka-->
 </details>
