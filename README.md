@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2048%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -47,6 +47,6 @@ iris-flower-ml           0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/09/2023 18:12:10 UTC
+ Last Updated on 26/09/2023 19:10:23 UTC
 <!--END_SECTION:waka-->
 </details>
