@@ -50,6 +50,6 @@ CSE224-Fundamentals-of-An30 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2023 20:10:18 UTC
+ Last Updated on 14/10/2023 21:10:40 UTC
 <!--END_SECTION:waka-->
 </details>
