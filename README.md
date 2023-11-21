@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2018%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,6 +49,6 @@ Little Lemon Menu        11 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/11/2023 22:12:32 UTC
+ Last Updated on 21/11/2023 23:11:11 UTC
 <!--END_SECTION:waka-->
 </details>
