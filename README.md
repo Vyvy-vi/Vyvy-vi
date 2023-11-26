@@ -6,7 +6,6 @@
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 ---
-<details>
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
@@ -47,4 +46,3 @@ backend                  7 mins              ░░░░░░░░░░░�
 
  Last Updated on 26/11/2023 16:11:40 UTC
 <!--END_SECTION:waka-->
-</details>
