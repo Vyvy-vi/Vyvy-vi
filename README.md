@@ -9,7 +9,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,5 +49,5 @@ cardview                 51 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/08/2024 08:09:20 UTC
+ Last Updated on 14/08/2024 09:08:24 UTC
 <!--END_SECTION:waka-->
