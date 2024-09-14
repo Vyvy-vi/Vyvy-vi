@@ -49,5 +49,5 @@ ResumeBuilder            1 hr 40 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/09/2024 20:10:04 UTC
+ Last Updated on 14/09/2024 21:09:19 UTC
 <!--END_SECTION:waka-->
