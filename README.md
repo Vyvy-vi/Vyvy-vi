@@ -9,7 +9,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2054%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,5 +49,5 @@ ResumeBuilder            1 hr 40 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/09/2024 18:10:02 UTC
+ Last Updated on 16/09/2024 19:09:34 UTC
 <!--END_SECTION:waka-->
