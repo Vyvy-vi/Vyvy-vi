@@ -2,7 +2,8 @@
 
 ##### About:
 - Currently I am a student.
-- 🌱 I’m learning how to make better documentation.
+- 🌱 I’m learning how to make Interpreters
+- 🌱 I'm learning how to make Android Apps
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
 
 ---
