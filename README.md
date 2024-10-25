@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%209%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,5 +50,5 @@ springjpa                1 hr 36 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2024 18:09:12 UTC
+ Last Updated on 25/10/2024 19:08:52 UTC
 <!--END_SECTION:waka-->
