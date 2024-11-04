@@ -10,7 +10,7 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%2014%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -37,12 +37,13 @@ Sunday                   3594 commits        ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-thewriteorder-webapp     5 hrs 9 mins        █████████████████████████   100.00 % 
+thewriteorder-webapp     2 hrs 41 mins       ███████████████████████░░   91.86 % 
+CSF-nodejs               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 ```
 
 
- Last Updated on 04/11/2024 19:09:58 UTC
+ Last Updated on 04/11/2024 20:09:39 UTC
 <!--END_SECTION:waka-->
