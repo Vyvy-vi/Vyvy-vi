@@ -10,8 +10,6 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C677%20hrs%2017%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -44,5 +42,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2025 18:11:16 UTC
+ Last Updated on 15/10/2025 19:09:53 UTC
 <!--END_SECTION:waka-->
