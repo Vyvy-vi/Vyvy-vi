@@ -37,13 +37,12 @@ Sunday                   3710 commits        ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-etp                      0 secs              ██████████████░░░░░░░░░░░   54.41 % 
-FirebaseRealTimeDatabase 0 secs              ███████████░░░░░░░░░░░░░░   45.59 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/11/2025 19:09:41 UTC
+ Last Updated on 06/11/2025 20:11:19 UTC
 <!--END_SECTION:waka-->
