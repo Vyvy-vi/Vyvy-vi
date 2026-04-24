@@ -23,9 +23,11 @@ PFX = STATE + "_"
 
 # File paths - updated for macOS
 IN_PATH = r"C:\Users\Anish\Desktop\A2_Data_Vis"
+#IN_PATH="/Users/vy/dump"
 ELECT_DATA_FILE = join(IN_PATH, "countypres_2000-2020_v02.csv")
 MAYA_OBJ_FILE = join(IN_PATH, "GA_County_geom_v01.ma")
 
+#OUT_PATH='/Users/vy/dump'
 OUT_PATH = r"C:\Users\Anish\Desktop\A2_Data_Vis"
 OUT_FILE = "VFX260_04_202630_JainNishchay_A2_Render.jpg"
 
@@ -84,8 +86,13 @@ def manip_elect():
 
     # Find max population for scaling
     max_population = max([data['total'] for data in county_data.values()]) if county_data else 1
+    print(f"Max population (votes) across all counties: {max_population:,.0f}")
 
     # Calculate heights and blended colors
+    print(f"\nProcessing {len(county_data)} counties...")
+    print(f"{'County':<20} {'Total Votes':>12} {'Dem %':>8} {'Height':>8} {'Color (R,G,B)':>25}")
+    print("-" * 75)
+
     for county_name, data in county_data.items():
         total_votes = data['total']
         dem_votes = data['dem']
@@ -102,7 +109,10 @@ def manip_elect():
 
         clean_elect[county_name] = {'height': height, 'color': (r, g, b)}
 
-    print(f"Successfully processed {len(clean_elect)} counties.")
+        print(f"{county_name:<20} {total_votes:>12,.0f} {dem_ratio*100:>7.1f}% {height:>8.2f} ({r:.2f},{g:.2f},{b:.2f})")
+
+    print(clean_elect)
+    print(f"\nSuccessfully processed {len(clean_elect)} counties.")
 
 
 def apply_to_maya_geo():
@@ -110,7 +120,7 @@ def apply_to_maya_geo():
 
     # Open Maya file
     if not os.path.exists(MAYA_OBJ_FILE):
-        print(f"Error: Maya file not found at {MAYA_OBJ_FILE}")
+        print("Error: Maya file not found at {}".format(MAYA_OBJ_FILE))
         return
 
     cmds.file(MAYA_OBJ_FILE, open=True, force=True)
@@ -123,48 +133,59 @@ def apply_to_maya_geo():
         color = data['color']
 
         if cmds.objExists(obj_name):
-            cmds.select(obj_name+'.f[0]')
+            # Select object and switch to component mode
+            cmds.select(obj_name, r=True)
+            cmds.selectMode(co=True)
+            cmds.select(obj_name + '.f[0]', r=True)
 
-            # Create and assign shader
-            shd = cmds.shadingNode('lambert', name=obj_name + "_shd", asShader=True)
+            # Extrude the face
+            extrude_node = cmds.polyExtrudeFacet(obj_name + '.f[0]', ch=True, kft=True, divisions=1, twist=0, taper=1, off=0, thickness=0, smoothingAngle=30)
+            cmds.setAttr(extrude_node[0] + ".thickness", height)
+
+            # Create and assign shader with blended color
+            shd = cmds.shadingNode('lambert', name=obj_name + '_shd', asShader=True)
             cmds.setAttr(shd + ".color", color[0], color[1], color[2])
+            cmds.select(obj_name)
             cmds.hyperShade(assign=shd)
 
-            # Extrude based on normalized population data
-            cmds.polyExtrudeFacet(tk=height)
+            # Return to object mode
+            cmds.select(cl=True)
+            cmds.selectMode(o=True)
         else:
-            print(f"Warning: Geometry {obj_name} not found in scene.")
+            print("Warning: Geometry {} not found in scene.".format(obj_name))
+
+    print("Applied extrusion and colors to all counties.")
 
     # Set camera view
-    cmds.select("persp")
-    cmds.viewFit()
-    cmds.xform(translation=(-20, 35.4, 45), rotation=(-38.3, -17.6, 7), worldSpace=True)
-    cmds.select(cl=True)
+    # cmds.select("persp")
+    # cmds.viewFit()
+    # cmds.xform(translation=(-20, 35.4, 45), rotation=(-38.3, -17.6, 7), worldSpace=True)
+    # cmds.select(cl=True)
 
     # Render
-    render_current_frame()
+    # render_current_frame()
 
 
-def render_current_frame():
-    """Render current viewport to JPEG"""
-    print("Beginning render...")
+# def render_current_frame():
+#     """Render current viewport to JPEG"""
+#     print("Beginning render...")
 
-    # Ensure output directory exists
-    if not os.path.exists(OUT_PATH):
-        os.makedirs(OUT_PATH)
+#     # Ensure output directory exists
+#     if not os.path.exists(OUT_PATH):
+#         os.makedirs(OUT_PATH)
 
-    output_full_path = join(OUT_PATH, OUT_FILE)
+#     output_full_path = join(OUT_PATH, OUT_FILE)
 
-    # Set JPEG format and render
-    cmds.setAttr("defaultRenderGlobals.imageFormat", 8)
-    current_frame = cmds.currentTime(query=True)
+#     # Set JPEG format and render
+#     cmds.setAttr("defaultRenderGlobals.imageFormat", 8)
+#     current_frame = cmds.currentTime(query=True)
 
-    try:
-        cmds.playblast(completeFilename=output_full_path, frame=[current_frame],
-                       format="image", widthHeight=[1920, 1080], viewer=False, offScreen=True)
-        print(f"Rendered image saved to: {output_full_path}")
-    except Exception as e:
-        print(f"Error during render: {e}")
+#     try:
+#         cmds.playblast(completeFilename=output_full_path, frame=[current_frame],
+#                        format="image", widthHeight=[1920, 1080], viewer=False, offScreen=True)
+#         print(f"Rendered image saved to: {output_full_path}")
+#     except Exception as e:
+#         print(f"Error during render: {e}")
 
 
 def main():
