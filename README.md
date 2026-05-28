@@ -10,6 +10,40 @@
   <summary>:zap: My Activity:</summary>
   
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 17:24:23 UTC
+```text
+🌞 Morning                2227 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+🌆 Daytime                7160 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌃 Evening                6095 commits        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+🌙 Night                  6098 commits        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3204 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Tuesday                  2828 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Wednesday                4920 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Thursday                 2759 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   2065 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Saturday                 1956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Sunday                   3848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+newton_cradle            3 hrs 25 mins       █████████████████████░░░░   84.93 % 
+Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+vy                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+dump                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+ Last Updated on 28/05/2026 19:01:06 UTC
 <!--END_SECTION:waka-->
